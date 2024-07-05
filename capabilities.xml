@@ -1,0 +1,50 @@
+<themeCapabilities>
+   
+	<themeName>Horizon</themeName>
+   
+	<!--
+	///
+	Aspect Ratios
+	///
+	-->
+	<aspectRatio>16:9</aspectRatio>
+	<aspectRatio>4:3</aspectRatio>
+	<aspectRatio>16:10</aspectRatio>
+	<aspectRatio>19.5:9</aspectRatio>
+	<aspectRatio>3:2</aspectRatio>
+	<aspectRatio>5:4</aspectRatio>
+	<aspectRatio>21:9</aspectRatio>
+	<aspectRatio>32:9</aspectRatio>
+	<aspectRatio>1:1</aspectRatio>
+
+	<!--
+	///
+	Transitions
+	///
+	-->
+	<transitions name="transitions">
+		<label>transitions</label>
+		<selectable>false</selectable>
+		<systemToSystem>instant</systemToSystem>
+		<systemToGamelist>slide</systemToGamelist>
+		<gamelistToGamelist>slide</gamelistToGamelist>
+		<gamelistToSystem>slide</gamelistToSystem>
+		<startupToSystem>fade</startupToSystem>
+		<startupToGamelist>fade</startupToGamelist>
+	</transitions>
+	<suppressTransitionProfiles>
+		<entry>builtin-instant</entry>
+		<entry>builtin-slide</entry>
+		<entry>builtin-fade</entry>
+	</suppressTransitionProfiles>
+   
+	<!--
+	///
+	Variants
+	-->
+	<variant name="gamelist-carousel">
+		<label>Carousel</label>
+		<selectable>false</selectable>
+	</variant>
+
+</themeCapabilities>

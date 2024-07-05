@@ -1,0 +1,252 @@
+<!--
+theme name:    Horizon
+designed by:   Rob Zombie
+-->
+
+<theme>
+
+	<include>./_inc/systems/metadata-global/_default.xml</include>
+	<include>./_inc/systems/metadata-global/${system.theme}.xml</include>
+
+	<variables>
+		<spacerImage>./_inc/images/space.png</spacerImage>
+		<fontMediumSansSerif>./_inc/fonts/RobotoSlab-Medium.ttf</fontMediumSansSerif>
+		<fontMedium>./_inc/fonts/Montserrat-Medium.ttf</fontMedium>
+		<fontCondensed>./_inc/fonts/RobotoCondensed-Medium.ttf</fontCondensed>
+	</variables>
+
+	<!--
+	///
+	All Views
+	///
+	-->
+	<view name="system,gamelist">
+		<image name="system-background">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>${spacerImage}</path>
+			<tile>true</tile>
+			<color>${systemColor}</color>
+			<colorEnd>${systemColor}4D</colorEnd>
+			<gradientType>vertical</gradientType>
+			<zIndex>1</zIndex>
+		</image>
+		<helpsystem name="help">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.925</pos>
+			<fontSize>0.026</fontSize><!-- 28 -->
+			<fontSizeDimmed>0.026</fontSizeDimmed><!-- 28 -->
+			<fontPath>${fontMedium}</fontPath>
+			<letterCase>capitalize</letterCase>
+			<iconColor>ffffff</iconColor>
+			<textColor>ffffff</textColor>
+			<originDimmed>0.5 0</originDimmed>
+			<posDimmed>0.5 0.94</posDimmed>
+			<textColorDimmed>cccccc</textColorDimmed>
+			<iconColorDimmed>cccccc</iconColorDimmed>
+			<opacityDimmed>1.0</opacityDimmed>
+		</helpsystem>
+	</view>
+
+	<!--
+	///
+	System View
+	///
+	-->
+	<view name="system">
+		<carousel name="system-carousel">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.3</pos>
+			<size>1 0.6</size>
+			<itemVerticalAlignment>center</itemVerticalAlignment>
+			<unfocusedItemOpacity>1</unfocusedItemOpacity>
+			<unfocusedItemDimming>0.8</unfocusedItemDimming>
+			<itemScale>1.1</itemScale>
+			<staticImage>./_inc/systems/artwork/${system.theme}.jpg</staticImage>
+			<imageCornerRadius>0.015</imageCornerRadius>
+			<fastScrolling>true</fastScrolling>
+			<color>00000000</color>
+		</carousel>
+		<image name="system-logo">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.1</pos>
+			<maxSize>0.3 0.1</maxSize>
+			<path>./_inc/systems/logos/${system.theme}.svg</path>
+		</image>
+		<text name="system-game-count">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.205</pos>
+			<fontSize>0.03</fontSize> 
+			<fontPath>${fontMediumSansSerif}</fontPath>
+			<systemdata>gamecount</systemdata>
+			<color>ffffff</color>
+		</text>
+		<text name="system-metadata">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.25</pos><!-- 1300 580 -->
+			<size>0 0</size>
+			<fontSize>0.026</fontSize>
+			<fontPath>${fontMedium}</fontPath>
+			<text>${systemManufacturer}  ${systemReleaseYear}</text>
+			<letterCase>uppercase</letterCase>
+			<color>ffffff</color>
+		</text>
+	</view>
+   
+	<!--
+	///
+	Gamelist View: Carousel
+	///
+	-->
+	<variant name="gamelist-carousel">
+		<include>./_inc/systems/coversize/${systemCoverSize}.xml</include>
+		<view name="gamelist">
+			<carousel name="game-carousel">
+				<origin>0.5 0</origin>
+				<pos>0.5 0.325</pos>
+				<size>1 0.6</size>
+				<unfocusedItemOpacity>1</unfocusedItemOpacity>
+				<unfocusedItemDimming>0.8</unfocusedItemDimming>
+				<imageType>cover</imageType>
+				<imageCornerRadius>0.015</imageCornerRadius>
+				<fastScrolling>true</fastScrolling>
+				<color>00000000</color>
+				<textColor>ffffff</textColor>
+				<textBackgroundColor>33333340</textBackgroundColor>
+				<fontSize>0.03</fontSize>
+			</carousel>
+			<text name="gamelist-name">
+				<origin>0.5 0</origin>
+				<pos>0.5 0.1</pos>
+				<size>0.9 0.1</size>
+				<horizontalAlignment>center</horizontalAlignment>
+				<fontSize>0.05</fontSize>
+				<fontPath>${fontCondensed}</fontPath>
+				<metadata>name</metadata>
+				<color>ffffff</color>
+			</text> 
+			<rating name="gamelist-rating">
+				<origin>0.5 0</origin>
+				<pos>0.5 0.215</pos>
+				<size>0 0.025</size>
+				<filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+				<unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
+				<overlay>false</overlay>
+				<color>ffffff</color>
+			</rating>
+			<text name="gamelist-genre">
+				<origin>0.5 0</origin>
+				<pos>0.5 0.25</pos>
+				<size>0 0</size>
+				<fontSize>0.026</fontSize>
+				<fontPath>${fontMedium}</fontPath>
+				<metadata>genre</metadata>
+				<defaultValue>:space:</defaultValue>
+				<color>ffffff</color>
+			</text>
+			<badges name="badges">
+				<origin>0.5 0</origin>
+				<pos>0.5 0.3</pos>
+				<size>1 0.026</size>
+				<horizontalAlignment>center</horizontalAlignment>
+				<itemMargin>0.002 -1</itemMargin>
+				<lines>1</lines>
+				<itemsPerLine>8</itemsPerLine>
+				<slots>all</slots>
+				<customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
+				<customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
+				<customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
+				<customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
+				<customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
+				<customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
+				<customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
+				<customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
+				<customBadgeIcon badge="manual">./_inc/images/badge-manual.svg</customBadgeIcon>
+				<badgeIconColor>ffffff</badgeIconColor>
+				<controllerSize>0.8</controllerSize>
+				<folderLinkSize>0.8</folderLinkSize>
+			</badges>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Aspect Ratios
+	///
+	-->
+	
+	<aspectRatio name="1:1">
+        <view name="system">
+			<carousel name="system-carousel">
+				<itemSize>0.28 0.43076</itemSize> 
+				<maxItemCount>3</maxItemCount>
+			</carousel>
+		</view>
+    </aspectRatio>
+	
+	<aspectRatio name="5:4, 4:3, 3:2">
+        <view name="system">
+			<carousel name="system-carousel">
+				<itemSize>0.325 0.5</itemSize> 
+				<maxItemCount>3</maxItemCount>
+			</carousel>
+		</view>
+    </aspectRatio>
+	
+	<aspectRatio name="16:9">
+        <view name="system">
+			<carousel name="system-carousel">
+				<itemSize>0.29 0.4461538461</itemSize> 
+				<maxItemCount>5</maxItemCount>
+				<selectedItemMargins>0.01 0.01</selectedItemMargins>
+			</carousel>
+		</view>
+    </aspectRatio>
+	
+	<aspectRatio name="16:10">
+        <view name="system">
+			<carousel name="system-carousel">
+				<itemSize>0.26 0.4</itemSize> 
+				<maxItemCount>5</maxItemCount>
+				
+			</carousel>
+		</view>
+    </aspectRatio>
+	
+	<aspectRatio name="19.5:9, 21:9">
+        <view name="system">
+			<carousel name="system-carousel">
+				<itemSize>0.325 0.5</itemSize> 
+				<maxItemCount>5</maxItemCount>
+			</carousel>
+		</view>
+    </aspectRatio>
+
+    <aspectRatio name="32:9">
+        <view name="system">
+			<carousel name="system-carousel">
+				<itemSize>0.325 0.5</itemSize> 
+				<maxItemCount>7</maxItemCount>
+				<selectedItemMargins>0.0078125 0.0078125</selectedItemMargins>
+			</carousel>
+		</view>
+    </aspectRatio>
+	
+	<aspectRatio name="4:3, 5:4, 1:1, 3:2">
+		<view name="gamelist">
+			<text name="gamelist-name">
+				<fontSize>0.05</fontSize>
+			</text>
+		</view>
+    </aspectRatio>
+
+    <aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 32:9">
+		<view name="gamelist">
+			<text name="gamelist-name">
+				<fontSize>0.065</fontSize>
+			</text>
+		</view>
+    </aspectRatio>
+	
+</theme>

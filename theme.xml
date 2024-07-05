@@ -125,6 +125,7 @@ designed by:   Rob Zombie
 				<fontPath>${fontCondensed}</fontPath>
 				<metadata>name</metadata>
 				<color>ffffff</color>
+				<letterCase>uppercase</letterCase>
 			</text> 
 			<rating name="gamelist-rating">
 				<origin>0.5 0</origin>

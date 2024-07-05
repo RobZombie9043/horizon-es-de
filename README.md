@@ -2,9 +2,9 @@
 A clean and minimalist design theme for ES-DE
 
 ## **Preview**
-| System View | Gamelist View: Carousel |
+| System View | Gamelist View |
 |----|----|
-| ![Horizon-SystemView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/83654fce-65a6-4254-8009-8aa43927b010) | ![Horizon-GameView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/cf86af56-7b7c-474e-b041-13d6e6734147) |
+|![Horizon-SystemView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/d03a0b5d-be4d-490f-95cf-044fd5b7b27a) | ![Horizon-GameView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/254be2cc-7f53-4c35-b986-94bb9b88301d) |
 
 ## **Configuration Options**
 

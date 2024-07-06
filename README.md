@@ -8,7 +8,7 @@ A clean and minimalist design theme for ES-DE
 
 | Gamelist - Carousel View | Gamelist - List View |
 |----|----|
-| ![Screenshot_20240706-134957](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/d2d7f5d5-ff2b-4241-becc-09e61e13fc33) | ![Screenshot_20240706-135144](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/f3f2749a-73cc-49e7-adab-d08867357967) |
+| ![Screenshot_20240706-134957](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/d2d7f5d5-ff2b-4241-becc-09e61e13fc33) |![Screenshot_20240706-161135](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/14f8f11f-fb65-454d-9f9c-f06cea5d6abb) |
 
 
 ## **Configuration Options**

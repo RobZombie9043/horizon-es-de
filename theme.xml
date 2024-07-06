@@ -116,17 +116,19 @@ designed by:   Rob Zombie
 				<textBackgroundColor>33333340</textBackgroundColor>
 				<fontSize>0.03</fontSize>
 			</carousel>
-			<text name="gamelist-name">
-				<origin>0.5 0</origin>
-				<pos>0.5 0.1</pos>
-				<size>0.9 0.1</size>
+			<text name="carousel-name">
+				<origin>0.5 1</origin>
+				<pos>0.5 0.2</pos>
+				<size>0.9 0.2</size>
+				<lineSpacing>1.1</lineSpacing>
 				<horizontalAlignment>center</horizontalAlignment>
+				<verticalAlignment>bottom</verticalAlignment>
 				<fontPath>${fontCondensed}</fontPath>
 				<metadata>name</metadata>
 				<color>ffffff</color>
 				<letterCase>uppercase</letterCase>
 			</text> 
-			<rating name="gamelist-rating">
+			<rating name="carousel-rating">
 				<origin>0.5 0</origin>
 				<pos>0.5 0.215</pos>
 				<size>0 0.025</size>
@@ -135,7 +137,7 @@ designed by:   Rob Zombie
 				<overlay>false</overlay>
 				<color>ffffff</color>
 			</rating>
-			<text name="gamelist-genre">
+			<text name="carousel-genre">
 				<origin>0.5 0</origin>
 				<pos>0.5 0.25</pos>
 				<size>0 0</size>
@@ -145,7 +147,7 @@ designed by:   Rob Zombie
 				<defaultValue>:space:</defaultValue>
 				<color>ffffff</color>
 			</text>
-			<badges name="badges">
+			<badges name="carousel-badges">
 				<origin>0.5 0</origin>
 				<pos>0.5 0.3</pos>
 				<size>1 0.026</size>
@@ -170,6 +172,105 @@ designed by:   Rob Zombie
 		</view>
 	</variant>
 	
+	<!--
+	///
+	Gamelist View: Gamelist
+	///
+	-->
+	<variant name="gamelist-gamelist">
+		<view name="gamelist">
+			<image name ="game-textlist-background">
+				<origin>0.5 0.5</origin>
+				<pos>0.75 0.5</pos>
+				<size>0.45 0.75</size>
+				<path>${spacerImage}</path>
+				<tile>true</tile>
+				<color>1111111A</color>
+				<colorEnd>1111114D</colorEnd>
+				<gradientType>vertical</gradientType>
+				<cornerRadius>0.02</cornerRadius>
+				</image>
+			<textlist name="game-textlist">
+				<origin>0.5 0.5</origin>
+				<pos>0.75 0.5</pos> <!-- 44 239 -->
+				<size>0.4 0.70</size> <!-- 384 752 -->
+				<fontPath>${fontMedium}</fontPath>
+				<fontSize>0.025925925925926</fontSize><!-- 28 -->
+				<lineSpacing>1.75</lineSpacing>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>ffffff</secondaryColor>
+				<selectedColor>${systemColor}</selectedColor>
+				<selectedSecondaryColor>${systemColor}</selectedSecondaryColor>
+				<selectedBackgroundColor>ffffff</selectedBackgroundColor>
+				<selectedSecondaryBackgroundColor>ffffff</selectedSecondaryBackgroundColor>
+				<selectedBackgroundMargins>0.0129629 0.0129629</selectedBackgroundMargins>
+				<selectedBackgroundCornerRadius>0.5</selectedBackgroundCornerRadius>
+				<selectorColor>00000000</selectorColor>
+				<textHorizontalScrolling>true</textHorizontalScrolling>
+			</textlist>
+			<text name="gamelist-name">
+				<origin>0.5 1</origin>
+				<pos>0.25 0.2</pos>
+				<size>0.45 0.15</size>
+				<lineSpacing>1.1</lineSpacing>
+				<horizontalAlignment>center</horizontalAlignment>
+				<verticalAlignment>bottom</verticalAlignment>
+				<fontPath>${fontCondensed}</fontPath>
+				<metadata>name</metadata>
+				<color>ffffff</color>
+				<letterCase>uppercase</letterCase>
+			</text> 
+			<rating name="gamelist-rating">
+				<origin>0.5 0</origin>
+				<pos>0.25 0.215</pos>
+				<size>0 0.025</size>
+				<filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+				<unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
+				<overlay>false</overlay>
+				<color>ffffff</color>
+			</rating>
+			<text name="gamelist-genre">
+				<origin>0.5 0</origin>
+				<pos>0.25 0.257</pos>
+				<size>0.45 0.026</size>
+				<horizontalAlignment>center</horizontalAlignment>
+				<fontSize>0.026</fontSize>
+				<fontPath>${fontMedium}</fontPath>
+				<metadata>genre</metadata>
+				<defaultValue>:space:</defaultValue>
+				<color>ffffff</color>
+			</text>
+			<badges name="gamelist-badges">
+				<origin>0.5 0</origin>
+				<pos>0.25 0.3</pos>
+				<size>1 0.026</size>
+				<horizontalAlignment>center</horizontalAlignment>
+				<itemMargin>0.002 -1</itemMargin>
+				<lines>1</lines>
+				<itemsPerLine>8</itemsPerLine>
+				<slots>all</slots>
+				<customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
+				<customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
+				<customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
+				<customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
+				<customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
+				<customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
+				<customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
+				<customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
+				<customBadgeIcon badge="manual">./_inc/images/badge-manual.svg</customBadgeIcon>
+				<badgeIconColor>ffffff</badgeIconColor>
+				<controllerSize>0.8</controllerSize>
+				<folderLinkSize>0.8</folderLinkSize>
+			</badges>
+			<image name="gamelist-cover">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.6125</pos>
+				<maxSize>0.4 0.525</maxSize>
+				<imageType>cover</imageType>
+				<cornerRadius>0.02</cornerRadius>
+			</image>
+		</view>
+	</variant>
 	<!--
 	///
 	Aspect Ratios
@@ -209,7 +310,6 @@ designed by:   Rob Zombie
 			<carousel name="system-carousel">
 				<itemSize>0.26 0.4</itemSize> 
 				<maxItemCount>5</maxItemCount>
-				
 			</carousel>
 		</view>
     </aspectRatio>
@@ -235,6 +335,9 @@ designed by:   Rob Zombie
 	
 	<aspectRatio name="4:3, 5:4, 1:1, 3:2">
 		<view name="gamelist">
+			<text name="carousel-name">
+				<fontSize>0.05</fontSize>
+			</text>
 			<text name="gamelist-name">
 				<fontSize>0.05</fontSize>
 			</text>
@@ -243,6 +346,9 @@ designed by:   Rob Zombie
 
     <aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 32:9">
 		<view name="gamelist">
+			<text name="carousel-name">
+				<fontSize>0.065</fontSize>
+			</text>
 			<text name="gamelist-name">
 				<fontSize>0.065</fontSize>
 			</text>

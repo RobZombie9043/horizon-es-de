@@ -4,7 +4,7 @@ A clean and minimalist design theme for ES-DE
 ## **Preview**
 | System View | Gamelist View |
 |----|----|
-|![Horizon-SystemView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/d03a0b5d-be4d-490f-95cf-044fd5b7b27a) | ![Horizon-GameView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/254be2cc-7f53-4c35-b986-94bb9b88301d) |
+| ![Horizon-SystemView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/64ced68e-d510-4d10-aef2-94f53728fed7) |![Horizon-GameView](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/e5c3bed5-5398-4e8d-a845-e9291b28b182) |
 
 ## **Configuration Options**
 

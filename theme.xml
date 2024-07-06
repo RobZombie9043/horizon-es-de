@@ -33,7 +33,7 @@ designed by:   Rob Zombie
 			<zIndex>1</zIndex>
 		</image>
 		<helpsystem name="help">
-			<origin>0.5 0.5</origin>
+			<origin>0.5 0</origin>
 			<pos>0.5 0.925</pos>
 			<fontSize>0.026</fontSize><!-- 28 -->
 			<fontSizeDimmed>0.026</fontSizeDimmed><!-- 28 -->
@@ -130,20 +130,22 @@ designed by:   Rob Zombie
 			</text> 
 			<rating name="carousel-rating">
 				<origin>0.5 0</origin>
-				<pos>0.5 0.215</pos>
-				<size>0 0.025</size>
+				<pos>0.5 0.255</pos>
+				<size>1 0.025</size>
 				<filledPath>./_inc/images/icon-star-filled.svg</filledPath>
 				<unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
 				<overlay>false</overlay>
 				<color>ffffff</color>
 			</rating>
-			<text name="carousel-genre">
+			<text name="carousel-systemname">
 				<origin>0.5 0</origin>
-				<pos>0.5 0.25</pos>
-				<size>0 0</size>
+				<pos>0.5 0.215</pos>
+				<size>1 0.026</size>
+				<horizontalAlignment>center</horizontalAlignment>
 				<fontSize>0.026</fontSize>
 				<fontPath>${fontMedium}</fontPath>
-				<metadata>genre</metadata>
+				<metadata>systemFullname</metadata>
+				<metadataElement>true</metadataElement>
 				<defaultValue>:space:</defaultValue>
 				<color>ffffff</color>
 			</text>
@@ -179,7 +181,7 @@ designed by:   Rob Zombie
 	-->
 	<variant name="gamelist-gamelist">
 		<view name="gamelist">
-			<image name ="game-textlist-background">
+			<image name ="gamelist-textlist-background">
 				<origin>0.5 0.5</origin>
 				<pos>0.75 0.5</pos>
 				<size>0.4 0.75</size>
@@ -190,12 +192,12 @@ designed by:   Rob Zombie
 				<gradientType>vertical</gradientType>
 				<cornerRadius>0.02</cornerRadius>
 				</image>
-			<textlist name="game-textlist">
+			<textlist name="gamelist-textlist">
 				<origin>0.5 0.5</origin>
-				<pos>0.75 0.5</pos> <!-- 44 239 -->
-				<size>0.35 0.70</size> <!-- 384 752 -->
+				<pos>0.75 0.5</pos>
+				<size>0.35 0.70</size> 
 				<fontPath>${fontMedium}</fontPath>
-				<fontSize>0.025925925925926</fontSize><!-- 28 -->
+				<fontSize>0.026</fontSize>
 				<lineSpacing>1.75</lineSpacing>
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>ffffff</secondaryColor>
@@ -203,7 +205,7 @@ designed by:   Rob Zombie
 				<selectedSecondaryColor>${systemColor}</selectedSecondaryColor>
 				<selectedBackgroundColor>ffffff</selectedBackgroundColor>
 				<selectedSecondaryBackgroundColor>ffffff</selectedSecondaryBackgroundColor>
-				<selectedBackgroundMargins>0.0129629 0.0129629</selectedBackgroundMargins>
+				<selectedBackgroundMargins>0.013 0.013</selectedBackgroundMargins>
 				<selectedBackgroundCornerRadius>0.5</selectedBackgroundCornerRadius>
 				<selectorColor>00000000</selectorColor>
 				<textHorizontalScrolling>true</textHorizontalScrolling>
@@ -222,21 +224,22 @@ designed by:   Rob Zombie
 			</text> 
 			<rating name="gamelist-rating">
 				<origin>0.5 0</origin>
-				<pos>0.25 0.215</pos>
-				<size>0 0.025</size>
+				<pos>0.25 0.255</pos>
+				<size>1 0.025</size>
 				<filledPath>./_inc/images/icon-star-filled.svg</filledPath>
 				<unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
 				<overlay>false</overlay>
 				<color>ffffff</color>
 			</rating>
-			<text name="gamelist-genre">
+			<text name="gamelist-systemname">
 				<origin>0.5 0</origin>
-				<pos>0.25 0.257</pos>
+				<pos>0.25 0.215</pos>
 				<size>0.45 0.026</size>
 				<horizontalAlignment>center</horizontalAlignment>
 				<fontSize>0.026</fontSize>
 				<fontPath>${fontMedium}</fontPath>
-				<metadata>genre</metadata>
+				<metadata>systemFullname</metadata>
+				<metadataElement>true</metadataElement>
 				<defaultValue>:space:</defaultValue>
 				<color>ffffff</color>
 			</text>

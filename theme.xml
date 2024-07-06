@@ -182,7 +182,7 @@ designed by:   Rob Zombie
 			<image name ="game-textlist-background">
 				<origin>0.5 0.5</origin>
 				<pos>0.75 0.5</pos>
-				<size>0.45 0.75</size>
+				<size>0.4 0.75</size>
 				<path>${spacerImage}</path>
 				<tile>true</tile>
 				<color>1111111A</color>
@@ -193,7 +193,7 @@ designed by:   Rob Zombie
 			<textlist name="game-textlist">
 				<origin>0.5 0.5</origin>
 				<pos>0.75 0.5</pos> <!-- 44 239 -->
-				<size>0.4 0.70</size> <!-- 384 752 -->
+				<size>0.35 0.70</size> <!-- 384 752 -->
 				<fontPath>${fontMedium}</fontPath>
 				<fontSize>0.025925925925926</fontSize><!-- 28 -->
 				<lineSpacing>1.75</lineSpacing>

@@ -87,7 +87,7 @@ license:      	creative commons CC-BY-NC-SA
 		</image>
 		<text name="system-game-count">
 			<origin>0.5 0.5</origin>
-			<pos>0.5 0.22</pos>
+			<pos>0.5 0.228</pos>
 			<fontSize>${systemGameCountFontSize}</fontSize> 
 			<fontPath>${fontMediumSansSerif}</fontPath>
 			<systemdata>gamecount</systemdata>

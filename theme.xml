@@ -48,6 +48,16 @@ designed by:   Rob Zombie
 			<opacityDimmed>1.0</opacityDimmed>
 		</helpsystem>
 	</view>
+	<view name="system">
+		<image name="system-background">
+			<stationary>always</stationary>
+		</image>
+	</view>
+	<view name="gamelist">
+		<image name="system-background">
+			<renderDuringTransitions>false</renderDuringTransitions>
+		</image>
+	</view>
 
 	<!--
 	///
@@ -274,6 +284,7 @@ designed by:   Rob Zombie
 			</image>
 		</view>
 	</variant>
+	
 	<!--
 	///
 	Aspect Ratios

@@ -15,6 +15,16 @@ A clean and minimal theme for ES-DE
 ## **Configuration Options**
 
 - This theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE
+  
+- `Theme Variant` - sets the theme variant adjusting the gamelist view
+   - `Carousel`
+   - `List`
+     
+- `Font Size` - enables you to change the size of the fonts displayed in the theme.
+   - `Medium`
+   - `Large`
+   - `Extra Large`
+     
 - `Theme Aspect Ratio` - sets the aspect ratio the theme will render at. If needed, this can be changed to match the aspect ratio of your screen (though it should happen automatically).
    - `16:9`
    - `16:10`
@@ -25,9 +35,6 @@ A clean and minimal theme for ES-DE
    - `21:9`
    - `32:9`
    - `1:1`
-- `Theme Variant` - sets the theme variant adjusting the gamelist view
-   - `Carousel`
-   - `List`  
 
 ## **Acknowledgements**
 

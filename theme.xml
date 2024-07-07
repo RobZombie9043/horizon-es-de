@@ -167,7 +167,7 @@ license:      	creative commons CC-BY-NC-SA
 				<horizontalAlignment>center</horizontalAlignment>
 				<itemMargin>0.002 -1</itemMargin>
 				<lines>1</lines>
-				<itemsPerLine>8</itemsPerLine>
+				<itemsPerLine>9</itemsPerLine>
 				<slots>all</slots>
 				<customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
 				<customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
@@ -261,7 +261,7 @@ license:      	creative commons CC-BY-NC-SA
 				<horizontalAlignment>center</horizontalAlignment>
 				<itemMargin>0.002 -1</itemMargin>
 				<lines>1</lines>
-				<itemsPerLine>8</itemsPerLine>
+				<itemsPerLine>9</itemsPerLine>
 				<slots>all</slots>
 				<customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
 				<customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>

@@ -56,7 +56,7 @@
 		<selectable>true</selectable>
 	</variant>
 	<variant name="gamelist-gamelist">
-		<label>Gamelist</label>
+		<label>Textlist</label>
 		<selectable>true</selectable>
 	</variant>
 

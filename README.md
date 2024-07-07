@@ -7,7 +7,7 @@ A clean and minimal theme for ES-DE
 | ![Screenshot_20240706-204752](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/549e5386-3b95-4759-b506-42cf25677bd7) |
 
 
-| Gamelist - Carousel View | Gamelist - List View |
+| Gamelist - Carousel View | Gamelist - Textlist View |
 |----|----|
 | ![Screenshot_20240706-204828](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/4456dbbd-06e4-48e1-84b5-b90cb9793fe5) | ![Screenshot_20240706-211158](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/d25fa8cf-3cec-4959-8900-3a2c894b0361) |
 
@@ -18,7 +18,7 @@ A clean and minimal theme for ES-DE
   
 - `Theme Variant` - sets the theme variant adjusting the gamelist view
    - `Carousel`
-   - `List`
+   - `Textist`
      
 - `Font Size` - enables you to change the size of the fonts displayed in the theme.
    - `Medium`

@@ -86,24 +86,42 @@ license:      	creative commons CC-BY-NC-SA
 			<path>./_inc/systems/logos/${system.theme}.svg</path>
 		</image>
 		<text name="system-game-count">
-			<origin>0.5 0</origin>
-			<pos>0.5 0.205</pos>
-			<fontSize>0.03</fontSize> 
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.22</pos>
+			<fontSize>${systemGameCountFontSize}</fontSize> 
 			<fontPath>${fontMediumSansSerif}</fontPath>
 			<systemdata>gamecount</systemdata>
 			<color>ffffff</color>
 		</text>
 		<text name="system-metadata">
-			<origin>0.5 0</origin>
-			<pos>0.5 0.25</pos><!-- 1300 580 -->
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.263</pos><!-- 1300 580 -->
 			<size>0 0</size>
-			<fontSize>0.026</fontSize>
+			<fontSize>${systemMetadataFontSize}</fontSize>
 			<fontPath>${fontMedium}</fontPath>
 			<text>${systemManufacturer}  ${systemReleaseYear}</text>
 			<letterCase>uppercase</letterCase>
 			<color>ffffff</color>
 		</text>
 	</view>
+	<fontSize name="medium">
+			<variables>
+				<systemGameCountFontSize>0.030</systemGameCountFontSize>
+				<systemMetadataFontSize>0.026</systemMetadataFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="large">
+			<variables>
+				<systemGameCountFontSize>0.032</systemGameCountFontSize>
+				<systemMetadataFontSize>0.028</systemMetadataFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="x-large">
+			<variables>
+				<systemGameCountFontSize>0.034</systemGameCountFontSize>
+				<systemMetadataFontSize>0.030</systemMetadataFontSize>
+			</variables>
+		</fontSize>
    
 	<!--
 	///
@@ -131,6 +149,7 @@ license:      	creative commons CC-BY-NC-SA
 				<origin>0.5 1</origin>
 				<pos>0.5 0.2</pos>
 				<size>0.9 0.2</size>
+				<fontSize>${carouselGameNameFontSize}</fontSize>
 				<lineSpacing>1.1</lineSpacing>
 				<horizontalAlignment>center</horizontalAlignment>
 				<verticalAlignment>bottom</verticalAlignment>
@@ -149,11 +168,11 @@ license:      	creative commons CC-BY-NC-SA
 				<color>ffffff</color>
 			</rating>
 			<text name="carousel-systemname">
-				<origin>0.5 0</origin>
-				<pos>0.5 0.215</pos>
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.228</pos>
 				<size>1 0.026</size>
 				<horizontalAlignment>center</horizontalAlignment>
-				<fontSize>0.026</fontSize>
+				<fontSize>${carouselSystemNameFontSize}</fontSize>
 				<fontPath>${fontMedium}</fontPath>
 				<metadata>systemFullname</metadata>
 				<metadataElement>true</metadataElement>
@@ -183,6 +202,24 @@ license:      	creative commons CC-BY-NC-SA
 				<folderLinkSize>0.8</folderLinkSize>
 			</badges>
 		</view>
+		<fontSize name="medium">
+			<variables>
+				<carouselGameNameFontSize>0.065</carouselGameNameFontSize>
+				<carouselSystemNameFontSize>0.026</carouselSystemNameFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="large">
+			<variables>
+				<carouselGameNameFontSize>0.065</carouselGameNameFontSize>
+				<carouselSystemNameFontSize>0.030</carouselSystemNameFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="x-large">
+			<variables>
+				<carouselGameNameFontSize>0.065</carouselGameNameFontSize>
+				<carouselSystemNameFontSize>0.034</carouselSystemNameFontSize>
+			</variables>
+		</fontSize>
 	</variant>
 	
 	<!--
@@ -208,7 +245,7 @@ license:      	creative commons CC-BY-NC-SA
 				<pos>0.75 0.5</pos>
 				<size>0.35 0.70</size> 
 				<fontPath>${fontMedium}</fontPath>
-				<fontSize>0.026</fontSize>
+				<fontSize>${gamelistTextlistFontSize}</fontSize>
 				<lineSpacing>1.75</lineSpacing>
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>ffffff</secondaryColor>
@@ -225,6 +262,7 @@ license:      	creative commons CC-BY-NC-SA
 				<origin>0.5 1</origin>
 				<pos>0.25 0.2</pos>
 				<size>0.45 0.15</size>
+				<fontSize>${gamelistGameNameFontSize}</fontSize>
 				<lineSpacing>1.1</lineSpacing>
 				<horizontalAlignment>center</horizontalAlignment>
 				<verticalAlignment>bottom</verticalAlignment>
@@ -243,11 +281,11 @@ license:      	creative commons CC-BY-NC-SA
 				<color>ffffff</color>
 			</rating>
 			<text name="gamelist-systemname">
-				<origin>0.5 0</origin>
-				<pos>0.25 0.215</pos>
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.228</pos>
 				<size>0.45 0.026</size>
 				<horizontalAlignment>center</horizontalAlignment>
-				<fontSize>0.026</fontSize>
+				<fontSize>${gamelistSystemNameFontSize}</fontSize>
 				<fontPath>${fontMedium}</fontPath>
 				<metadata>systemFullname</metadata>
 				<metadataElement>true</metadataElement>
@@ -284,6 +322,27 @@ license:      	creative commons CC-BY-NC-SA
 				<cornerRadius>0.02</cornerRadius>
 			</image>
 		</view>
+		<fontSize name="medium">
+			<variables>
+				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
+				<gamelistTextlistFontSize>0.026</gamelistTextlistFontSize>
+				<gamelistSystemNameFontSize>0.026</gamelistSystemNameFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="large">
+			<variables>
+				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
+				<gamelistTextlistFontSize>0.030</gamelistTextlistFontSize>
+				<gamelistSystemNameFontSize>0.030</gamelistSystemNameFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="x-large">
+			<variables>
+				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
+				<gamelistTextlistFontSize>0.034</gamelistTextlistFontSize>
+				<gamelistSystemNameFontSize>0.034</gamelistSystemNameFontSize>
+			</variables>
+		</fontSize>
 	</variant>
 	
 	<!--
@@ -347,27 +406,4 @@ license:      	creative commons CC-BY-NC-SA
 			</carousel>
 		</view>
     </aspectRatio>
-	
-	<aspectRatio name="4:3, 5:4, 1:1, 3:2">
-		<view name="gamelist">
-			<text name="carousel-name">
-				<fontSize>0.05</fontSize>
-			</text>
-			<text name="gamelist-name">
-				<fontSize>0.05</fontSize>
-			</text>
-		</view>
-    </aspectRatio>
-
-    <aspectRatio name="16:9, 16:10, 19.5:9, 21:9, 32:9">
-		<view name="gamelist">
-			<text name="carousel-name">
-				<fontSize>0.065</fontSize>
-			</text>
-			<text name="gamelist-name">
-				<fontSize>0.065</fontSize>
-			</text>
-		</view>
-    </aspectRatio>
-	
 </theme>

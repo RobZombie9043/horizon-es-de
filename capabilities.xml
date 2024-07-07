@@ -19,6 +19,15 @@
 
 	<!--
 	///
+	Font Size
+	///
+	-->
+	<fontSize>medium</fontSize>
+	<fontSize>large</fontSize>
+	<fontSize>x-large</fontSize>
+
+	<!--
+	///
 	Transitions
 	///
 	-->

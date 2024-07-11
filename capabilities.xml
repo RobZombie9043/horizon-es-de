@@ -25,7 +25,7 @@
 	<fontSize>medium</fontSize>
 	<fontSize>large</fontSize>
 	<fontSize>x-large</fontSize>
-
+	
 	<!--
 	///
 	Transitions
@@ -55,8 +55,12 @@
 		<label>Carousel</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-gamelist">
+	<variant name="gamelist-textlist">
 		<label>Textlist</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-video">
+		<label>Textlist with Video</label>
 		<selectable>true</selectable>
 	</variant>
 

@@ -15,7 +15,7 @@ license:      	creative commons CC-BY-NC-SA
 		<fontMedium>./_inc/fonts/Montserrat-Medium.ttf</fontMedium>
 		<fontCondensed>./_inc/fonts/RobotoCondensed-Medium.ttf</fontCondensed>
 	</variables>
-
+		
 	<!--
 	///
 	All Views
@@ -85,6 +85,7 @@ license:      	creative commons CC-BY-NC-SA
 			<pos>0.5 0.1</pos>
 			<maxSize>0.3 0.1</maxSize>
 			<path>./_inc/systems/logos/${system.theme}.svg</path>
+			<color>ffffff</color>
 		</image>
 		<text name="system-game-count">
 			<origin>0.5 0.5</origin>
@@ -225,12 +226,12 @@ license:      	creative commons CC-BY-NC-SA
 	
 	<!--
 	///
-	Gamelist View: Gamelist
+	Gamelist View: Textlist common
 	///
 	-->
-	<variant name="gamelist-gamelist">
+	<variant name="gamelist-textlist, gamelist-textlist-video">
 		<view name="gamelist">
-			<image name ="gamelist-textlist-background">
+			<image name ="textlist-background">
 				<origin>0.5 0.5</origin>
 				<pos>0.75 0.5</pos>
 				<size>0.4 0.75</size>
@@ -240,8 +241,8 @@ license:      	creative commons CC-BY-NC-SA
 				<colorEnd>1111114D</colorEnd>
 				<gradientType>vertical</gradientType>
 				<cornerRadius>0.02</cornerRadius>
-				</image>
-			<textlist name="gamelist-textlist">
+			</image>
+			<textlist name="game-textlist">
 				<origin>0.5 0.5</origin>
 				<pos>0.75 0.5</pos>
 				<size>0.35 0.70</size> 
@@ -259,7 +260,7 @@ license:      	creative commons CC-BY-NC-SA
 				<selectorColor>00000000</selectorColor>
 				<textHorizontalScrolling>true</textHorizontalScrolling>
 			</textlist>
-			<text name="gamelist-name">
+			<text name="textlist-name">
 				<origin>0.5 1</origin>
 				<pos>0.25 0.2</pos>
 				<size>0.45 0.15</size>
@@ -272,7 +273,7 @@ license:      	creative commons CC-BY-NC-SA
 				<color>ffffff</color>
 				<letterCase>uppercase</letterCase>
 			</text> 
-			<rating name="gamelist-rating">
+			<rating name="textlist-rating">
 				<origin>0.5 0</origin>
 				<pos>0.25 0.255</pos>
 				<size>1 0.025</size>
@@ -281,7 +282,7 @@ license:      	creative commons CC-BY-NC-SA
 				<overlay>false</overlay>
 				<color>ffffff</color>
 			</rating>
-			<text name="gamelist-systemname">
+			<text name="textlist-systemname">
 				<origin>0.5 0.5</origin>
 				<pos>0.25 0.228</pos>
 				<size>0.45 0.026</size>
@@ -293,10 +294,10 @@ license:      	creative commons CC-BY-NC-SA
 				<defaultValue>:space:</defaultValue>
 				<color>ffffff</color>
 			</text>
-			<badges name="gamelist-badges">
+			<badges name="textlist-badges">
 				<origin>0.5 0</origin>
 				<pos>0.25 0.3</pos>
-				<size>1 0.026</size>
+				<size>0.4 0.026</size>
 				<horizontalAlignment>center</horizontalAlignment>
 				<itemMargin>0.002 -1</itemMargin>
 				<lines>1</lines>
@@ -315,13 +316,6 @@ license:      	creative commons CC-BY-NC-SA
 				<controllerSize>0.8</controllerSize>
 				<folderLinkSize>0.8</folderLinkSize>
 			</badges>
-			<image name="gamelist-cover">
-				<origin>0.5 0.5</origin>
-				<pos>0.25 0.62</pos>
-				<maxSize>0.4 0.51</maxSize>
-				<imageType>cover</imageType>
-				<cornerRadius>0.02</cornerRadius>
-			</image>
 		</view>
 		<fontSize name="medium">
 			<variables>
@@ -344,6 +338,43 @@ license:      	creative commons CC-BY-NC-SA
 				<gamelistSystemNameFontSize>0.034</gamelistSystemNameFontSize>
 			</variables>
 		</fontSize>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Textlist
+	///
+	-->
+	<variant name="gamelist-textlist">
+		<view name="gamelist">
+			<image name="textlist-cover">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.62</pos>
+				<maxSize>0.4 0.51</maxSize>
+				<imageType>cover</imageType>
+				<cornerRadius>0.02</cornerRadius>
+			</image>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Textlist with Video
+	///
+	-->
+	<variant name="gamelist-textlist-video">
+		<view name="gamelist">
+			<video name="textlist-video">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.62</pos>
+				<maxSize>0.4 0.51</maxSize>
+				<videoCornerRadius>0.02</videoCornerRadius>
+				<imageCornerRadius>0.02</imageCornerRadius>
+				<imageType>cover</imageType>
+				<delay>2</delay>
+				<pillarboxes>false</pillarboxes>
+			</video>
+		</view>
 	</variant>
 	
 	<!--

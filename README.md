@@ -19,7 +19,7 @@ A clean and minimal theme for ES-DE
 - `Theme Variant` - sets the theme variant adjusting the gamelist view
    - `Carousel`
    - `Textist`
-   - `Textist with Video`
+   - `Textlist with Video`
      
 - `Font Size` - enables you to change the size of the fonts displayed in the theme.
    - `Medium`

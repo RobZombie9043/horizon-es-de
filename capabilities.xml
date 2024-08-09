@@ -55,12 +55,20 @@
 		<label>Carousel</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-textlist">
-		<label>Textlist</label>
+	<variant name="gamelist-textlist-cover">
+		<label>Textlist - Cover</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-textlist-video">
-		<label>Textlist with Video</label>
+	<variant name="gamelist-textlist-cover-video">
+		<label>Textlist - Cover with Video</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-miximage">
+		<label>Textlist - Miximage</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-miximage-video">
+		<label>Textlist - Miximage with Video</label>
 		<selectable>true</selectable>
 	</variant>
 

@@ -229,7 +229,7 @@ license:      	creative commons CC-BY-NC-SA
 	Gamelist View: Textlist common
 	///
 	-->
-	<variant name="gamelist-textlist, gamelist-textlist-video">
+	<variant name="gamelist-textlist-cover, gamelist-textlist-cover-video, gamelist-textlist-miximage, gamelist-textlist-miximage-video">
 		<view name="gamelist">
 			<image name ="textlist-background">
 				<origin>0.5 0.5</origin>
@@ -342,10 +342,10 @@ license:      	creative commons CC-BY-NC-SA
 	
 	<!--
 	///
-	Gamelist View: Textlist
+	Gamelist View: Textlist - Cover
 	///
 	-->
-	<variant name="gamelist-textlist">
+	<variant name="gamelist-textlist-cover">
 		<view name="gamelist">
 			<image name="textlist-cover">
 				<origin>0.5 0.5</origin>
@@ -359,10 +359,10 @@ license:      	creative commons CC-BY-NC-SA
 	
 	<!--
 	///
-	Gamelist View: Textlist with Video
+	Gamelist View: Textlist - Cover with Video
 	///
 	-->
-	<variant name="gamelist-textlist-video">
+	<variant name="gamelist-textlist-cover-video">
 		<view name="gamelist">
 			<video name="textlist-video">
 				<origin>0.5 0.5</origin>
@@ -371,6 +371,43 @@ license:      	creative commons CC-BY-NC-SA
 				<videoCornerRadius>0.02</videoCornerRadius>
 				<imageCornerRadius>0.02</imageCornerRadius>
 				<imageType>cover</imageType>
+				<delay>2</delay>
+				<pillarboxes>false</pillarboxes>
+			</video>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Textlist - Miximage
+	///
+	-->
+	<variant name="gamelist-textlist-miximage">
+		<view name="gamelist">
+			<image name="textlist-cover">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.62</pos>
+				<maxSize>0.4 0.51</maxSize>
+				<imageType>miximage</imageType>
+				<cornerRadius>0.0</cornerRadius>
+			</image>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Textlist - Miximage with Video
+	///
+	-->
+	<variant name="gamelist-textlist-miximage-video">
+		<view name="gamelist">
+			<video name="textlist-video">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.62</pos>
+				<maxSize>0.4 0.51</maxSize>
+				<videoCornerRadius>0.02</videoCornerRadius>
+				<imageCornerRadius>0.0</imageCornerRadius>
+				<imageType>miximage</imageType>
 				<delay>2</delay>
 				<pillarboxes>false</pillarboxes>
 			</video>

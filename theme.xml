@@ -229,7 +229,7 @@ license:      	creative commons CC-BY-NC-SA
 	Gamelist View: Textlist common
 	///
 	-->
-	<variant name="gamelist-textlist-cover, gamelist-textlist-cover-video, gamelist-textlist-miximage, gamelist-textlist-miximage-video">
+	<variant name="gamelist-textlist-cover, gamelist-textlist-metadata-cover, gamelist-textlist-miximage, gamelist-textlist-metadata-miximage">
 		<view name="gamelist">
 			<image name ="textlist-background">
 				<origin>0.5 0.5</origin>
@@ -322,6 +322,7 @@ license:      	creative commons CC-BY-NC-SA
 				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
 				<gamelistTextlistFontSize>0.026</gamelistTextlistFontSize>
 				<gamelistSystemNameFontSize>0.026</gamelistSystemNameFontSize>
+				<gamelistDescriptionFontSize>0.026</gamelistDescriptionFontSize>
 			</variables>
 		</fontSize>
 		<fontSize name="large">
@@ -329,6 +330,7 @@ license:      	creative commons CC-BY-NC-SA
 				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
 				<gamelistTextlistFontSize>0.030</gamelistTextlistFontSize>
 				<gamelistSystemNameFontSize>0.030</gamelistSystemNameFontSize>
+				<gamelistDescriptionFontSize>0.030</gamelistDescriptionFontSize>
 			</variables>
 		</fontSize>
 		<fontSize name="x-large">
@@ -336,33 +338,17 @@ license:      	creative commons CC-BY-NC-SA
 				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
 				<gamelistTextlistFontSize>0.034</gamelistTextlistFontSize>
 				<gamelistSystemNameFontSize>0.034</gamelistSystemNameFontSize>
+				<gamelistDescriptionFontSize>0.034</gamelistDescriptionFontSize>
 			</variables>
 		</fontSize>
 	</variant>
 	
 	<!--
 	///
-	Gamelist View: Textlist - Cover
+	Gamelist View: List - Boxart
 	///
 	-->
 	<variant name="gamelist-textlist-cover">
-		<view name="gamelist">
-			<image name="textlist-cover">
-				<origin>0.5 0.5</origin>
-				<pos>0.25 0.62</pos>
-				<maxSize>0.4 0.51</maxSize>
-				<imageType>cover</imageType>
-				<cornerRadius>0.02</cornerRadius>
-			</image>
-		</view>
-	</variant>
-	
-	<!--
-	///
-	Gamelist View: Textlist - Cover with Video
-	///
-	-->
-	<variant name="gamelist-textlist-cover-video">
 		<view name="gamelist">
 			<video name="textlist-video">
 				<origin>0.5 0.5</origin>
@@ -379,38 +365,83 @@ license:      	creative commons CC-BY-NC-SA
 	
 	<!--
 	///
-	Gamelist View: Textlist - Miximage
+	Gamelist View: List - Metadata & Boxart
 	///
 	-->
-	<variant name="gamelist-textlist-miximage">
+	<variant name="gamelist-textlist-metadata-cover">
 		<view name="gamelist">
-			<image name="textlist-cover">
+			<video name="textlist-video">
 				<origin>0.5 0.5</origin>
-				<pos>0.25 0.62</pos>
-				<maxSize>0.4 0.51</maxSize>
-				<imageType>miximage</imageType>
-				<cornerRadius>0.0</cornerRadius>
-			</image>
+				<pos>0.25 0.525</pos>
+				<maxSize>0.4 0.36</maxSize>
+				<videoCornerRadius>0.02</videoCornerRadius>
+				<imageCornerRadius>0.0</imageCornerRadius>
+				<imageType>cover</imageType>
+				<delay>2</delay>
+				<pillarboxes>false</pillarboxes>
+			</video>
+			<text name="textlist-description">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.795</pos> 
+				<size>0.45 0.16</size>
+				<fontSize>${gamelistDescriptionFontSize}</fontSize>
+				<fontPath>${fontMedium}</fontPath>
+				<metadata>description</metadata>
+				<horizontalAlignment>center</horizontalAlignment>
+				<metadataElement>true</metadataElement>
+				<color>ffffff</color>
+			</text>
 		</view>
 	</variant>
 	
 	<!--
 	///
-	Gamelist View: Textlist - Miximage with Video
+	Gamelist View: List - Miximage
 	///
 	-->
-	<variant name="gamelist-textlist-miximage-video">
+	<variant name="gamelist-textlist-miximage">
 		<view name="gamelist">
 			<video name="textlist-video">
 				<origin>0.5 0.5</origin>
 				<pos>0.25 0.62</pos>
 				<maxSize>0.4 0.51</maxSize>
 				<videoCornerRadius>0.02</videoCornerRadius>
+				<imageCornerRadius>0.02</imageCornerRadius>
+				<imageType>miximage</imageType>
+				<delay>2</delay>
+				<pillarboxes>false</pillarboxes>
+			</video>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: List - Metadata & Miximage
+	///
+	-->
+	<variant name="gamelist-textlist-metadata-miximage">
+		<view name="gamelist">
+			<video name="textlist-video">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.525</pos>
+				<maxSize>0.4 0.36</maxSize>
+				<videoCornerRadius>0.02</videoCornerRadius>
 				<imageCornerRadius>0.0</imageCornerRadius>
 				<imageType>miximage</imageType>
 				<delay>2</delay>
 				<pillarboxes>false</pillarboxes>
 			</video>
+			<text name="textlist-description">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.795</pos> 
+				<size>0.45 0.16</size>
+				<fontSize>${gamelistDescriptionFontSize}</fontSize>
+				<fontPath>${fontMedium}</fontPath>
+				<metadata>description</metadata>
+				<horizontalAlignment>center</horizontalAlignment>
+				<metadataElement>true</metadataElement>
+				<color>ffffff</color>
+			</text>
 		</view>
 	</variant>
 	

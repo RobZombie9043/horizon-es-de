@@ -51,24 +51,24 @@
 	///
 	Variants
 	-->
-	<variant name="gamelist-carousel">
-		<label>Carousel</label>
-		<selectable>true</selectable>
-	</variant>
-	<variant name="gamelist-textlist-cover">
-		<label>Textlist - Cover</label>
-		<selectable>true</selectable>
-	</variant>
-	<variant name="gamelist-textlist-cover-video">
-		<label>Textlist - Cover with Video</label>
+	<variant name="gamelist-textlist-metadata-miximage">
+		<label>List: Miximage & Description</label>
 		<selectable>true</selectable>
 	</variant>
 	<variant name="gamelist-textlist-miximage">
-		<label>Textlist - Miximage</label>
+		<label>List: Miximage</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-textlist-miximage-video">
-		<label>Textlist - Miximage with Video</label>
+	<variant name="gamelist-textlist-metadata-cover">
+		<label>List: Boxart & Description</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-cover">
+		<label>List: Boxart</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-carousel">
+		<label>Carousel</label>
 		<selectable>true</selectable>
 	</variant>
 

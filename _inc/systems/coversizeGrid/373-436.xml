@@ -3,63 +3,63 @@
 		<aspectRatio name="16:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1666 0.4148148148</itemSize>
+					<itemSize>0.1666 0.3463</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="16:10">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1666 0.373333184</itemSize>
+					<itemSize>0.1666 0.3117</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="19.5:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1666 0.5056</itemSize>
+					<itemSize>0.125 0.3166</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="21:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125	0.4083</itemSize>
+					<itemSize>0.125 0.3409</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="32:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1 0.4978</itemSize>
+					<itemSize>0.08333 0.3463</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="4:3">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.2499 0.4666666667</itemSize>
+					<itemSize>0.25 0.3896</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="5:4">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.25 0.4375</itemSize>
+					<itemSize>0.25 0.3653</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="1:1">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.25 0.35</itemSize>
+					<itemSize>0.25 0.2922</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="3:2">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1665 0.35</itemSize>
+					<itemSize>0.1666 0.2922</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
@@ -68,63 +68,63 @@
 		<aspectRatio name="16:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125 0.3111</itemSize>
+					<itemSize>0.125 0.2598</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="16:10">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125 0.28</itemSize>
+					<itemSize>0.125 0.2338</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="19.5:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125 0.3792</itemSize>
+					<itemSize>0.1 0.2533</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="21:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1 0.3267</itemSize>
+					<itemSize>0.1 0.2727</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="32:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.0833 0.4148</itemSize>
+					<itemSize>0.07142 0.2969</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="4:3">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1666 0.3111</itemSize>
+					<itemSize>0.16666 0.2598</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="5:4">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1666 0.2917</itemSize>
+					<itemSize>0.16666 0.2435</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="1:1">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1666 0.2333</itemSize>
+					<itemSize>0.16666 0.1948</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="3:2">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125 0.2625</itemSize>
+					<itemSize>0.125 0.2192</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
@@ -133,63 +133,63 @@
 		<aspectRatio name="16:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1 0.2489</itemSize>
+					<itemSize>0.1 0.2078</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="16:10">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1 0.2240</itemSize>
+					<itemSize>0.1 0.1870</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="19.5:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1 0.3033</itemSize>
+					<itemSize>0.08333 0.2111</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="21:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.0833 0.2722</itemSize>
+					<itemSize>0.08333 0.2273</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="32:9">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.07142 0.3556</itemSize>
+					<itemSize>0.07142 0.2969</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="4:3">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125 0.2333</itemSize>
+					<itemSize>0.125 0.1948</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="5:4">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125 0.2188</itemSize>
+					<itemSize>0.125 0.1826</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="1:1">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.125 0.1750</itemSize>
+					<itemSize>0.125 0.1461</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>
 		<aspectRatio name="3:2">
 			<view name="gamelist">
 				<grid name="game-grid">
-					<itemSize>0.1 0.21</itemSize>
+					<itemSize>0.1 0.1753</itemSize>
 				</grid>
 			</view>
 		</aspectRatio>

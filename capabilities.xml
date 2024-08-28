@@ -52,19 +52,35 @@
 	Variants
 	-->
 	<variant name="gamelist-textlist-metadata-miximage">
-		<label>List: Miximage & Description</label>
+		<label>List: Detailed</label>
 		<selectable>true</selectable>
 	</variant>
 	<variant name="gamelist-textlist-miximage">
-		<label>List: Miximage</label>
+		<label>List: Basic</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-textlist-metadata-cover">
-		<label>List: Boxart & Description</label>
+	<variant name="gamelist-grid-metadata-miximage-small">
+		<label>Grid (Small): Detailed</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-textlist-cover">
-		<label>List: Boxart</label>
+	<variant name="gamelist-grid-miximage-small">
+		<label>Grid (Small): Basic</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-metadata-miximage-medium">
+		<label>Grid (Medium): Detailed</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-miximage-medium">
+		<label>Grid (Medium): Basic</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-metadata-miximage-large">
+		<label>Grid (Large): Detailed</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-miximage-large">
+		<label>Grid (Large): Basic</label>
 		<selectable>true</selectable>
 	</variant>
 	<variant name="gamelist-carousel">

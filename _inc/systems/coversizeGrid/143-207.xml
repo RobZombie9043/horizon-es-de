@@ -1,0 +1,197 @@
+<theme>   
+	<variant name="gamelist-grid-metadata-miximage-large">
+		<aspectRatio name="16:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1666 0.4289</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="16:10">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1666 0.3860</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="19.5:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.3920</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="21:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.4222</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="32:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1 0.5147</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="4:3">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.2499 0.4825</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="5:4">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.25 0.4524</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="1:1">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.25 0.3619</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="3:2">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1666 0.3619</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+	</variant>
+	<variant name="gamelist-grid-metadata-miximage-medium">
+		<aspectRatio name="16:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.3217</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="16:10">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.2895</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="19.5:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1 0.3136</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="21:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1 0.3378</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="32:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.08333 0.4289</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="4:3">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1666 0.3217</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="5:4">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1666 0.3016</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="1:1">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1666 0.2413</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="3:2">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.2714</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+	</variant>
+	<variant name="gamelist-grid-metadata-miximage-small">
+		<aspectRatio name="16:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1 0.2573</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="16:10">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1 0.2316</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="19.5:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.08333 0.2614</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="21:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.08333 0.2815</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="32:9">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.07142 0.3676</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="4:3">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.2413</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="5:4">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.2262</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="1:1">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.125 0.1809</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="3:2">
+			<view name="gamelist">
+				<grid name="game-grid">
+					<itemSize>0.1 0.2171</itemSize>
+				</grid>
+			</view>
+		</aspectRatio>
+	</variant>
+ </theme>

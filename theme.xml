@@ -36,8 +36,8 @@ license:      	creative commons CC-BY-NC-SA
 		<helpsystem name="help">
 			<origin>0.5 0</origin>
 			<pos>0.5 0.925</pos>
-			<fontSize>0.026</fontSize><!-- 28 -->
-			<fontSizeDimmed>0.026</fontSizeDimmed><!-- 28 -->
+			<fontSize>0.026</fontSize>
+			<fontSizeDimmed>0.026</fontSizeDimmed>
 			<fontPath>${fontMedium}</fontPath>
 			<letterCase>capitalize</letterCase>
 			<iconColor>ffffff</iconColor>
@@ -97,7 +97,7 @@ license:      	creative commons CC-BY-NC-SA
 		</text>
 		<text name="system-metadata">
 			<origin>0.5 0.5</origin>
-			<pos>0.5 0.263</pos><!-- 1300 580 -->
+			<pos>0.5 0.263</pos>
 			<size>0 0</size>
 			<fontSize>${systemMetadataFontSize}</fontSize>
 			<fontPath>${fontMedium}</fontPath>
@@ -229,7 +229,7 @@ license:      	creative commons CC-BY-NC-SA
 	Gamelist View: Textlist common
 	///
 	-->
-	<variant name="gamelist-textlist-cover, gamelist-textlist-metadata-cover, gamelist-textlist-miximage, gamelist-textlist-metadata-miximage">
+	<variant name="gamelist-textlist-miximage, gamelist-textlist-metadata-miximage">
 		<view name="gamelist">
 			<image name ="textlist-background">
 				<origin>0.5 0.5</origin>
@@ -316,6 +316,16 @@ license:      	creative commons CC-BY-NC-SA
 				<controllerSize>0.8</controllerSize>
 				<folderLinkSize>0.8</folderLinkSize>
 			</badges>
+			<video name="textlist-video">
+				<origin>0.5 0.5</origin>
+				<videoCornerRadius>0.01</videoCornerRadius>
+				<imageCornerRadius>0</imageCornerRadius>
+				<imageType>miximage</imageType>
+				<delay>2</delay>
+				<pillarboxes>false</pillarboxes>
+				<iterationCount>1</iterationCount>
+				<onIterationsDone>image</onIterationsDone>
+			</video>
 		</view>
 		<fontSize name="medium">
 			<variables>
@@ -342,43 +352,31 @@ license:      	creative commons CC-BY-NC-SA
 			</variables>
 		</fontSize>
 	</variant>
-	
+
 	<!--
 	///
-	Gamelist View: List - Boxart
+	Gamelist View: List - Simple
 	///
 	-->
-	<variant name="gamelist-textlist-cover">
+	<variant name="gamelist-textlist-miximage">
 		<view name="gamelist">
 			<video name="textlist-video">
-				<origin>0.5 0.5</origin>
 				<pos>0.25 0.62</pos>
 				<maxSize>0.4 0.51</maxSize>
-				<videoCornerRadius>0.02</videoCornerRadius>
-				<imageCornerRadius>0.02</imageCornerRadius>
-				<imageType>cover</imageType>
-				<delay>2</delay>
-				<pillarboxes>false</pillarboxes>
 			</video>
 		</view>
 	</variant>
 	
 	<!--
 	///
-	Gamelist View: List - Metadata & Boxart
+	Gamelist View: List - Detailed
 	///
 	-->
-	<variant name="gamelist-textlist-metadata-cover">
+	<variant name="gamelist-textlist-metadata-miximage">
 		<view name="gamelist">
 			<video name="textlist-video">
-				<origin>0.5 0.5</origin>
 				<pos>0.25 0.525</pos>
 				<maxSize>0.4 0.36</maxSize>
-				<videoCornerRadius>0.02</videoCornerRadius>
-				<imageCornerRadius>0.0</imageCornerRadius>
-				<imageType>cover</imageType>
-				<delay>2</delay>
-				<pillarboxes>false</pillarboxes>
 			</video>
 			<text name="textlist-description">
 				<origin>0.5 0.5</origin>
@@ -396,40 +394,216 @@ license:      	creative commons CC-BY-NC-SA
 	
 	<!--
 	///
-	Gamelist View: List - Miximage
+	Gamelist View: Grid common
 	///
 	-->
-	<variant name="gamelist-textlist-miximage">
+	<variant name="gamelist-grid-metadata-miximage-large, gamelist-grid-metadata-miximage-medium, gamelist-grid-metadata-miximage-small, gamelist-grid-miximage-large, gamelist-grid-miximage-medium, gamelist-grid-miximage-small">
+		<include>./_inc/systems/coversizeGrid/${systemCoverSize}.xml</include>
 		<view name="gamelist">
+			<grid name="game-grid">
+				<origin>0.5 0.5</origin>
+				<pos>0.75 0.5</pos>
+				<size>0.5 1</size>
+				<imageRelativeScale>0.91</imageRelativeScale>				
+				<imageType>cover</imageType>
+				<itemScale>1.05</itemScale>
+				<itemSpacing>0 0</itemSpacing>
+				<imageCornerRadius>0.002</imageCornerRadius>
+				<unfocusedItemOpacity>1</unfocusedItemOpacity>
+				<unfocusedItemDimming>0.75</unfocusedItemDimming>
+				<fontSize>${gamelistDescriptionFontSize}</fontSize>
+				<textRelativeScale>0.9</textRelativeScale>
+				<textColor>ffffff</textColor>
+				<fractionalRows>true</fractionalRows>
+				<scaleInwards>true</scaleInwards>
+				<selectorImage>./_inc/systems/coversizeGrid/${systemCoverSize}.svg</selectorImage>
+				<selectorLayer>top</selectorLayer>
+				<selectorRelativeScale>0.93</selectorRelativeScale>
+				<selectorCornerRadius>0.003</selectorCornerRadius>
+			</grid>
+			<text name="textlist-name">
+				<origin>0.5 1</origin>
+				<pos>0.25 0.2</pos>
+				<size>0.45 0.15</size>
+				<fontSize>${gamelistGameNameFontSize}</fontSize>
+				<lineSpacing>1.1</lineSpacing>
+				<horizontalAlignment>center</horizontalAlignment>
+				<verticalAlignment>bottom</verticalAlignment>
+				<fontPath>${fontCondensed}</fontPath>
+				<metadata>name</metadata>
+				<color>ffffff</color>
+				<letterCase>uppercase</letterCase>
+			</text> 
+			<rating name="textlist-rating">
+				<origin>0.5 0</origin>
+				<pos>0.25 0.255</pos>
+				<size>1 0.025</size>
+				<filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+				<unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
+				<overlay>false</overlay>
+				<color>ffffff</color>
+			</rating>
+			<text name="textlist-systemname">
+				<origin>0.5 0.5</origin>
+				<pos>0.25 0.228</pos>
+				<size>0.45 0.026</size>
+				<horizontalAlignment>center</horizontalAlignment>
+				<fontSize>${gamelistSystemNameFontSize}</fontSize>
+				<fontPath>${fontMedium}</fontPath>
+				<metadata>systemFullname</metadata>
+				<metadataElement>true</metadataElement>
+				<defaultValue>:space:</defaultValue>
+				<color>ffffff</color>
+			</text>
+			<badges name="textlist-badges">
+				<origin>0.5 0</origin>
+				<pos>0.25 0.3</pos>
+				<size>0.4 0.026</size>
+				<horizontalAlignment>center</horizontalAlignment>
+				<itemMargin>0.002 -1</itemMargin>
+				<lines>1</lines>
+				<itemsPerLine>9</itemsPerLine>
+				<slots>all</slots>
+				<customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
+				<customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
+				<customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
+				<customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
+				<customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
+				<customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
+				<customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
+				<customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
+				<customBadgeIcon badge="manual">./_inc/images/badge-manual.svg</customBadgeIcon>
+				<badgeIconColor>ffffff</badgeIconColor>
+				<controllerSize>0.8</controllerSize>
+				<folderLinkSize>0.8</folderLinkSize>
+			</badges>
 			<video name="textlist-video">
 				<origin>0.5 0.5</origin>
-				<pos>0.25 0.62</pos>
-				<maxSize>0.4 0.51</maxSize>
-				<videoCornerRadius>0.02</videoCornerRadius>
-				<imageCornerRadius>0.02</imageCornerRadius>
+				<videoCornerRadius>0.01</videoCornerRadius>
+				<imageCornerRadius>0</imageCornerRadius>
 				<imageType>miximage</imageType>
 				<delay>2</delay>
 				<pillarboxes>false</pillarboxes>
+				<iterationCount>1</iterationCount>
+				<onIterationsDone>image</onIterationsDone>
+			</video>
+		</view>
+		<fontSize name="medium">
+			<variables>
+				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
+				<gamelistTextlistFontSize>0.026</gamelistTextlistFontSize>
+				<gamelistSystemNameFontSize>0.026</gamelistSystemNameFontSize>
+				<gamelistDescriptionFontSize>0.026</gamelistDescriptionFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="large">
+			<variables>
+				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
+				<gamelistTextlistFontSize>0.030</gamelistTextlistFontSize>
+				<gamelistSystemNameFontSize>0.030</gamelistSystemNameFontSize>
+				<gamelistDescriptionFontSize>0.030</gamelistDescriptionFontSize>
+			</variables>
+		</fontSize>
+		<fontSize name="x-large">
+			<variables>
+				<gamelistGameNameFontSize>0.065</gamelistGameNameFontSize>
+				<gamelistTextlistFontSize>0.034</gamelistTextlistFontSize>
+				<gamelistSystemNameFontSize>0.034</gamelistSystemNameFontSize>
+				<gamelistDescriptionFontSize>0.034</gamelistDescriptionFontSize>
+			</variables>
+		</fontSize>
+		<aspectRatio name="1:1">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<fontSize>0.02</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="5:4">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<fontSize>0.022</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="4:3">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<fontSize>0.022</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="3:2">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<fontSize>0.022</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="16:9">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<pos>0.25 0.925</pos>
+					<fontSize>0.018</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="16:10">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<fontSize>0.022</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="19.5:9">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<pos>0.25 0.925</pos>
+					<fontSize>0.022</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="21:9">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<pos>0.25 0.925</pos>
+					<fontSize>0.024</fontSize>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+		<aspectRatio name="32:9">
+			<view name="gamelist">
+				<helpsystem name="help">
+					<pos>0.25 0.925</pos>
+				</helpsystem>
+			</view>
+		</aspectRatio>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Grid - Simple
+	///
+	-->
+	<variant name="gamelist-grid-miximage-large, gamelist-grid-miximage-medium, gamelist-grid-miximage-small">
+		<view name="gamelist">
+			<video name="textlist-video">
+				<pos>0.25 0.62</pos>
+				<maxSize>0.4 0.51</maxSize>
 			</video>
 		</view>
 	</variant>
 	
 	<!--
 	///
-	Gamelist View: List - Metadata & Miximage
+	Gamelist View: Grid - Detailed
 	///
 	-->
-	<variant name="gamelist-textlist-metadata-miximage">
+	<variant name="gamelist-grid-metadata-miximage-large, gamelist-grid-metadata-miximage-medium, gamelist-grid-metadata-miximage-small">
 		<view name="gamelist">
 			<video name="textlist-video">
-				<origin>0.5 0.5</origin>
 				<pos>0.25 0.525</pos>
 				<maxSize>0.4 0.36</maxSize>
-				<videoCornerRadius>0.02</videoCornerRadius>
-				<imageCornerRadius>0.0</imageCornerRadius>
-				<imageType>miximage</imageType>
-				<delay>2</delay>
-				<pillarboxes>false</pillarboxes>
 			</video>
 			<text name="textlist-description">
 				<origin>0.5 0.5</origin>
@@ -456,7 +630,7 @@ license:      	creative commons CC-BY-NC-SA
 				<itemSize>0.28 0.43076</itemSize> 
 				<maxItemCount>3</maxItemCount>
 				<selectedItemMargins>0.009333133 0.009333133</selectedItemMargins>
-			</carousel>
+			</carousel>				
 		</view>
     </aspectRatio>
 	

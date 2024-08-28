@@ -1,4 +1,4 @@
-<theme>
+<theme>   
    <variant name="gamelist-carousel">
       <aspectRatio name="16:9">
          <view name="gamelist">
@@ -90,5 +90,5 @@
             </carousel>
          </view>
       </aspectRatio>
-   </variant>
+	</variant> 
 </theme>

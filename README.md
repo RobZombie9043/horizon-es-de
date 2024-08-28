@@ -7,20 +7,24 @@ A clean and minimal theme for ES-DE
 | ![Screenshot_20240706-204752](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/549e5386-3b95-4759-b506-42cf25677bd7) |
 
 
-| Gamelist - Miximage & Description | Gamelist - Boxart | Gamelist - Carousel |
+| Gamelist - List | Gamelist - Grid | Gamelist - Carousel |
 |----|----|----|
-| ![Horizon with metadata](https://github.com/user-attachments/assets/94c9894c-76fe-46ed-b446-5c8432ea0fdc) | ![346264257-d25fa8cf-3cec-4959-8900-3a2c894b0361](https://github.com/user-attachments/assets/572462fa-37ba-4634-aa22-eeb51b9697c4) | ![346263143-4456dbbd-06e4-48e1-84b5-b90cb9793fe5](https://github.com/user-attachments/assets/6b13d4e9-2e0c-47a2-acdc-6538ed0af00c) |
+| ![346264257-d25fa8cf-3cec-4959-8900-3a2c894b0361](https://github.com/user-attachments/assets/572462fa-37ba-4634-aa22-eeb51b9697c4) | ![Untitled2](https://github.com/user-attachments/assets/5e8d1422-5ce9-4ccb-97ed-2464063caa10) | ![346263143-4456dbbd-06e4-48e1-84b5-b90cb9793fe5](https://github.com/user-attachments/assets/6b13d4e9-2e0c-47a2-acdc-6538ed0af00c) |
 
 
 ## **Configuration Options**
 
 - This theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE
   
-- `Theme Variant` - sets the theme variant adjusting the gamelist view
-   - `List: Miximage & Description`
-   - `List: Miximage`
-   - `List: Boxart & Description`
-   - `List: Boxart`
+- `Theme Variant` - sets the theme variant adjusting the gamelist view. Detailed variants include additional game description metadata.
+   - `List: Detailed`
+   - `List: Basic`
+   - `Grid (Small): Detailed`
+   - `Grid (Small): Basic`
+   - `Grid (Medium): Detailed`
+   - `Grid (Medium): Basic`
+   - `Grid (Large): Detailed`
+   - `Grid (Large): Basic`
    - `Carousel`
      
 - `Font Size` - enables you to change the size of the fonts displayed in the theme.

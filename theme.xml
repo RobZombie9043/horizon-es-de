@@ -93,6 +93,7 @@ license:      	creative commons CC-BY-NC-SA
 			<fontSize>${systemGameCountFontSize}</fontSize> 
 			<fontPath>${fontMediumSansSerif}</fontPath>
 			<systemdata>gamecount</systemdata>
+			<letterCase>capitalize</letterCase>
 			<color>ffffff</color>
 		</text>
 		<text name="system-metadata">

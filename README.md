@@ -4,12 +4,12 @@ A clean and minimal theme for ES-DE
 ## **Preview**
 | System View |
 |----|
-| ![Screenshot_20240706-204752](https://github.com/RobZombie9043/horizon-es-de/assets/77545967/549e5386-3b95-4759-b506-42cf25677bd7) |
+| ![Screenshot_20240929-231304](https://github.com/user-attachments/assets/949f24ac-f85b-4ed8-b23d-badf8fde5cdc) |
 
 
 | Gamelist - List | Gamelist - Grid | Gamelist - Carousel |
 |----|----|----|
-| ![346264257-d25fa8cf-3cec-4959-8900-3a2c894b0361](https://github.com/user-attachments/assets/572462fa-37ba-4634-aa22-eeb51b9697c4) | ![Untitled2](https://github.com/user-attachments/assets/5e8d1422-5ce9-4ccb-97ed-2464063caa10) | ![346263143-4456dbbd-06e4-48e1-84b5-b90cb9793fe5](https://github.com/user-attachments/assets/6b13d4e9-2e0c-47a2-acdc-6538ed0af00c) |
+| ![Screenshot_20240929-231327](https://github.com/user-attachments/assets/10bbdeab-a1e8-4fc2-be74-cc496ff38543) | ![Screenshot_20240929-231356](https://github.com/user-attachments/assets/e5e0bd77-99f6-4dd9-9c7a-18998d4b61a3) | ![Screenshot_20240929-231449](https://github.com/user-attachments/assets/643ad7c8-1995-461d-8e38-a5319d9e7510) |
 
 
 ## **Configuration Options**

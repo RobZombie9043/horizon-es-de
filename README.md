@@ -54,11 +54,11 @@ This theme allows customizations to the carousel artwork without the need to edi
 - Create a folder called `theme-customizations` in the main Horizon theme folder and then create a subfolder named `artwork` resulting in a folder structure `~ES-DE/themes/horizon-es-de/theme-customizations/artwork/`
 - Copy your custom carousel images to that `artwork` folder
 - They should be named `${system.theme}.jpg`, For example for `snes` you would create an image called `snes.jpg`
-  - Note that images will be required to be provided for all systems that want to be used or else a default fallback image will be used. The existing images included with the theme could be copied across to this folder for any systems that you would want to keep using the exiting images for.
+  - Note that custom images only need to be supplied for the systems to be customized and the default system image will be used for any other systems.
   - The carousel images use an aspect ratio of 0.65:1 so if images that are provided use a different aspect ratio to this they will be cropped which may cut off parts of the image and not look good.
 - Change the theme color scheme to `Custom` and the artwork from the custom folder will be used.
 
-- The original theme artwork can be found [here](https://www.mediafire.com/file/hk8jp4mlk2ltqy5/theme-customizations.zip/file) and can be used by unzipping the included theme-customization folder to the theme folder.
+- The original theme artwork can be found [here](https://www.mediafire.com/file/6zf85zqfydlhzge/theme-customizations.zip/file) and can be used by unzipping the included theme-customization folder to the theme folder.
 
 ## **Acknowledgements**
 

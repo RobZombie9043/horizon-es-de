@@ -15,7 +15,18 @@ license:      	creative commons CC-BY-NC-SA
 		<fontMedium>./_inc/fonts/Montserrat-Medium.ttf</fontMedium>
 		<fontCondensed>./_inc/fonts/RobotoCondensed-Medium.ttf</fontCondensed>
 	</variables>
-		
+	
+	<colorScheme name="default">
+        <variables>
+			<artworkFolder>./_inc/systems/artwork/${system.theme}.jpg</artworkFolder>
+		</variables>
+    </colorScheme>
+	<colorScheme name="custom">
+        <variables>
+			<artworkFolder>./theme-customizations/artwork/${system.theme}.jpg</artworkFolder>
+		</variables>
+    </colorScheme>
+	
 	<!--
 	///
 	All Views
@@ -75,7 +86,8 @@ license:      	creative commons CC-BY-NC-SA
 			<unfocusedItemOpacity>1</unfocusedItemOpacity>
 			<unfocusedItemDimming>0.8</unfocusedItemDimming>
 			<itemScale>1.1</itemScale>
-			<staticImage>./_inc/systems/artwork/${system.theme}.jpg</staticImage>
+			<defaultImage>./_inc/systems/artwork/_default.png</defaultImage>
+			<staticImage>${artworkFolder}</staticImage>
 			<imageCornerRadius>0.015</imageCornerRadius>
 			<fastScrolling>true</fastScrolling>
 			<color>00000000</color>

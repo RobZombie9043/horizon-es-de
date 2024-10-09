@@ -88,4 +88,16 @@
 		<selectable>true</selectable>
 	</variant>
 
+	<!--
+	///
+	Color Schemes
+	///
+	-->
+	<colorScheme name="default">
+        <label>Default</label>
+    </colorScheme>
+	<colorScheme name="custom">
+        <label>Custom</label>
+    </colorScheme>
+
 </themeCapabilities>

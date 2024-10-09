@@ -19,11 +19,13 @@ license:      	creative commons CC-BY-NC-SA
 	<colorScheme name="default">
         <variables>
 			<artworkFolder>./_inc/systems/artwork/${system.theme}.jpg</artworkFolder>
+			<fallbackImage>./_inc/systems/artwork/_default.png</fallbackImage>
 		</variables>
     </colorScheme>
 	<colorScheme name="custom">
         <variables>
 			<artworkFolder>./theme-customizations/artwork/${system.theme}.jpg</artworkFolder>
+			<fallbackImage>./_inc/systems/artwork/${system.theme}.jpg</fallbackImage>
 		</variables>
     </colorScheme>
 	
@@ -86,11 +88,14 @@ license:      	creative commons CC-BY-NC-SA
 			<unfocusedItemOpacity>1</unfocusedItemOpacity>
 			<unfocusedItemDimming>0.8</unfocusedItemDimming>
 			<itemScale>1.1</itemScale>
-			<defaultImage>./_inc/systems/artwork/_default.png</defaultImage>
+			<defaultImage>${fallbackImage}</defaultImage>
 			<staticImage>${artworkFolder}</staticImage>
 			<imageCornerRadius>0.015</imageCornerRadius>
 			<fastScrolling>true</fastScrolling>
 			<color>00000000</color>
+			<textColor>ffffff</textColor>
+			<textBackgroundColor>33333340</textBackgroundColor>
+			<fontSize>0.045</fontSize>
 		</carousel>
 		<image name="system-logo">
 			<origin>0.5 0</origin>

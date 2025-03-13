@@ -63,10 +63,11 @@ license:      	creative commons CC-BY-NC-SA
 		</helpsystem>
 		<systemstatus name="system-status">
 			<fontPath>${fontMedium}</fontPath>
-			<height>${systemGameCountFontSize}</height>
+			<height>${systemMetadataFontSize}</height>
 		</systemstatus>
 		<clock name="clock">
-			<fontSize>${systemGameCountFontSize}</fontSize>
+			<fontPath>${fontMedium}</fontPath>
+			<fontSize>${systemMetadataFontSize}</fontSize>
 		</clock>
 	</view>
 	<view name="system">

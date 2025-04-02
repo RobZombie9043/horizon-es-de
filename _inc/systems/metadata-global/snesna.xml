@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Super Nintendo</systemName>
         <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>August 23, 1991</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>4-3</systemCoverSize>
-        <systemColor>7365B0</systemColor>
+        <systemColor>746bb2</systemColor>
         <systemColorPalette1>A59EF7</systemColorPalette1>
         <systemColorPalette2>47449E</systemColorPalette2>
         <systemColorPalette3>CCCCCC</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>超级任天堂娱乐系统（Super Nintendo Entertainment System，又称超级 NES、SNES 或 Super Nintendo）是任天堂开发的一款 16 位家用视频游戏机，1990 年在日本发布，1991 年在北美发布，1992 年在欧洲和澳大拉西亚（大洋洲）发布，1993 年在南美发布。在日本，该系统被称为 "超级 Famicom"，正式采用了其前身 "家庭电脑 "的缩写名称，简称 SFC。在韩国，它被称为 Super Comboy，由现代电子公司经销。虽然每个版本基本相同，但由于多种形式的地区封锁，不同版本无法相互兼容。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Super Nintendo Entertainment System（也稱為 Super NES、SNES 或 Super Nintendo）是任天堂開發的 16 位元家用視訊遊戲機，於 1990 年在日本、1991 年在北美、1992 年在歐洲和澳洲（大洋洲），以及 1993 年在南美洲發行。在日本，該系統被稱為 Super Famicom，正式採用其前身 Family Computer 的縮寫名稱，簡稱 SFC。在南韓則稱為 Super Comboy，由 Hyundai Electronics 代理。雖然每個版本在本質上是相同的，但幾種形式的區域鎖定使不同版本無法彼此相容。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

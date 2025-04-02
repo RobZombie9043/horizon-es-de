@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Wii</systemName>
         <systemDescription>The Wii (known unofficially as the Nintendo Wii) is a home video game console released by Nintendo on November 19, 2006. As a seventh generation console, the Wii competed with Microsoft's Xbox 360 and Sony's PlayStation 3. Nintendo stated that its console targets a broader demographic than that of the two others.
@@ -10,7 +10,7 @@ As of the first quarter of 2016, the Wii led its generation over the PlayStation
         <systemReleaseDateFormated>December 2, 2006</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>7ECBE8</systemColor>
+        <systemColor>78c6eb</systemColor>
         <systemColorPalette1>24A9E2</systemColorPalette1>
         <systemColorPalette2>D1D1D1</systemColorPalette2>
         <systemColorPalette3>005C9A</systemColorPalette3>
@@ -126,6 +126,14 @@ Från och med första kvartalet 2016 ledde Wii sin generation över PlayStation 
             <systemDescription>Wii（非官方名称为任天堂 Wii）是任天堂于 2006 年 11 月 19 日发布的一款家用视频游戏机。作为第七代游戏机，Wii 的竞争对手是微软的 Xbox 360 和索尼的 PlayStation 3。任天堂表示，它的游戏机比其他两款游戏机的目标人群更广泛。
 
 截至 2016 年第一季度，Wii 的全球销量超过 1.01 亿台，领先于同代的 PlayStation 3 和 Xbox 360；2009 年 12 月，该游戏机打破了美国单月销售记录。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Wii (非官方名稱為 Nintendo Wii) 是任天堂於 2006 年 11 月 19 日發佈的家用視訊遊戲主機。作為第七代遊戲機，Wii 的競爭對手是微軟的 Xbox 360 和索尼的 PlayStation 3。任天堂表示，與其他兩款遊戲機相比，其遊戲機以更廣泛的族群為目標。
+
+截至 2016 年第一季，Wii 的全球銷售量超越 PlayStation 3 和 Xbox 360，居同世代之冠，銷售量超過 1.01 億台；2009 年 12 月，該主機打破美國單月銷售紀錄。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

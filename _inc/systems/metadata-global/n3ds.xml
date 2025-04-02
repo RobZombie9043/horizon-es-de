@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Nintendo 3DS</systemName>
         <systemDescription>The Nintendo 3DS, abbreviated to 3DS, is a portable game console produced by Nintendo. It is capable of displaying stereoscopic 3D effects without the use of 3D glasses or additional accessories. Nintendo announced the device in March 2010 and officially unveiled it at E3 2010 on June 15, 2010. The console succeeds the Nintendo DS, featuring backward compatibility with older Nintendo DS and Nintendo DSi video games.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>February 26, 2011</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>257-229</systemCoverSize>
-        <systemColor>697583</systemColor>
+        <systemColor>667481</systemColor>
         <systemColorPalette1>929497</systemColorPalette1>
         <systemColorPalette2>C02424</systemColorPalette2>
         <systemColorPalette3>221D1F</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>任天堂 3DS，简称 3DS，是任天堂公司生产的一款便携式游戏机。它能够显示立体 3D 效果，无需使用 3D 眼镜或其他配件。任天堂于 2010 年 3 月宣布推出该设备，并于 2010 年 6 月 15 日在 E3 2010 上正式发布。该游戏机接替了任天堂 DS，具有向后兼容旧版任天堂 DS 和任天堂 DSi 视频游戏的特点。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>任天堂 3DS，簡稱 3DS，是任天堂製造的可攜式遊戲主機。它能夠顯示立體 3D 效果，無需使用 3D 眼鏡或其他配件。任天堂於 2010 年 3 月宣布推出此設備，並於 2010 年 6 月 15 日在 E3 2010 上正式發表。該控制台繼承了 Nintendo DS，具有向後相容舊版 Nintendo DS 和 Nintendo DSi 視訊遊戲的特色。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

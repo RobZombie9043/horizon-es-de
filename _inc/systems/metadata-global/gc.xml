@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>GameCube</systemName>
         <systemDescription>The Nintendo GameCube is a home video game console released by Nintendo in Japan and North America in 2001 and in PAL territories in 2002. The GameCube is Nintendo's entry in the sixth generation of video game consoles and is the successor to their previous console, the Nintendo 64. The GameCube competed with Sony's PlayStation 2 and Microsoft's Xbox.
@@ -10,7 +10,7 @@ The GameCube is the first Nintendo console to use optical discs as its primary s
         <systemReleaseDateFormated>November 18, 2001</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>9382EE</systemColor>
+        <systemColor>958bf4</systemColor>
         <systemColorPalette1>7B79AA</systemColorPalette1>
         <systemColorPalette2>524C82</systemColorPalette2>
         <systemColorPalette3>CBC9E0</systemColorPalette3>
@@ -126,6 +126,14 @@ GameCube är den första Nintendo-konsolen som använder optiska skivor som sitt
             <systemDescription>任天堂 GameCube 是任天堂于 2001 年在日本和北美地区推出的家用视频游戏机，2002 年在 PAL 地区推出。GameCube 是任天堂推出的第六代视频游戏机，也是上一代游戏机任天堂 64 的后继机。GameCube 与索尼的 PlayStation 2 和微软的 Xbox 竞争。
 
 GameCube 是任天堂第一款使用光盘作为主要存储介质的游戏机。光盘采用迷你 DVD 格式，但与竞争对手不同的是，该系统并不设计用于播放全尺寸 DVD 或音频 CD，而是主要侧重于游戏。该游戏机通过 GameCube 宽带或调制解调器适配器支持少量游戏的有限在线游戏，并可通过连接线与 Game Boy Advance 连接，这样玩家就可以像 Wii U 一样将手持设备作为第二屏幕和控制器来访问独有的游戏功能。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Nintendo GameCube 是 Nintendo 於 2001 年在日本和北美發行的家用視訊遊戲主機，並於 2002 年在 PAL 區域發行。GameCube 是任天堂推出的第六代視訊遊戲主機，也是上一代主機 Nintendo 64 的後繼機種。GameCube 的競爭對手是 Sony 的 PlayStation 2 和 Microsoft 的 Xbox。
+
+GameCube 是第一台使用光碟作為主要儲存媒體的任天堂遊戲機。光碟的格式以 miniDVD 為主，但與競爭對手不同的是，該系統並非設計用來播放全尺寸 DVD 或音訊 CD，而是主要專注於遊戲。控制台透過 GameCube 寬頻或數據機轉接器，支援少數遊戲的有限線上遊戲，並可透過連結線連接 Game Boy Advance，讓玩家可以像 Wii U 一樣，使用掌上型裝置作為第二個螢幕和控制器，存取遊戲中的獨家功能。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

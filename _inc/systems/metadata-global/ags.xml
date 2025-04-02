@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Adventure Game Studio</systemName>
         <systemDescription>Adventure Game Studio (AGS) is an open source development tool primarily used to create graphic adventure games. It is aimed at intermediate-level game designers, and combines an integrated development environment (IDE) with a scripting language based on the C programming language to process game logic.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Adventure Game Studio（AGS）是一款开源开发工具，主要用于创建图形冒险游戏。它面向中级游戏设计师，将集成开发环境（IDE）与基于 C 编程语言的脚本语言相结合，用于处理游戏逻辑。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Adventure Game Studio (AGS) 是一款開放原始碼開發工具，主要用來製作圖形冒險遊戲。它針對中階遊戲設計師，結合了整合開發環境 (IDE) 與基於 C 程式語言的腳本語言來處理遊戲邏輯。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Desktop Shorcuts</systemName>
         <systemDescription>View and run your Desktop shortcuts</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>查看和运行桌面快捷方式</systemDescription>
             <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>檢視並執行您的桌面捷徑</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
         </variables>
     </language>
 </theme>

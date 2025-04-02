@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Oric</systemName>
         <systemDescription>Oric was the name used by UK-based Tangerine Computer Systems for a series of 6502-based home computers sold in the 1980s, primarily in Europe. With the success of the ZX Spectrum from Sinclair Research, Tangerine's backers suggested a home computer and Tangerine formed Oric Products International Ltd to develop the Oric-1. The computer was introduced in 1982.[5] During 1983, approximately 160,000 Oric-1 computers were sold in the UK, plus another 50,000 in France (where it was the year's top-selling machine). This resulted in Oric being acquired and given funding for a successor model, the 1984 Oric Atmos.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Oric 是英国 Tangerine Computer Systems 公司在 20 世纪 80 年代主要在欧洲销售的一系列基于 6502 的家用电脑的名称。随着辛克莱研究公司的 ZX Spectrum 取得成功，Tangerine 的支持者建议推出家用电脑，于是 Tangerine 成立了 Oric Products International Ltd，开发出 Oric-1。1983 年，Oric-1 电脑在英国售出约 160,000 台，在法国售出 50,000 台（是当年最畅销的电脑）。因此，Oric 被收购并获得资金，用于生产后继型号，即 1984 年的 Oric Atmos。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Oric 是英國 Tangerine Computer Systems 在 1980 年代使用的名稱，代表一系列以 6502 為基礎的家用電腦，主要在歐洲銷售。由於 Sinclair Research 的 ZX Spectrum 大獲成功，Tangerine 的支持者建議推出家用電腦，於是 Tangerine 成立了 Oric Products International Ltd 來開發 Oric-1。這款電腦於 1982 年推出。[5] 1983 年間，大約有 160,000 台 Oric-1 電腦在英國售出，另外還有 50,000 台在法國售出（這款電腦是當年法國最暢銷的電腦）。這使得 Oric 被收購，並獲得資金推出後繼機型，即 1984 年的 Oric Atmos。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

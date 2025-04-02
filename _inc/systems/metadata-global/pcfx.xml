@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PC-FX</systemName>
         <systemDescription>The PC-FX is a 32-bit home video game console developed by both NEC and Hudson Soft and released in Japan in 1994. Powered by an NEC V810 CPU and using CD-ROMs, the PC-FX was intended as the successor to the PC Engine and its international counterpart the TurboGrafx-16, two successful video game consoles from the late 1980s. It is NEC's final foray into the home console market.
@@ -10,7 +10,7 @@ The console is shaped like a tower PC and was meant to be similarly upgradeable.
         <systemReleaseDateFormated>December 23, 1994</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>9378DA</systemColor>
+        <systemColor>9480de</systemColor>
         <systemColorPalette1>FEC101</systemColorPalette1>
         <systemColorPalette2>01015B</systemColorPalette2>
         <systemColorPalette3>5C3073</systemColorPalette3>
@@ -126,6 +126,14 @@ Konsolen är formad som en PC-torndator och var tänkt att vara uppgraderingsbar
             <systemDescription>PC-FX 是由 NEC 和 Hudson Soft 共同开发的 32 位家用视频游戏机，于 1994 年在日本发布。PC-FX 由 NEC V810 CPU 驱动，使用 CD-ROM，是 20 世纪 80 年代后期两款成功的视频游戏机 PC Engine 及其国际同类产品 TurboGrafx-16 的后继机。它是 NEC 进军家用游戏机市场的最后一次尝试。
 
 该控制台外形酷似塔式 PC，并具有类似的可升级性。然而，PC-FX 缺乏基于 3D 多边形的图形芯片，这使得该系统与其竞争对手相比显得性能不足。此外，PC-FX 价格昂贵，缺乏开发人员的支持，因此无法与第五代同类产品展开有效竞争。PC-FX 是 NEC 的最后一款家用视频游戏机，于 1998 年 2 月停产。它被认为是一款失败的商业产品。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PC-FX 是由 NEC 和 Hudson Soft 共同開發的 32 位元家用視訊遊戲主機，於 1994 年在日本發售。PC-FX 採用 NEC V810 CPU 並使用 CD-ROM，其目的在於繼承 PC Engine 及其國際對手 TurboGrafx-16，這兩款在 1980 年代末期相當成功的視訊遊戲主機。它是 NEC 進軍家用控制台市場的最後一役。
+
+這款控制台的外型酷似塔式 PC，並具有類似的升級功能。然而 PC-FX 缺乏 3D 多邊形圖形晶片，使得系統的效能低於競爭對手。它的價格也很昂貴，而且缺乏開發人員的支援，因此無法與第五代的同級產品有效競爭。PC-FX 是 NEC 最後一款家用視訊遊戲機，於 1998 年 2 月停產。它被認為是商業上的失敗。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

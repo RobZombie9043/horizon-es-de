@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Game Boy Advance</systemName>
         <systemDescription>The Game Boy Advance (abbreviated as GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in Australia and Europe on June 22, 2001, and in mainland China on June 8, 2004 (iQue Player). Nintendo's competitors in the handheld market at the time were the Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac, and the N-Gage. Despite the competitors' best efforts, Nintendo maintained a majority market share with the Game Boy Advance. As of June 30, 2010, the Game Boy Advance series has sold 81.51 million units worldwide. Its successor, the Nintendo DS, was released in November 2004 and is also compatible with Game Boy Advance software.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>June 11, 2001</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>4C74D6</systemColor>
+        <systemColor>4875db</systemColor>
         <systemColorPalette1>5C67A9</systemColorPalette1>
         <systemColorPalette2>280FBE</systemColorPalette2>
         <systemColorPalette3>BCBCBC</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Game Boy Advance（简称 GBA）是任天堂开发、制造和销售的 32 位掌上视频游戏机，是 Game Boy Color 的后继机。它于 2001 年 3 月 21 日在日本发售，2001 年 6 月 11 日在北美发售，2001 年 6 月 22 日在澳大利亚和欧洲发售，2004 年 6 月 8 日在中国大陆发售（iQue Player）。任天堂当时在掌上电脑市场的竞争对手有 Neo Geo Pocket Color、WonderSwan、GP32、Tapwave Zodiac 和 N-Gage。尽管竞争对手竭尽全力，任天堂仍凭借 Game Boy Advance 保持了大部分市场份额。截至 2010 年 6 月 30 日，Game Boy Advance 系列已在全球售出 8 151 万台。其后续产品任天堂 DS 于 2004 年 11 月发布，也兼容 Game Boy Advance 软件。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game Boy Advance（簡稱 GBA）是任天堂開發、製造和行銷的 32 位元掌上型視訊遊戲主機，是 Game Boy Color 的後繼機種。它於 2001 年 3 月 21 日在日本發售，2001 年 6 月 11 日在北美發售，2001 年 6 月 22 日在澳洲和歐洲發售，2004 年 6 月 8 日在中國大陸發售 (iQue Player)。任天堂當時在掌上型電腦市場的競爭對手包括 Neo Geo Pocket Color、WonderSwan、GP32、Tapwave Zodiac 以及 N-Gage。儘管競爭對手竭盡全力，任天堂仍以 Game Boy Advance 維持了大多數的市場佔有率。截至 2010 年 6 月 30 日，Game Boy Advance 系列已在全球售出 8,151 萬台。它的後繼機種 Nintendo DS 於 2004 年 11 月推出，也相容於 Game Boy Advance 軟體。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

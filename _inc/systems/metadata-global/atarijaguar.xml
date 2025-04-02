@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari Jaguar</systemName>
         <systemDescription>The Atari Jaguar is a fifth generation (1993–2005) video game console developed and distributed by Atari Corporation. It was released in November 1993 in North America at a retail price of $249.99. The console was later released in Europe (1994), Australia (1994), and Japan (1994). The Jaguar was marketed as being the first 64-bit video game console; however this claim was widely criticized. The console was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>November 23, 1993</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>CD3C3B</systemColor>
+        <systemColor>da493b</systemColor>
         <systemColorPalette1>FF0000</systemColorPalette1>
         <systemColorPalette2>FDC007</systemColorPalette2>
         <systemColorPalette3>232326</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>雅达利美洲虎是由雅达利公司开发和销售的第五代（1993-2005 年）视频游戏机。它于 1993 年 11 月在北美发布，零售价为 249.99 美元。该游戏机随后在欧洲（1994 年）、澳大利亚（1994 年）和日本（1994 年）发售。美洲虎 "游戏机在市场上被称为首款 64 位视频游戏机，但这一说法受到广泛批评。该游戏机于 1996 年初停产，可能是在 1996 年 4 月 8 日公司出售时停产的。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari Jaguar 是由 Atari Corporation 開發和代理的第五代 (1993-2005) 視訊遊戲機。它於 1993 年 11 月在北美發售，零售價為 249.99 美元。該遊戲機後來在歐洲（1994 年）、澳洲（1994 年）和日本（1994 年）發行。Jaguar 在市場上被標榜為第一台 64 位元的視訊遊戲主機，然而此聲稱卻廣受批評。該控制台於 1996 年初停產，可能是在 1996 年 4 月 8 日公司出售時停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

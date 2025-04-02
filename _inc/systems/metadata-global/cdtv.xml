@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>CDTV</systemName>
         <systemDescription>The CDTV (an acronym for "Commodore Dynamic Total Vision", a backronym of an acronym for "Compact Disc Television", giving it a double meaning) is a multimedia platform developed by Commodore International and launched in March 1991. The CDTV was intended as a media appliance rather than a personal computer.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>March 1, 1991</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>775EBA</systemColor>
+        <systemColor>7865be</systemColor>
         <systemColorPalette1>C86388</systemColorPalette1>
         <systemColorPalette2>6F62E8</systemColorPalette2>
         <systemColorPalette3>1CA6F1</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>CDTV （"Commodore Dynamic Total Vision "的缩写，是 "Compact Disc Television "的缩写，具有双重含义）是由 Commodore International 开发的多媒体平台，于 1991 年 3 月推出。CDTV 是一种媒体设备，而不是个人电脑。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>CDTV (「Commodore Dynamic Total Vision」的縮寫，是「Compact Disc Television」的縮寫，使其具有雙重意義) 是 Commodore International 開發的多媒體平台，於 1991 年 3 月推出。CDTV 擬作為媒體用具，而非個人電腦。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

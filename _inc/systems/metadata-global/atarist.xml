@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari ST</systemName>
         <systemDescription>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The initial model, the 520ST, saw limited release in April–June 1985 and was widely available in July. The 520ST is the first personal computer to come with a bitmapped color GUI, using a version of Digital Research's GEM released in February 1985. The 1040ST, released in 1986, is the first personal computer to ship with a megabyte of RAM in the base configuration and also the first with a cost-per-kilobyte of less than US$1.
@@ -12,7 +12,7 @@ The ST was sold with either Atari's color monitor or the less expensive monochro
         <systemReleaseDateFormated>June 1, 1985</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>0088D1</systemColor>
+        <systemColor>007dd6</systemColor>
         <systemColorPalette1>172E7E</systemColorPalette1>
         <systemColorPalette2>3C62A7</systemColorPalette2>
         <systemColorPalette3>000000</systemColorPalette3>
@@ -157,6 +157,16 @@ ST는 Atari의 컬러 모니터 또는 더 저렴한 흑백 모니터와 함께 
 
 ST 与雅达利的彩色显示器或价格较低的单色显示器一起销售。系统的彩色图形模式只能在前者上使用，而最高分辨率模式则需要单色显示器。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari ST 是 Atari Corporation 的家用電腦系列，也是 Atari 8 位元系列的後繼機種。最初的型號 520ST 於 1985 年 4 月至 6 月間限量發行，並於 7 月廣泛上市。520ST 是第一台配備位元圖彩色圖形使用者介面的個人電腦，使用的是 Digital Research 於 1985 年 2 月推出的 GEM 版本。1986 年發表的 1040ST 是第一台在基本配置中搭載一兆位元組 RAM 的個人電腦，也是第一台每千位元組成本低於 1 美元的個人電腦。
+
+Atari ST 屬於 1980 年代中期的家用電腦世代，這些電腦擁有 16 或 32 位元處理器、256 KB 或更大的 RAM，以及滑鼠控制的圖形使用者介面。這一代的產品包括 Macintosh、Amiga、Apple IIGS，以及某些市場上的 Acorn Archimedes。"ST 「正式代表 」Sixteen/Thirty-two"，指的是 Motorola 68000 的 16 位元外部匯流排和 32 位元內部元件。
+
+ST 搭配 Atari 的彩色螢幕或較便宜的單色螢幕出售。系統的彩色圖形模式只能在前者上使用，而最高解析度模式則需要單色螢幕。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

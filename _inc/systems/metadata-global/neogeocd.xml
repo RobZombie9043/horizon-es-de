@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Neo Geo CD</systemName>
         <systemDescription>The Neo Geo CD (Japanese: ネオジオCD, Hepburn: Neo Jio Shī Dī) is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent. This is the same platform, converted to the cheaper CD format retailing at $49 to $79 per title, compared to the $300 cartridges. The system was originally priced at US$399, or £399 in the UK. The unit's 1× CD-ROM drive is slow, with very long loading times. The system can also play Audio CDs. All three versions of the system have no region-lock. The Neo Geo CD was launched bundled with a control pad instead of a joystick like the AES version. However, the original AES joystick can be used with all three Neo Geo CD models.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>September 9, 1994</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>AD90E2</systemColor>
+        <systemColor>af98e6</systemColor>
         <systemColorPalette1>878880</systemColorPalette1>
         <systemColorPalette2>FFD400</systemColorPalette2>
         <systemColorPalette3>0088CD</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Neo Geo CD（日语：ネオジオCD，合本：Neo Jio Shī Dī）是 SNK 公司的 Neo Geo 系列的第二款家用视频游戏机，于 1994 年 9 月 9 日发布，比同类卡带游戏机晚了四年。这是相同的平台，与 300 美元的卡带相比，转换为更便宜的 CD 格式，每款游戏的零售价为 49 至 79 美元。该系统的原价为 399 美元，或英国的 399 英镑。该设备的 1× CD-ROM 驱动器速度很慢，加载时间很长。该系统还可以播放音频 CD。所有三个版本的系统都没有区域锁定。Neo Geo CD 推出时捆绑的是控制板，而不是像 AES 版本那样的操纵杆。不过，原始的 AES 操纵杆可用于所有三种型号的 Neo Geo CD。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Neo Geo CD（日文：ネオジオCD，合本：Neo Jio Shī Dī）是 SNK Corporation 旗下 Neo Geo 系列的第二款家用視訊遊戲機，於 1994 年 9 月 9 日發佈，比同系列的卡帶遊戲機晚發佈四年。與 300 美元的卡帶相比，這是相同的平台，轉換成更便宜的 CD 格式，每款遊戲零售價介於 49 美元至 79 美元之間。該系統的原價為 399 美元，或英國的 399 英鎊。該裝置的 1× CD-ROM 光碟機速度很慢，載入時間非常長。該系統也可播放音訊 CD。該系統的三個版本均無區域鎖定功能。Neo Geo CD 推出時捆綁了控制板，而不是像 AES 版本那樣捆綁了搖桿。不過，原版的 AES 搖桿可搭配所有三種 Neo Geo CD 機型使用。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

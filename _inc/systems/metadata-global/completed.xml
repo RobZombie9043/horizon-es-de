@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Completed</systemName>
         <systemDescription>Keep track of the games you've finished.</systemDescription>
@@ -7,7 +7,6 @@
         <systemReleaseDate>Various</systemReleaseDate>
         <systemReleaseDateFormated>Various</systemReleaseDateFormated>
         <systemHardwareType>Collection</systemHardwareType>
-        <systemColor>222222</systemColor>
         <systemCoverSize>1-1</systemCoverSize>
         <systemCartSize>1-1</systemCartSize>
     </variables>
@@ -93,6 +92,12 @@
         <variables>
             <systemDescription>记录您已完成的游戏。</systemDescription>
             <systemHardwareType>收藏品</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>記錄您已完成的遊戲。</systemDescription>
+            <systemHardwareType>系列</systemHardwareType>
         </variables>
     </language>
 </theme>

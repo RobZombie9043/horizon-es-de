@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Sega Genesis</systemName>
         <systemDescription>The Sega Genesis, known as the Mega Drive in most regions outside North America, is a 16-bit home video game console which was developed and sold by Sega Enterprises, Ltd. The Genesis was Sega's third console and the successor to the Master System. Sega first released the console as the Mega Drive in Japan in 1988, followed by a North American debut under the Genesis moniker in 1989. In 1990, the console was distributed as the Mega Drive by Virgin Mastertronic in Europe, by Ozisoft in Australasia, and by Tec Toy in Brazil. In South Korea, the systems were distributed by Samsung and were known as the Super Gam*Boy, and later the Super Aladdin Boy. The main microprocessor of the Genesis is a 16/32-bit Motorola 68000 CPU clocked at 7.6 MHz. The console also includes a Zilog Z80 sub-processor, which was mainly used to control the sound hardware and also provides backwards compatibility with the Master System.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>August 14, 1989</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>B52D2E</systemColor>
+        <systemColor>c23b2c</systemColor>
         <systemColorPalette1>D2D2D2</systemColorPalette1>
         <systemColorPalette2>488277</systemColorPalette2>
         <systemColorPalette3>3E64AE</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>世嘉 Genesis（在北美以外的大多数地区称为 Mega Drive）是世嘉企业有限公司（Sega Enterprises, Ltd.）开发和销售的一款 16 位家用视频游戏机。Genesis 是世嘉的第三款游戏机，也是 Master System 的后继机。1988 年，世嘉首次在日本以 Mega Drive 的名义发布了这款游戏机，随后于 1989 年在北美以 Genesis 的名称首次亮相。1990 年，该控制台作为 Mega Drive 在欧洲由 Virgin Mastertronic 代理，在澳大拉西亚由 Ozisoft 代理，在巴西由 Tec Toy 代理。在韩国，该系统由三星经销，被称为超级 Gam*Boy，后来又被称为超级阿拉丁男孩。Genesis 的主微处理器是一个 16/32 位摩托罗拉 68000 CPU，时钟频率为 7.6 MHz。控制台还包括一个 Zilog Z80 子处理器，主要用于控制音效硬件，并提供与 Master System 的向后兼容性。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sega Genesis（在北美以外的大多數地區稱為 Mega Drive）是由 Sega Enterprises, Ltd.（世嘉企業有限公司）開發和銷售的 16 位家用視頻遊戲控制台。Genesis 是 Sega 的第三款遊戲機，也是 Master System 的後繼機種。Sega 於 1988 年在日本以 Mega Drive 的名義首次推出此款遊戲機，並於 1989 年以 Genesis 的名稱在北美首次亮相。1990 年，歐洲的 Virgin Mastertronic、澳大利亞的 Ozisoft 和巴西的 Tec Toy 分銷了 Mega Drive。在韓國，該系統由 Samsung 代理，稱為 Super Gam*Boy，後來又稱為 Super Aladdin Boy。Genesis 的主要微處理器為 16/32 位元的 Motorola 68000 CPU，時脈為 7.6 MHz。控制台還包括一個 Zilog Z80 子處理器，主要用來控制音效硬體，也提供與 Master System 的向下相容性。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

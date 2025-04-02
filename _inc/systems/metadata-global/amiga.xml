@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Amiga</systemName>
         <systemDescription>The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities. The Amiga provided a significant upgrade from 8-bit computers, such as the Commodore 64, and the platform quickly grew in popularity among computer enthusiasts. The best selling model, the Amiga 500, was introduced in 1987 and became the leading home computer of the late 1980s and early 1990s in much of Western Europe.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>July 23, 1985</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>3870c5</systemColor>
+        <systemColor>336ec8</systemColor>
         <systemColorPalette1>477AB1</systemColorPalette1>
         <systemColorPalette2>82B030</systemColorPalette2>
         <systemColorPalette3>F3EB08</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Amiga 是 Commodore 在 20 世纪 80 年代和 90 年代推出的个人电脑系列。第一款机型于 1985 年推出，是一款高端家用电脑，因其图形、音频和多任务处理能力而广受欢迎。与 Commodore 64 等 8 位计算机相比，Amiga 是一个重大升级，该平台迅速受到计算机爱好者的欢迎。最畅销的机型 Amiga 500 于 1987 年推出，成为 20 世纪 80 年代末和 90 年代初西欧大部分地区最主要的家用电脑。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Amiga 是 Commodore 在 1980 和 1990 年代行銷的個人電腦系列。第一款機型於 1985 年推出，是高階家用電腦，因其圖形、音效和多工作業能力而廣受歡迎。Amiga 是 8 位元電腦（如 Commodore 64）的重大升級，該平台迅速受到電腦愛好者的青睞。最暢銷的機型 Amiga 500 於 1987 年推出，在西歐大部分地區成為 1980 年代末 1990 年代初的家用電腦領導者。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

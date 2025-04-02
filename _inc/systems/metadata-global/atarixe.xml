@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari XE</systemName>
         <systemDescription>The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console alongside the Nintendo Entertainment System, Sega's Master System, and Atari's own Atari 7800. The XEGS is compatible with existing Atari 8-bit family hardware and software. Without keyboard, the system operates as a stand-alone game console. With the keyboard, it boots identically to the Atari XE computers. Atari packaged the XEGS as a basic set consisting of only the console and joystick, and as a deluxe set consisting of the console, keyboard, CX40 joystick, and XG-1 light gun.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>雅达利 XE 视频游戏系统（Atari XEGS）是对雅达利 65XE 家用电脑的工业重新设计，也是雅达利 8 位系列的最后一个型号。它由 Atari Corporation 于 1987 年发布，作为家用视频游戏机与任天堂娱乐系统、世嘉的 Master System 和 Atari 自己的 Atari 7800 一起销售。XEGS 兼容雅达利现有的 8 位系列硬件和软件。不使用键盘时，该系统可作为独立的游戏机运行。使用键盘时，系统启动与雅达利 XE 计算机相同。雅达利将 XEGS 包装成基本套装和豪华套装，基本套装包括控制台和操纵杆，豪华套装包括控制台、键盘、CX40 操纵杆和 XG-1 光枪。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari XE 視訊遊戲系統 (Atari XEGS) 是 Atari 65XE 家用電腦的工業再設計，也是 Atari 8 位元系列的最後型號。它由 Atari Corporation 於 1987 年推出，與 Nintendo Entertainment System、Sega 的 Master System 以及 Atari 自家的 Atari 7800 同為家用視訊遊戲機。XEGS 相容於現有的 Atari 8 位元系列硬體與軟體。不使用鍵盤時，系統可作為獨立的遊戲主機運作。使用鍵盤時，其開機方式與 Atari XE 電腦相同。Atari 將 XEGS 包裝成基本組合（僅包含控制台和搖桿）和豪華組合（包含控制台、鍵盤、CX40 搖桿和 XG-1 光槍）。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

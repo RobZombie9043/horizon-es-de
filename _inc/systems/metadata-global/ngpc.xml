@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Neo Geo Pocket Color</systemName>
         <systemDescription>The Neo Geo Pocket Color is a 16-bit color handheld video game console manufactured by SNK. It is a successor to SNK's monochrome Neo Geo Pocket handheld which debuted in 1998 in Japan, with the Color being fully backward compatible. The Neo Geo Pocket Color was released on March 16, 1999 in Japan, August 6, 1999 in North America, and on October 1, 1999 in Europe, entering markets all dominated by Nintendo, competing with Nintendo's Game Boy Color.
@@ -10,7 +10,7 @@ After a good sales start in both the U.S. and Japan with 14 launch titles (a rec
         <systemReleaseDateFormated>March 16, 1999</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>373-436</systemCoverSize>
-        <systemColor>ECA045</systemColor>
+        <systemColor>f2a243</systemColor>
         <systemColorPalette1>E92A30</systemColorPalette1>
         <systemColorPalette2>18A94E</systemColorPalette2>
         <systemColorPalette3>1D9ED8</systemColorPalette3>
@@ -127,6 +127,14 @@ Efter en bra försäljningsstart i både USA och Japan med 14 lanseringstitlar (
 
 在美国和日本上市之初都取得了不错的销售业绩，共推出了 14 款游戏（创下了当时的记录），但随后由于美国的零售支持率较低、SNK 的美国管理层缺乏与第三方开发商的沟通、任天堂的《口袋妖怪》系列游戏的流行和对 32 位 Game Boy Advance 的期待，以及日本 Bandai 的 WonderSwan 的强劲竞争，导致这两个地区的销售下滑。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Neo Geo Pocket Color 是 SNK 製造的 16 位元彩色掌上型螢幕遊戲機。它是 SNK 於 1998 年在日本推出的單色 Neo Geo Pocket 掌上型遊戲機的後繼機種，Color 完全向後相容。Neo Geo Pocket Color 於 1999 年 3 月 16 日在日本、1999 年 8 月 6 日在北美、1999 年 10 月 1 日在歐洲發售，進軍由任天堂主導的市場，與任天堂的 Game Boy Color 競爭。
+
+在美國和日本都有良好的銷售開始，推出了 14 款遊戲 (創下當時的紀錄)，但隨後美國的零售支援不足、SNK 的美國管理階層缺乏與協力廠商開發人員的溝通、任天堂的 Pokémon 系列的熱門和對 32 位元 Game Boy Advance 的期待，以及日本 Bandai 的 WonderSwan 的強烈競爭，導致這兩個地區的銷售下滑。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

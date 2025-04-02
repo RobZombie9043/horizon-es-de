@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>TI-99/4</systemName>
         <systemDescription>The TI-99/4 is a home computer released in late 1979 by Texas Instruments. Based on the Texas Instruments TMS9900 microprocessor originally used in minicomputers, it was the first 16-bit home computer. The associated video display controller provides color graphics and among the best sprite support of its era.
@@ -10,7 +10,7 @@ It includes a simplified internal design, a full-travel keyboard, improved graph
         <systemReleaseDateFormated>June 1981</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>5E6064</systemColor>
+        <systemColor>5F6165</systemColor>
         <systemColorPalette1>AAA6A7</systemColorPalette1>
         <systemColorPalette2>C7C2BE</systemColorPalette2>
         <systemColorPalette3>1F1F1F</systemColorPalette3>
@@ -127,6 +127,14 @@ Den har en förenklad intern design, ett tangentbord med full rörelsefrihet, f�
 
 它包括简化的内部设计、全行程键盘、改进的图形和独特的扩展系统。由于价格仅为原型机的一半，因此销量大增。德州仪器为 4A 提供了外设支持，包括语音合成器和 "外设扩展系统 "盒，其中包含硬件附加组件。TI 发布了开发人员信息和工具，但坚持作为唯一出版商的做法继续导致该平台软件匮乏。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>TI-99/4 是德州儀器於 1979 年底推出的家用電腦。它以最初用於迷你電腦的 Texas Instruments TMS9900 微處理器為基礎，是第一台 16 位元家用電腦。其相關的視訊顯示控制器可提供彩色圖形，並擁有同時代最佳的噴畫支援。
+
+它包括簡化的內部設計、全行程鍵盤、改良的圖形以及獨特的擴充系統。由於價格只有原始機型的一半，因此銷量大幅提升。TI 為 4A 提供外圍設備支援，包括語音合成器和「外圍擴充系統」盒，可容納硬體附加元件。TI 發佈了開發者資訊和工具，但堅持只做獨家發行商的做法，繼續讓平台缺乏軟體。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

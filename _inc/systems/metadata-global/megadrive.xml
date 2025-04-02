@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Mega Drive</systemName>
         <systemDescription>The Mega Drive is a 16-bit fourth-generation home video game console developed and sold by Sega. It's Sega's third console and the successor to the Master System. The Mega Drive was adapted from Sega's System 16 arcade board.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>1990</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>0C7BCB</systemColor>
+        <systemColor>0374d1</systemColor>
         <systemCartSize>112-67</systemCartSize>
     </variables>
     <language name="ca_ES">
@@ -92,6 +92,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Mega Drive 是世嘉开发和销售的 16 位第四代家用视频游戏机。它是世嘉的第三台游戏机，也是 Master System 的后继机。Mega Drive 由世嘉的 System 16 街机板改装而成。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Mega Drive 是由 Sega 開發和銷售的 16 位元第四代家用視訊遊戲機。它是 Sega 的第三台遊戲機，也是 Master System 的後繼機種。Mega Drive 由 Sega 的 System 16 遊戲機板改裝而成。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

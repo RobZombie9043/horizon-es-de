@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Commodore 64</systemName>
         <systemDescription>The Commodore 64 is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. Volume production started in early 1982, marketing in August for US$595 (equivalent to $1,461 in 2015). Preceded by the Commodore VIC-20 and Commodore PET, the C64 took its name from its 64 kilobytes (65,536 bytes) of RAM. It had superior sound and graphical specifications compared to other earlier systems such as the Apple II and Atari 800, with multi-color sprites and a more advanced sound processor.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>January 1, 1982</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>0F5BAD</systemColor>
+        <systemColor>0a58b2</systemColor>
         <systemColorPalette1>BBAD93</systemColorPalette1>
         <systemColorPalette2>968971</systemColorPalette2>
         <systemColorPalette3>FD4120</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>准将 64 是准将国际公司于 1982 年 1 月推出的一款 8 位家用电脑。它被列入吉尼斯世界纪录，是有史以来销量最高的单一计算机型号，据独立估计，其销量在 1,000 万至 1,700 万台之间。1982 年初开始批量生产，8 月上市，售价 595 美元（相当于 2015 年的 1461 美元）。C64 的前身是 Commodore VIC-20 和 Commodore PET，其名称源于 64 千字节（65,536 字节）的 RAM。与其他早期系统（如 Apple II 和 Atari 800）相比，C64 拥有更出色的声音和图形规格，配备了多色精灵和更先进的声音处理器。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Commodore 64 是 Commodore International 於 1982 年 1 月推出的 8 位元家用電腦。在吉尼斯世界紀錄中，它被列為有史以來銷售量最高的單一電腦機型，根據獨立估計，銷售量介於 1,000 萬台至 1,700 萬台之間。1982 年初開始量產，8 月上市，售價為 595 美元（相當於 2015 年的 1,461 美元）。C64 的前身是 Commodore VIC-20 和 Commodore PET，其名來自 64 KB (65,536 位元組) 的 RAM。與其他早期系統（如 Apple II 和 Atari 800）相比，C64 的音效和圖形規格更為優異，具有多色萌點和更先進的音效處理器。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

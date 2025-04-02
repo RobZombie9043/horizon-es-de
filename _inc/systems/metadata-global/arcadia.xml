@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Arcadia 2001</systemName>
         <systemDescription>The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released. Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan. Over 30 Arcadia 2001 clones exist.</systemDescription>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Arcadia 2001 是 Emerson Radio 于 1982 年 5 月发布的第二代 8 位家用视频游戏机，售价 99 美元，比 ColecoVision 早几个月发布。18 个月后，该产品停产，共发布了 35 款游戏。Emerson 将 Arcadia 2001 授权给万代公司，由后者在日本发行。目前有 30 多款 Arcadia 2001 克隆机。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Arcadia 2001 是 Emerson Radio 於 1982 年 5 月推出的第二代 8 位元家用視訊遊戲機，當時的售價為 99 美元，比 ColecoVision 推出的時間還要早幾個月。18 個月後，該遊戲機終於停產，共發行了 35 款遊戲。Emerson 將 Arcadia 2001 授權給 Bandai，由 Bandai 在日本發行。目前有超過 30 款 Arcadia 2001 的複製品。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

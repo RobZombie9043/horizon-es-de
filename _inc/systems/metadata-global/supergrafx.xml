@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>SuperGrafx</systemName>
         <systemDescription>The PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), also known as simply the SuperGrafx, is a fourth-generation home video game console manufactured by NEC Home Electronics and released in Japan and France in 1989. It is the successor system to the PC Engine, released two years prior. Originally known as the PC Engine 2 during production stages, it was purported as a true 16-bit home console, featuring improved graphics and audio capabilities over its predecessor.
@@ -10,7 +10,7 @@ The console was rushed to market, released several months before its initial rel
         <systemReleaseDateFormated>December 8, 1989</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>69b5dc</systemColor>
+        <systemColor>61b1df</systemColor>
         <systemColorPalette1>B2B2B2</systemColorPalette1>
         <systemColorPalette2>0091AD</systemColorPalette2>
         <systemColorPalette3>000000</systemColorPalette3>
@@ -126,6 +126,14 @@ Konsolen kom ut på marknaden i all hast, flera månader före det ursprungliga 
             <systemDescription>PC Engine SuperGrafx（PC エンジンスーパーグラフィックス，Pī Shī Enjin SūpāGurafikkusu），又称 SuperGrafx，是 NEC 家庭电子公司制造的第四代家用视频游戏机，1989 年在日本和法国发布。它是两年前发布的 PC Engine 的后继系统。在生产阶段，它最初被称为 PC Engine 2，号称是真正的 16 位家用游戏机，其图形和音频功能都比前一代产品有所改进。
 
 这款游戏机匆忙上市，比最初的发布日期（1990 年）提前了几个月，仅对硬件进行了适度更新。SuperGrafx 仅发布了 6 款利用控制台硬件更新的零售游戏，在商业上是失败的，在两个地区的总销量仅为 75,000 台。在 NEC 后来的游戏机（如 TurboDuo）上，SuperGrafx 硬件上的进步都没有得到延续。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PC Engine SuperGrafx (エンジンスーパーグラフィックス，Pī Shī Enjin SūpāGurafikkusu)，也簡稱為 SuperGrafx，是 NEC Home Electronics 製造的第四代家用視訊遊戲機，1989 年在日本和法國發行。它是兩年前推出的 PC Engine 的後繼系統。在製造階段，它原本被稱為 PC Engine 2，據稱是真正的 16 位元家用遊戲機，在圖像和音訊功能上都比前一代產品有所改善。
+
+這款控制台匆忙上市，比 1990 年的原定發售日期早了幾個月，硬體也只做了適度的更新。SuperGrafx 只發行了六款利用控制台硬體更新的零售遊戲，在商業上是失敗的，在兩個地區的總銷量只有 75,000 台。SuperGrafx 所擁有的硬體進步都沒有延續到 NEC 後來的控制台，例如 TurboDuo。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

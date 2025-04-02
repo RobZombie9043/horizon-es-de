@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>LCD Games</systemName>
         <systemDescription>Handheld electronic games are very small, portable devices for playing interactive electronic games, often miniaturized versions of video games. The controls, display and speakers are all part of a single unit.
@@ -157,6 +157,16 @@ Handdatorernas popularitet nådde sin topp från slutet av 1970-talet till börj
 
 20 世纪 70 年代末到 90 年代初，掌上电脑的普及率达到顶峰，随后逐渐下降。它们是掌上游戏机的前身。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>手持式電子遊戲是非常小的可攜式裝置，用來玩互動式電子遊戲，通常是視訊遊戲的小型化版本。控制器、顯示器和喇叭都是單一裝置的一部分。
+
+手持式電子遊戲機的螢幕並非由小像素網格組成的通用螢幕，而是專為玩一種遊戲而設計的客製螢幕。這種簡易性意味著它們可以做得和智慧型手錶一樣小，有時候甚至可以做得和智慧型手錶一樣小。這些遊戲的視覺輸出範圍可從幾個小燈泡或 LED 燈到類似計算機的字母數字螢幕；後來這些螢幕大多被液晶和真空螢光顯示螢幕取代，液晶和真空螢光顯示螢幕具有細緻的影像，而 VFD 遊戲則具有色彩。
+
+掌上型電腦在 1970 年代末到 1990 年代初達到最流行的階段，之後逐漸式微。它們是掌上型遊戲機的前身。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>3DO</systemName>
         <systemDescription>The 3DO Interactive Multiplayer (often called simply 3DO) is a video game console originally produced by Panasonic in 1993. Further renditions of the hardware were released in 1994 by Sanyo and Goldstar. The consoles were manufactured according to specifications created by The 3DO Company, and were originally designed by Dave Needle and RJ Mical of New Technology Group. The system was conceived by entrepreneur and Electronic Arts founder Trip Hawkins.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>October 4, 1993</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>752-1440</systemCoverSize>
-        <systemColor>CFA83E</systemColor>
+        <systemColor>d4a53a</systemColor>
         <systemColorPalette1>FF0000</systemColorPalette1>
         <systemColorPalette2>0000A0</systemColorPalette2>
         <systemColorPalette3>FFE41B</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>3DO Interactive Multiplayer（通常简称为 3DO）是松下公司于 1993 年推出的一款视频游戏机。1994 年，三洋（Sanyo）和金星（Goldstar）又推出了该硬件的其他版本。这些游戏机是根据 3DO 公司制定的规格制造的，最初由新技术集团的 Dave Needle 和 RJ Mical 设计。该系统由企业家和电子艺术公司创始人特里普-霍金斯构思。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>3DO Interactive Multiplayer (通常簡稱為 3DO) 是一種視訊遊戲機，最初由 Panasonic 於 1993 年生產。1994 年，Sanyo 和 Goldstar 推出了更多版本的硬體。這些控制台是根據 3DO Company 的規格製造，最初由 New Technology Group 的 Dave Needle 和 RJ Mical 設計。該系統由企業家兼 Electronic Arts 創辦人 Trip Hawkins 構思。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

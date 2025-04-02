@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Intellivision</systemName>
         <systemDescription>The Mattel Intellivision is a second generation (1976–1992) home video game console developed and distributed by Mattel Electronics. It was released in summer 1979 in North America at a retail price of $299. The console was later released in Europe (1981), South America (1982), and Japan (1982). The Intellivision was the first home console to use a tile based playfield and was the first game console to provide real-time human voices in the middle of gameplay, courtesy of the IntelliVoice module. The console was discontinued in early-1990.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>December 3, 1979</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>E67E17</systemColor>
+        <systemColor>ef830f</systemColor>
         <systemColorPalette1>D4C1A0</systemColorPalette1>
         <systemColorPalette2>2B201D</systemColorPalette2>
         <systemColorPalette3>C81A7C</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>美泰 Intellivision 是美泰电子公司开发和销售的第二代（1976-1992 年）家用视频游戏机。它于 1979 年夏季在北美发布，零售价为 299 美元。该游戏机随后在欧洲（1981 年）、南美（1982 年）和日本（1982 年）发售。Intellivision 是第一款使用基于瓷砖的游戏场地的家用游戏机，也是第一款通过 IntelliVoice 模块在游戏过程中提供实时人声的游戏机。该游戏机于 1990 年初停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Mattel Intellivision 是第二代（1976-1992 年）家用視訊遊戲機，由 Mattel Electronics 開發和代理。它於 1979 年夏季在北美發行，零售價為 299 美元。該遊戲機後來在歐洲（1981 年）、南美洲（1982 年）和日本（1982 年）發行。Intellivision 是第一台使用瓦片式遊戲場地的家用控制台，也是第一台在遊戲中段提供即時人聲的遊戲控制台，這是 IntelliVoice 模組的功勞。該控制台於 1990 年初停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

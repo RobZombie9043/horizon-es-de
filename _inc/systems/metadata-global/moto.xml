@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Thomson MOTO</systemName>
         <systemDescription>The Thomson MOTO line of computers were a series of 8-bit computers sold in the 1980s by French electronics company Thomson, which has been nationalized in 1982. The MOTO computers became an integral part of the French Government's plan informatique pour tous (IPT) to make computers widespread throughout France by bringing computers and programming classes to French school children. A number of computer makers, including Apple, were considered before Thomson won the contract.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>1984</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>2C5299</systemColor>
+        <systemColor>2a539c</systemColor>
         <systemColorPalette1>E6F0EF</systemColorPalette1>
         <systemColorPalette2>F0C73B</systemColorPalette2>
         <systemColorPalette3>4F8E5C</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>汤姆逊 MOTO 系列计算机是法国电子公司汤姆逊在 20 世纪 80 年代销售的一系列 8 位计算机，该公司已于 1982 年国有化。MOTO 电脑是法国政府 "全民信息化计划"（IPT）的重要组成部分，该计划旨在通过为法国中小学生提供电脑和编程课程，使电脑在全法国得到普及。在汤姆逊赢得合同之前，包括苹果公司在内的许多计算机制造商都曾被考虑过。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Thomson MOTO 系列電腦是法國電子公司 Thomson 在 1980 年代銷售的一系列 8 位元電腦，該公司已於 1982 年收歸國有。MOTO 電腦成為法國政府「全民資訊化計劃」（informatique pour tous，簡稱 IPT）不可或缺的一部份，該計劃旨在透過為法國學童提供電腦和程式設計課程，讓電腦在全法普及。在 Thomson 贏得合約之前，包括 Apple 在內的許多電腦製造商都曾被考慮過。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

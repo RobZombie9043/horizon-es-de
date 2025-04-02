@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>IBM PC</systemName>
         <systemDescription>The IBM Personal Computer (model 5150, commonly known as the IBM PC) is the first microcomputer released in the IBM PC model line and the basis for the IBM PC compatible de facto standard. Released on August 12, 1981, it was created by a team of engineers and designers directed by Don Estridge in Boca Raton, Florida.
@@ -157,6 +157,16 @@ PC는 개인용 컴퓨터 시장에 상당한 영향을 미쳤습니다. IBM PC�
 
 PC 对个人电脑市场产生了重大影响。IBM PC 的规格成为世界上最流行的计算机设计标准之一。在整个 20 世纪 80 年代，IBM PC 面临的唯一来自非兼容平台的重大竞争是来自苹果 Macintosh 产品线。大多数现代个人电脑都是 IBM PC 的后代。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>IBM 個人電腦（5150 型，一般稱為 IBM PC）是 IBM PC 機型系列中發佈的第一款微型電腦，也是 IBM PC 相容事實標準的基礎。它於 1981 年 8 月 12 日發佈，由 Don Estridge 在佛羅里達州 Boca Raton 所指揮的工程師和設計師團隊所創造。
+
+該機器以開放式架構和第三方週邊為基礎。隨著時間的推移，擴充卡和軟體技術也不斷增加以支援它。
+
+PC 對個人電腦市場產生了重大的影響。IBM PC 的規格成為全球最流行的電腦設計標準之一。在整個 1980 年代，它唯一面臨的來自非相容平台的重大競爭是來自 Apple Macintosh 產品線。大部分現代個人電腦都是 IBM PC 的遠祖。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

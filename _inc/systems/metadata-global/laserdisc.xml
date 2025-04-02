@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>LaserDisc Games</systemName>
         <systemDescription>LaserDisc arcade games use pre-recorded video, either in combination with overlaid sprites or simply as sections of video controllable by the player. The first major LaserDisc game was Sega's Astron Belt, released in 1983. It was closely followed by Dragon's Lair the same year, which is doubtlessly the most famous LaserDisc game. A number of releases followed and to this day there is a community making similar homebrew games, although they no longer technically run on LaserDiscs.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>Various</systemReleaseDateFormated>
         <systemHardwareType>Folder</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>222222</systemColor>
+        <systemColor>279eef</systemColor>
         <systemColorPalette1>F6DD08</systemColorPalette1>
         <systemColorPalette2>800000</systemColorPalette2>
         <systemColorPalette3>FF0000</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>激光视盘街机游戏使用预先录制的视频，可以与叠加精灵结合使用，也可以简单地作为玩家可以控制的视频部分。第一款大型激光视盘游戏是世嘉公司于 1983 年推出的《Astron Belt》。同年发行的《龙之巢穴》（Dragon's Lair）紧随其后，无疑是最著名的激光视盘游戏。之后又推出了许多游戏，直到今天，仍有一个社区在制作类似的自制游戏，尽管从技术上讲，这些游戏已不再能在激光视盘上运行。</systemDescription>
             <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>鐳射碟街機遊戲使用預錄的視訊，可以與疊加的萌體結合，也可以簡單地作為玩家可以控制的視訊部分。第一款大型雷射光碟片遊戲是 Sega 於 1983 年推出的 Astron Belt。同年推出的 Dragon's Lair 無疑是最著名的 LaserDisc 遊戲。隨後發行了多款遊戲，至今仍有製作類似自製遊戲的社群，儘管這些遊戲在技術上已不再能在 LaserDisc 上執行。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>X1</systemName>
         <systemDescription>The X1 (エックスワン, Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.
@@ -16,7 +16,7 @@ Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos
         <systemReleaseDateFormated>1982</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>B73538</systemColor>
+        <systemColor>c2433a</systemColor>
         <systemColorPalette1>752421</systemColorPalette1>
         <systemColorPalette2>4A90CB</systemColorPalette2>
         <systemColorPalette3>C1C3D1</systemColorPalette3>
@@ -217,6 +217,20 @@ X1 的 RGB 显示屏带有电视调谐器，可以在电视上叠加电脑屏幕
 
 夏普继续通过其 Internet Aquos 系列在日本销售台式 PC/TV 组合机，并提供 X1 风格的红色配色方案。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>X1 (エックスワン, Ekkusuwan)，有時也稱為夏普 X1，是夏普公司於 1982 年至 1988 年間推出的一系列家用電腦。它以 Z80 CPU 為基礎。
+
+儘管夏普電腦部門已經推出了 MZ 系列，但電視部門卻突然推出了一個新的電腦系列，稱為 X1。在最初的 X1 發表時，所有其他家用電腦的 ROM 中一般都有 BASIC 語言。然而 X1 並沒有 BASIC ROM，它必須從卡帶中載入 Hu-BASIC 解譯器。然而，從好的一面來看，這個概念意味著在不使用 BASIC 時，有盡可能大的可用 RAM 區域。這項政策最初抄襲自夏普的 MZ 系列，在日本被稱為乾淨電腦。X1 的機殼外型也比當時的其他產品時尚多了，而且有多種機殼顏色可供選擇 (包括紅色)。
+
+X1 的 RGB 顯示器有電視調諧器，電腦螢幕可以疊加在電視上。所有電視功能均可透過電腦程式控制。字體是完全可編程的（A.K.A. PCG），具有 4 位元色彩，並有效地應用在許多遊戲中。整個 VRAM 記憶體都映射到 I/O 區域，因此不需要切換銀行就能控制。由於 X1 具備這些功能，因此對遊戲軟體而言非常強大。
+
+在 X1 艱苦銷售的同時，PC8801 (來自 NEC) 卻迅速在日本市場流行起來。1984 年，夏普發佈了具有高解析度圖形（640x400，而 X1 則是 640x200）的 X1 turbo 系列。它有許多改進，但時脈速度仍只有 4 MHz。1986 年，夏普發佈了具有 4096 色類比 RGB 監視器的 X1 turbo Z 系列。1987 年，X1 系列的最後一款機器 X1 twin 終於發表，它在機殼內搭載了 PC-Engine。之後，X68000 系列接替了這個系列。
+
+夏普繼續在日本透過其網際網路 Aquos 系列銷售桌上型 PC/TV 組合，其中有 X1 風格的紅色配色可供選擇。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

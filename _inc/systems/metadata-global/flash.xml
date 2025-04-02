@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Adobe Flash</systemName>
         <systemDescription>Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of animations, rich web applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Adobe Flash（前身为 Macromedia Flash 和 FutureSplash）是一个多媒体软件平台，用于制作动画、丰富的网络应用程序、桌面应用程序、移动应用程序、移动游戏和嵌入式网络浏览器视频播放器。Flash 可显示文本、矢量图形和光栅图形，提供动画、视频游戏和应用程序。它允许音频和视频流，并能捕捉鼠标、键盘、麦克风和摄像头输入。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Adobe Flash（前身為 Macromedia Flash 和 FutureSplash）是多媒體軟體平台，用於製作動畫、富網頁應用程式、桌面應用程式、行動應用程式、行動遊戲和嵌入式網頁瀏覽器視訊播放器。Flash 可顯示文字、向量圖形和光柵圖形，以提供動畫、視訊遊戲和應用程式。它允許串流音訊和視訊，並能捕捉滑鼠、鍵盤、麥克風和攝影機的輸入。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

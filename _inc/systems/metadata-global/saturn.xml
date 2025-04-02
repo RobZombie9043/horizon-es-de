@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Sega Saturn</systemName>
         <systemDescription>The Sega Saturn is a home video game console developed by Sega and released on November 22, 1994 in Japan, May 11, 1995 in North America, and July 8, 1995 in Europe. Part of the fifth generation of video game consoles, it was the successor to the successful Sega Genesis. The Saturn has a dual-CPU architecture and eight processors. Its games are in CD-ROM format, and its game library contains several ports of arcade games as well as original games.
@@ -10,7 +10,7 @@ Development of the Saturn began in 1992, the same year Sega's groundbreaking 3D 
         <systemReleaseDateFormated>May 11, 1995</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>145-205</systemCoverSize>
-        <systemColor>597BD8</systemColor>
+        <systemColor>567ddd</systemColor>
         <systemColorPalette1>0D7176</systemColorPalette1>
         <systemColorPalette2>D1AE44</systemColorPalette2>
         <systemColorPalette3>2740A5</systemColorPalette3>
@@ -126,6 +126,14 @@ Utvecklingen av Saturn började 1992, samma år som Segas banbrytande arkadmaski
             <systemDescription>世嘉土星（Sega Saturn）是世嘉开发的家用视频游戏机，于 1994 年 11 月 22 日在日本、1995 年 5 月 11 日在北美、1995 年 7 月 8 日在欧洲发布。作为第五代视频游戏机的一部分，它是成功的世嘉创世纪（Sega Genesis）的后继机。土星采用双 CPU 架构和八个处理器。它的游戏采用 CD-ROM 格式，游戏库中有多款街机游戏的移植版和原创游戏。
 
 土星的开发始于 1992 年，同年世嘉公司开创性的 3D Model 1 街机硬件首次亮相。土星是围绕日本电子公司日立（Hitachi）的新型 CPU 设计的。1994 年初，世嘉又增加了一个视频显示处理器，以便更好地与索尼即将推出的 PlayStation 竞争。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sega Saturn 是由 Sega 開發的家用視訊遊戲主機，於 1994 年 11 月 22 日在日本、1995 年 5 月 11 日在北美、1995 年 7 月 8 日在歐洲發售。它是第五代視訊遊戲機的一部份，也是成功的 Sega Genesis 的後繼機種。Saturn 採用雙 CPU 架構和八個處理器。它的遊戲是 CD-ROM 格式，其遊戲庫包含數種街機遊戲的移植版以及原創遊戲。
+
+Saturn 於 1992 年開始開發，同年 Sega 突破性的 3D Model 1 arcade 硬體首次亮相。Saturn 的設計是以日本電子公司 Hitachi 的新 CPU 為核心。Sega 在 1994 年初增加了另一個視訊顯示處理器，以便更好地與 Sony 即將推出的 PlayStation 競爭。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

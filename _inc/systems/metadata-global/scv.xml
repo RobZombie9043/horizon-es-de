@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Super Cassette Vision</systemName>
         <systemDescription>Epoch's original Cassette Vision was introduced in Japan by Epoch in 1981, which had steady sales and took over 70% of the Japanese home console market at the time, with around 400,000 units sold. However, the introduction of next-generation systems from Nintendo, Casio and Sega quickly pushed back the original Cassette Vision, leading Epoch to quickly develop a successor. The Super Cassette Vision was released in 1984 at a cost of ¥14,800 yen, featuring an 8-bit processor and better performance more in line with its competitors. It was later released in France by ITMC under the Yeno branding. At least 16 games were brought over from Japan for a European release. A version of the system targeted the young female market, the Super Lady Cassette Vision. The console came packed in a pink carrying case, alongside the game Milky Princess. The system did not take off, and was unable to match the massive popularity of the Nintendo Famicom, leading Epoch to drop out of the console market by 1987.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>July 17, 1984</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>4-3</systemCoverSize>
-        <systemColor>6D9D4D</systemColor>
+        <systemColor>6d9b4c</systemColor>
         <systemColorPalette1>FF8300</systemColorPalette1>
         <systemColorPalette2>56A0A2</systemColorPalette2>
         <systemColorPalette3>F8EA32</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Epoch 的原版 Cassette Vision 于 1981 年由 Epoch 在日本推出，销量稳定，占据了当时日本家用游戏机市场的 70%，销量约为 40 万台。然而，任天堂、卡西欧和世嘉推出的下一代系统迅速将最初的 Cassette Vision 打回原形，导致 Epoch 不得不迅速开发后续产品。1984 年，Super Cassette Vision 发布，售价为 14,800 日元，配备了 8 位处理器，性能更接近竞争对手。后来，它以 Yeno 品牌由 ITMC 在法国发布。至少有 16 款游戏从日本带到欧洲发行。该系统的一个版本是针对年轻女性市场的 "Super Lady Cassette Vision"。这款游戏机装在一个粉红色的手提箱里，还附带游戏《Milky Princess》。该系统并未大受欢迎，无法与大受欢迎的任天堂 Famicom 相提并论，导致 Epoch 在 1987 年退出了游戏机市场。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Epoch 的原版 Cassette Vision 於 1981 年由 Epoch 在日本推出，銷量穩定，佔據了當時日本家用遊戲機市場的 70%，銷量約 40 萬台。然而，任天堂 (Nintendo)、卡西歐 (Casio) 和世嘉 (Sega) 等公司推出的次世代系統很快就將原 Cassette Vision 推倒重來，導致 Epoch 迅速開發後續產品。1984 年，Super Cassette Vision 推出，售價為 14,800 日圓，搭載 8 位元處理器，效能更勝競爭對手。之後，ITMC 在法國以 Yeno 品牌發行了這款遊戲。至少有 16 款遊戲從日本帶到歐洲發行。該系統的一個版本針對年輕女性市場，即 Super Lady Cassette Vision。這款遊戲機與遊戲《Milky Princess》一起包裝在粉紅色的手提箱中。這款遊戲機並沒有大受歡迎，也無法與大受歡迎的 Nintendo Famicom 匹敵，導致 Epoch 在 1987 年退出遊戲機市場。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

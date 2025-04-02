@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Future Pinball</systemName>
         <systemDescription>Future Pinball ("FP") is a freeware 3D pinball editing and gaming application for Microsoft Windows. It is similar to Visual Pinball ("VP") and other modern pinball simulation applications. Just as with VP's partnership with Visual PinMAME, FP uses partner applications to emulate original pinball ROM code. In FP's case, the end results of ROM code are simulated by Better Arcade Mode ("BAM") and tools such as "Pinball Browser" and dot-matrix display software plugins. Core FP development was discontinued in 2010, but resumed in 2013 via BAM. BAM features many new developments, such as enhanced physics, optics, and virtual reality support.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>October 22, 2005</systemReleaseDateFormated>
         <systemHardwareType>Engine</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>3871C5</systemColor>
+        <systemColor>7dc7ea</systemColor>
         <systemColorPalette1>F6DD08</systemColorPalette1>
         <systemColorPalette2>800000</systemColorPalette2>
         <systemColorPalette3>FF0000</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Future Pinball（"FP"）是一款适用于 Microsoft Windows 的免费 3D 弹球编辑和游戏应用程序。它类似于 Visual Pinball（"VP"）和其他现代弹球模拟应用程序。正如 VP 与 Visual PinMAME 的合作一样，FP 使用合作伙伴的应用程序来模拟原始弹球 ROM 代码。在 FP 中，ROM 代码的最终结果由 Better Arcade Mode（"BAM"）和 "Pinball Browser "等工具以及点阵显示软件插件进行模拟。核心 FP 开发于 2010 年停止，但在 2013 年通过 BAM 恢复。BAM 具有许多新开发功能，例如增强的物理、光学和虚拟现实支持。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Future Pinball ("FP") 是一款適用於 Microsoft Windows 的免費 3D 彈珠編輯與遊戲應用程式。它與 Visual Pinball ("VP") 和其他現代彈珠模擬應用程式類似。就像 VP 與 Visual PinMAME 的合作關係一樣，FP 使用合作夥伴的應用程式來模擬原始的彈珠 ROM 程式碼。在 FP 的案例中，ROM 程式碼的最終結果是透過 Better Arcade Mode ("BAM") 以及「Pinball Browser」和點矩陣顯示軟體外掛程式等工具來模擬的。核心 FP 開發於 2010 年中止，但於 2013 年透過 BAM 恢復。BAM 具有許多新的開發功能，例如增強的物理、光學和虛擬實境支援。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

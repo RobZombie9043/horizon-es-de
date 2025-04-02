@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>CPS-I</systemName>
         <systemDescription>The CP System (CPシステム, shīpī shisutemu, CPS for short) is an arcade system board developed by Capcom that ran game software stored on removable daughterboards. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II.
@@ -10,7 +10,7 @@ Among the 33 titles released for the original CP System included Street Fighter 
         <systemReleaseDateFormated>May 13, 1988</systemReleaseDateFormated>
         <systemHardwareType>Arcade</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>ECD04C</systemColor>
+        <systemColor>f1cb47</systemColor>
         <systemColorPalette1>FAFAFA</systemColorPalette1>
         <systemColorPalette2>FFCB04</systemColorPalette2>
         <systemColorPalette3>034EA2</systemColorPalette3>
@@ -127,6 +127,14 @@ Bland de 33 titlar som släpptes till det ursprungliga CP-systemet fanns bland a
 
 最初的 CP System 共发行了 33 款游戏，其中包括《街头霸王 II》（Street Fighter II：世界战士》及其前两款后续游戏《街头霸王 II：冠军版》和《街头霸王 II：超级版》：Champion Edition》和《Street Fighter II: Hyper Fighting》。</systemDescription>
             <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>CP System（CPシステム，shīpī shisutemu，簡稱 CPS）是 Capcom 開發的一款街機系統板，可執行儲存在可拆卸子板上的遊戲軟體。在 Capcom 將遊戲開發轉移到其後代 CP System II 之前，CPS-1 推出了二十多款街機遊戲。
+
+在最初的 CP System 發行的 33 款遊戲中，包括 Street Fighter II：The World Warrior 及其前兩款後續遊戲 Street Fighter II：Champion Edition 和 Street Fighter II: Hyper Fighting。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
         </variables>
     </language>
 </theme>

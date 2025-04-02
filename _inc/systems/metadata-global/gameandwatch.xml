@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Game &amp; Watch</systemName>
         <systemDescription>The Game &amp; Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen. The models from 1981 onwards featured an alarm in addition. It was the earliest Nintendo video game product to gain major success.
@@ -12,7 +12,7 @@ The series sold a combined of 43.4 million units worldwide.</systemDescription>
         <systemReleaseDateFormated>April 28, 1980</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>112-67</systemCoverSize>
-        <systemColor>8DA6AD</systemColor>
+        <systemColor>8ca3ae</systemColor>
         <systemColorPalette1>C4353D</systemColorPalette1>
         <systemColorPalette2>C2904A</systemColorPalette2>
         <systemColorPalette3>853641</systemColorPalette3>
@@ -157,6 +157,16 @@ Serien såldes i sammanlagt 43,4 miljoner exemplar över hela världen.</systemD
 
 该系列在全球共售出 4340 万台。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game &amp; Watch 是任天堂於 1980 年至 1991 年間開發、製造、發行及行銷的一系列掌上型電子遊戲。該產品由遊戲設計師 Gunpei Yokoi 創作，其名稱來自於在 LCD 螢幕上同時顯示單一遊戲和時鐘。1981 年以後的型號還加裝了鬧鐘。它是任天堂最早獲得重大成功的視訊遊戲產品。
+
+這些裝置以夏普 SM5xx 系列的 4 位元 CPU 為基礎，包含一個小的 ROM 和 RAM 區域，以及一個 LCD 螢幕驅動電路，不過，在 MAME 模擬之前，有一種錯誤的觀念，以為每個裝置都使用客製化的 ASIC，而不是正規的微控制器。
+
+該系列在全球共售出 4340 萬台。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

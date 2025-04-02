@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari 7800</systemName>
         <systemDescription>The Atari 7800 Pro System, commonly known as the Atari 7800, is a third generation (1983-2003) video game console developed and distributed by Atari Corporation. It was released in May 1986 in North America at a retail price of $79.95. The console was later released in Europe (1987). The 7800 is considered one of the first backward-compatible consoles as it could play Atari 2600 games without the use of additional modules. The console was discontinued on January 1, 1992.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>May 1, 1986</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>2D7AC6</systemColor>
+        <systemColor>2777cc</systemColor>
         <systemColorPalette1>BABBBD</systemColorPalette1>
         <systemColorPalette2>AA2C39</systemColorPalette2>
         <systemColorPalette3>A7B0B5</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>雅达利 7800 Pro 系统，俗称雅达利 7800，是雅达利公司开发和销售的第三代（1983-2003 年）视频游戏机。它于 1986 年 5 月在北美发布，零售价为 79.95 美元。该游戏机随后（1987 年）在欧洲发布。7800 被认为是首批向后兼容的游戏机之一，因为它可以在不使用额外模块的情况下播放雅达利 2600 游戏。该控制台于 1992 年 1 月 1 日停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari 7800 Pro System 一般稱為 Atari 7800，是由 Atari Corporation 所開發與代理的第三代（1983-2003）視訊遊戲主機。它於 1986 年 5 月在北美發行，零售價為 79.95 美元。該遊戲機後來在歐洲發行（1987 年）。7800 被認為是最早向後相容的控制台之一，因為它可以在不使用額外模組的情況下玩 Atari 2600 遊戲。該控制台於 1992 年 1 月 1 日停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

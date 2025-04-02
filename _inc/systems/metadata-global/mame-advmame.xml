@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>AdvanceMAME</systemName>
         <systemDescription>AdvanceMAME, is a port of the MAME 0.106 and MESS 0.106 emulators for Arcade Monitors and TVs but also for LCDs and PC monitors.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>May 1998</systemReleaseDateFormated>
         <systemHardwareType>Emulator</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>5B60B7</systemColor>
+        <systemColor>5a64bb</systemColor>
         <systemColorPalette1>00ADEF</systemColorPalette1>
         <systemColorPalette2>84849C</systemColorPalette2>
         <systemColorPalette3>231F20</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>AdvanceMAME是MAME 0.106和MESS 0.106模拟器的移植版，适用于街机显示器和电视，也适用于液晶显示器和电脑显示器。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>AdvanceMAME 是 MAME 0.106 和 MESS 0.106 模擬器的移植版，適用於 Arcade 監視器和電視，但也適用於 LCD 和 PC 監視器。</systemDescription>
             <systemHardwareType>仿真器</systemHardwareType>
         </variables>
     </language>

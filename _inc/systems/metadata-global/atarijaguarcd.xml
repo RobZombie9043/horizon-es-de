@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari Jaguar CD</systemName>
         <systemDescription>The Atari Jaguar CD is a fifth generation (1993–2005) CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation. It was released in September 1995 in North America at a retail price of $149.95. The peripheral was also released in Europe (1995). The Jaguar CD unit featured a double-speed (2×) drive and its own cartridge slot to allow cartridge games to be played without removing the CD drive. The peripheral was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>September 21, 1995</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>2F7BC7</systemColor>
+        <systemColor>da493b</systemColor>
         <systemColorPalette1>FF0000</systemColorPalette1>
         <systemColorPalette2>3F3E3E</systemColorPalette2>
         <systemColorPalette3>FDC007</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Atari Jaguar CD 是 Atari Corporation 为 Atari Jaguar 视频游戏机开发和销售的第五代（1993-2005 年）CD-ROM 外围设备。它于 1995 年 9 月在北美发布，零售价为 149.95 美元。该外设还在欧洲发行（1995 年）。捷豹 CD 设备配备了双速（2×）驱动器和独立的盒式游戏卡槽，可以在不拆卸 CD 驱动器的情况下玩盒式游戏。该外设于 1996 年初停产，可能是在 1996 年 4 月 8 日公司出售时停产的。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari Jaguar CD 是 Atari Corporation 為 Atari Jaguar 視訊遊戲主機開發和銷售的第五代 (1993-2005) CD-ROM 週邊設備。它於 1995 年 9 月在北美發行，零售價為 149.95 美元。該週邊也在歐洲發行（1995 年）。Jaguar CD 裝置具有雙倍速度 (2×) 驅動器和自己的卡匣插槽，可以在不移除 CD 驅動器的情況下玩卡匣遊戲。該週邊於 1996 年初停產，可能是在 1996 年 4 月 8 日公司出售時停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

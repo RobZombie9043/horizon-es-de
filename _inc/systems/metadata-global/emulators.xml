@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Emulators</systemName>
         <systemDescription>Modify your Emulator settings and configurations</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>修改模拟器设置和配置</systemDescription>
             <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>修改您的模擬器設定和組態</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
         </variables>
     </language>
 </theme>

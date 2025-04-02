@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Google Android</systemName>
         <systemDescription>Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance, though its most widely used version is primarily developed by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>September 23, 2008</systemReleaseDateFormated>
         <systemHardwareType>OS</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>5A9035</systemColor>
+        <systemColor>2ec681</systemColor>
         <systemColorPalette1>4086F4</systemColorPalette1>
         <systemColorPalette2>EB4132</systemColorPalette2>
         <systemColorPalette3>FBBD00</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>安卓（Android）是一种移动操作系统，基于修改版的 Linux 内核和其他开源软件，主要为触摸屏移动设备（如智能手机和平板电脑）而设计。安卓系统由一个名为 "开放手机联盟"（Open Handset Alliance）的开发者联盟开发，但其最广泛使用的版本主要由谷歌开发。它于 2007 年 11 月发布，首款商用安卓设备 HTC Dream 于 2008 年 9 月推出。</systemDescription>
             <systemHardwareType>操作系统</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Android 是一個行動作業系統，以 Linux 核心的修正版和其他開放原始碼軟體為基礎，主要設計用於觸控式行動裝置，例如智慧型手機和平板電腦。Android 是由一個名為開放手持裝置聯盟 (Open Handset Alliance) 的開發者聯盟所開發，但其最廣泛使用的版本主要是由 Google 所開發。它於 2007 年 11 月推出，第一部商用 Android 裝置 HTC Dream 則於 2008 年 9 月推出。</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
         </variables>
     </language>
 </theme>

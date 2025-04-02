@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Apple II</systemName>
         <systemDescription>In 1976, computer pioneers Steve Wozniak and Steve Jobs began selling their Apple I computer in kit form to computer stores. A month later, Wozniak was working on a design for an improved version, the Apple II. They demonstrated a prototype in December, and then introduced it to the public in April 1977. The Apple II started the boom in personal computer sales in the late 1970s, and pushed Apple into the lead among personal computer makers.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>June 1, 1977</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>26A9E1</systemColor>
+        <systemColor>1a9ee4</systemColor>
         <systemColorPalette1>009DDC</systemColorPalette1>
         <systemColorPalette2>E03A3E</systemColorPalette2>
         <systemColorPalette3>FDB827</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>1976 年，电脑先驱史蒂夫-沃兹尼亚克和史蒂夫-乔布斯开始向电脑商店出售他们的套装版 Apple I 电脑。一个月后，沃兹尼亚克开始设计改进版 Apple II。他们在 12 月展示了原型机，并于 1977 年 4 月向公众推出。Apple II 在 20 世纪 70 年代末掀起了个人电脑销售的热潮，并将苹果公司推向了个人电脑制造商的前列。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>1976 年，電腦先驅 Steve Wozniak 和 Steve Jobs 開始以套件形式向電腦商店銷售他們的 Apple I 電腦。一個月後，Wozniak 開始設計改良版的 Apple II。他們在 12 月展示了原型機，然後在 1977 年 4 月向大眾推出。Apple II 在 1970 年代末掀起了個人電腦銷售的熱潮，並將 Apple 推向個人電腦製造商的領導地位。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

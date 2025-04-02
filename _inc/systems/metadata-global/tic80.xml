@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>TIC-80</systemName>
         <systemDescription>TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website. Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>TIC-80 是一款免费开源的幻想电脑，用于制作、玩耍和分享小游戏。TIC-80 内置开发工具：代码、精灵、地图、声音编辑器和命令行，足以制作一款迷你复古游戏。退出后，您将得到一个盒式磁带文件，可以在网站上存储和播放。此外，游戏还可以打包成播放器，在所有流行平台上运行，并按你的意愿发布。要制作复古风格的游戏，整个制作过程都会受到一些技术限制：240x136像素显示屏、16色调色板、256个8x8色精灵、4声道声音等。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>TIC-80 是一款免費且開放原始碼的幻想電腦，用來製作、玩和分享微小遊戲。有內建的開發工具：程式碼、畫面、地圖、聲音編輯器和指令列，足以製作一個迷你復古遊戲。在退出時，您會得到一個盒式檔案，可以儲存並在網站上玩。此外，遊戲也可以打包成播放器，在所有流行的平台上都能運作，並依您的喜好散佈。要製作復古風格的遊戲，整個製作過程會受到一些技術限制：240x136 像素顯示器、16 色調、256 個 8x8 色靈魂、4 聲道音效等。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

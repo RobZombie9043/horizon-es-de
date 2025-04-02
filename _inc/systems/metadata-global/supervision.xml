@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Supervision</systemName>
         <systemDescription>The Watara Supervision, also known as the QuickShot Supervision in the UK, is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy. It came packaged with a game called Crystball, which is similar to Breakout. One unique feature of the Supervision was that it could be linked up to a television via a link cable. Games played in this way would display in four colors, much like Nintendo's Super Game Boy add-on for the SNES. A full color TV link was also in the works, but because of the Supervision's failure to make a major impression among gamers it was cancelled, along with the games which were in development for it.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>December 31, 1992</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>2ba9a0</systemColor>
+        <systemColor>2ba9a1</systemColor>
         <systemColorPalette1>000000</systemColorPalette1>
         <systemColorPalette2>718E2C</systemColorPalette2>
         <systemColorPalette3>9A9A9A</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Watara Supervision，在英国又称 QuickShot Supervision，是一种单色掌上游戏机，源自亚洲，于 1992 年推出，是任天堂 Game Boy 的廉价竞争对手。它的包装中附带了一款名为 "Crystball "的游戏，类似于 "突围"（Breakout）。Supervision 的独特之处在于它可以通过连接线与电视机连接。通过这种方式玩游戏可以显示四种颜色，就像任天堂为 SNES 推出的超级游戏男孩插件一样。全彩电视链接也在设计之中，但由于 Supervision 未能给玩家留下深刻印象，因此连同为其开发的游戏一起被取消了。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Watara Supervision 在英國也稱為 QuickShot Supervision，是一款源自亞洲的單色掌上遊戲機，於 1992 年推出，是任天堂 Game Boy 的廉價競爭對手。它的包裝內附有一款類似 Breakout 的遊戲 Crystball。Supervision 的獨特之處在於它可以透過連接線與電視連線。以這種方式玩的遊戲會以四種顏色顯示，就像任天堂為 SNES 設計的 Super Game Boy 附加元件一樣。全彩電視連線也在設計中，但由於 Supervision 未能在玩家中留下深刻印象，因此連同為其開發的遊戲一起被取消。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari 5200</systemName>
         <systemDescription>The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a second generation (1976–1992) video game console developed and distributed by Atari, Inc. It was released in November 1982 in North America at a retail price of $269. It was not released outside North America. The 5200's internal hardware was almost identical to Atari's 8-bit computers however it came with an innovative controller featuring a 360-degree non-centering joystick with a numeric keypad, start, pause, and reset buttons. The console was discontinued on May 21, 1984.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>November 1, 1982</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>3D5799</systemColor>
+        <systemColor>3b589d</systemColor>
         <systemColorPalette1>1E6547</systemColorPalette1>
         <systemColorPalette2>CFA634</systemColorPalette2>
         <systemColorPalette3>973E3A</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>雅达利 5200 超级系统（Atari 5200）是雅达利公司开发和销售的第二代（1976-1992 年）视频游戏机。它于 1982 年 11 月在北美发布，零售价为 269 美元。它没有在北美以外的地区发行。5200 的内部硬件与雅达利的 8 位计算机几乎完全相同，但它配备了一个创新的控制器，具有 360 度无中心操纵杆、数字键盘、开始、暂停和重置按钮。该控制台于 1984 年 5 月 21 日停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari 5200 SuperSystem 通常被稱為 Atari 5200，是由 Atari 公司開發和代理的第二代（1976-1992 年）視訊遊戲機。它於 1982 年 11 月在北美發行，零售價為 269 美元。它沒有在北美以外的地區發行。5200 的內部硬體幾乎與 Atari 的 8 位元電腦完全相同，但它配備了創新的控制器，具有 360 度不對中搖桿、數字鍵盤、開始、暫停和重設按鈕。該控制台於 1984 年 5 月 21 日停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

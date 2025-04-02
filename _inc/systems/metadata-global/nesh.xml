@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Nintendo Hacks</systemName>
         <systemDescription>The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.</systemDescription>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>任天堂娱乐系统是任天堂于 1985 年在北美、1986 年在欧洲、1987 年在澳大利亚推出的 8 位视频游戏机。在亚洲大部分地区，包括日本（1983 年首次在日本推出）、中国、越南、新加坡、中东和香港，它以家庭电脑（Family Computer）的名称发布，通常简称为罗马化缩写 Famicom 或 FC。在韩国，它被称为 "Hyundai Comboy"，由当时的现代电子公司（Hyundai Electronics）旗下的海力士（Hynix）代理。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>任天堂娛樂系統 (Nintendo Entertainment System) 是任天堂於 1985 年在北美、1986 年在歐洲、1987 年在澳洲推出的 8 位元視訊遊戲控制台。在亞洲大部分地區，包括日本 (1983 年首次推出)、中國、越南、新加坡、中東和香港，它以 Family Computer（家庭電腦）的名稱發行，通常簡稱為 Famicom 或 FC。在韓國，它被稱為 Hyundai Comboy，由當時稱為 Hyundai Electronics 的 Hynix 代理。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

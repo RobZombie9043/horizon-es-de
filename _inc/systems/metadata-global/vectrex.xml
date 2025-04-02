@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Vectrex</systemName>
         <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
@@ -10,7 +10,7 @@ The Vectrex, in contrast to other video-game systems available at the time, feat
         <systemReleaseDateFormated>November 1982</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>4D98D8</systemColor>
+        <systemColor>4794dc</systemColor>
         <systemColorPalette1>EEF020</systemColorPalette1>
         <systemColorPalette2>EC1D25</systemColorPalette2>
         <systemColorPalette3>11192E</systemColorPalette3>
@@ -126,6 +126,14 @@ Vectrex hade, i motsats till andra videospel som fanns tillgängliga vid den tid
             <systemDescription>Vectrex 是一款基于矢量显示器的家用视频游戏机，是史密斯工程公司开发的唯一一款为家用市场设计和发布的游戏机。它于 1982 年 11 月首次在北美市场发售，随后于 1983 年在欧洲和日本发售。它最初由通用消费电子公司生产，后来被米尔顿-布拉德利公司收购后，授权给该公司生产。万代（Bandai）在日本发行了该系统。
 
 与当时的其他视频游戏系统不同，Vectrex 配备了一个集成的单色 CRT 显示器，无需连接电视机，因为它本身就有内置显示屏。一个可拆卸的有线控制板安装在控制台的下底座上，并可折叠。游戏包括半透明的彩色覆盖片，可以覆盖在单色屏幕上。此外，还生产了一些外围设备，如一副被称为 "3D 成像仪 "的 3D 护目镜和一支 "光笔"，让玩家可以直接在屏幕上作画。内置游戏 "地雷风暴 "无需插入盒式磁带即可玩。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Vectrex 是一款以向量顯示器為基礎的家用視訊遊戲機 - 史密斯工程公司開發的唯一一款專為家用市場設計與發行的遊戲機。它於 1982 年 11 月首次在北美市場發售，然後在 1983 年在歐洲和日本發售。最初由 General Consumer Electronics 製造，後來在 Milton Bradley 收購該公司後，授權給 Milton Bradley。Bandai 在日本發行此系統。
+
+Vectrex 與當時市面上的其他視訊遊戲系統不同，它整合了單色 CRT 顯示器，不需要連接到電視機，因為它本身就有內建顯示器。可拆卸的有線控制墊安裝在控制台的底座下方，並可摺疊起來。遊戲包括半透明的彩色覆膜，可以放置在單色螢幕上。此外還生產了許多周邊設備，例如一對 3D 護目鏡，稱為「3D Imager」，還有一支「光筆」，讓玩家可以直接在螢幕上作畫。內建的遊戲「Mine Storm」無需插入卡匣即可玩。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

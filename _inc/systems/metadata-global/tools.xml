@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Tools</systemName>
         <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
@@ -92,6 +92,12 @@
         <variables>
             <systemDescription>用于管理设置的程序、脚本和实用工具。</systemDescription>
             <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>程式、指令碼和公用程式，以管理您的設定。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Nintendo</systemName>
         <systemDescription>The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>October 18, 1985</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>B93041</systemColor>
+        <systemColor>c43d41</systemColor>
         <systemColorPalette1>CD3332</systemColorPalette1>
         <systemColorPalette2>FFFFFF</systemColorPalette2>
         <systemColorPalette3>666666</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>任天堂娱乐系统是任天堂于 1985 年在北美、1986 年在欧洲、1987 年在澳大利亚推出的 8 位视频游戏机。在亚洲大部分地区，包括日本（1983 年首次在日本推出）、中国、越南、新加坡、中东和香港，它以家庭电脑（Family Computer）的名称发布，通常简称为罗马化缩写 Famicom 或 FC。在韩国，它被称为 "Hyundai Comboy"，由当时的现代电子公司（Hyundai Electronics）旗下的海力士（Hynix）代理。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>任天堂娛樂系統 (Nintendo Entertainment System, NES) 的歷史從 1982 年的家庭電腦 (Family Computer) 開發，到 1985 年推出 NES，再到任天堂 (Nintendo) 在整個 1980 年代末期以此平台為基礎崛起成為全球霸主。家庭電腦 (ファミリーコンピュータ) 或 Famicom (ファミコン) 於 1982 年開發，1983 年在日本上市。在 1983 年北美電子遊戲崩潰之後，Famicom 被改裝成 1985 年在北美推出的 NES。Famicom 和 NES 將公司從街機遊戲的歷史過渡到結合全球 8 位元家用視訊遊戲主機平台，繼續積極與下一代 16 位元主機競爭，包括 1988 年的 Sega Genesis。1990 年 Super Famicom 和 1991 年 Super Nintendo Entertainment System 接替了該平台，但其支援和生產一直持續到 1995 年。收藏家和模擬器（包括任天堂自己的虛擬主控台平台）重新燃起了人們對 NES 的興趣。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

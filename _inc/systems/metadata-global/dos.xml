@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>MS-DOS</systemName>
         <systemDescription>MS-DOS, short for Microsoft Disk Operating System, was an operating system for x86-based personal computers mostly developed by Microsoft. It was the most commonly used member of the DOS family of operating systems, and was the main operating system for IBM PC compatible personal computers during the 1980s to the mid-1990s, when it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the Microsoft Windows operating system.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>August 1, 1981</systemReleaseDateFormated>
         <systemHardwareType>OS</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>3161BC</systemColor>
+        <systemColor>2d61c1</systemColor>
         <systemColorPalette1>FDC20F</systemColorPalette1>
         <systemColorPalette2>8461A9</systemColorPalette2>
         <systemColorPalette3>CA1A15</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>MS-DOS 是 Microsoft Disk Operating System（微软磁盘操作系统）的简称，是主要由微软公司开发的基于 x86 的个人计算机操作系统。它是 DOS 操作系统家族中最常用的成员，也是 20 世纪 80 年代至 90 年代中期 IBM PC 兼容个人电脑的主要操作系统，后来逐渐被提供图形用户界面（GUI）的操作系统（如各代微软视窗操作系统）所取代。</systemDescription>
             <systemHardwareType>操作系统</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>MS-DOS 是 Microsoft Disk Operating System（微軟磁碟作業系統）的簡稱，是主要由 Microsoft 開發的 x86 架構個人電腦作業系統。它是 DOS 作業系統家族中最常用的成員，在 1980 年代到 1990 年代中期是 IBM PC 相容個人電腦的主要作業系統，之後逐漸被提供圖形使用者介面 (GUI) 的作業系統所取代，包括各代的 Microsoft Windows 作業系統。</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
         </variables>
     </language>
 </theme>

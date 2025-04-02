@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Thomson TO8</systemName>
         <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>1986</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>2C5299</systemColor>
+        <systemColor>2a539c</systemColor>
         <systemColorPalette1>E6F0EF</systemColorPalette1>
         <systemColorPalette2>F0C73B</systemColorPalette2>
         <systemColorPalette3>4F8E5C</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>汤姆逊 TO8 是法国汤姆逊公司于 1986 年推出的一款家用电脑，售价 2,990 法郎。它取代了其前身汤姆逊 TO7/70，但基本保持兼容。  TO8 的新功能，如更大的内存（256KB）和更好的图形模式（由汤姆逊 EF9369 图形芯片驱动），与其他第三代汤姆逊电脑（MO6 和 TO9+）共享。  TO8 的内部 ROM 上有磁带驱动器和 Microsoft BASIC 1.0（标准版和 512 KB 版）[9]，还可选配外置软驱。图形由 Thomson EF9369 芯片提供，可显示 4096 色调色板中的 16 种颜色。  该系统有 120 多款游戏。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Thomson TO8 是法國 Thomson SA 公司於 1986 年推出的家用電腦，售價為 2,990 法郎。它取代了前一代產品 Thomson TO7/70，但基本上仍保持相容性。  TO8 的新功能，如更大的記憶體 (256KB) 和更好的圖形模式 (由 Thomson EF9369 圖形晶片驅動)，與其他第三代 Thomson 電腦 (MO6 和 TO9+) 共享。  TO8 的內部 ROM 上有磁帶驅動器與 Microsoft BASIC 1.0 (標準與 512 KB 版本)[9]，而且還有選購的外接式磁碟機。圖形由 Thomson EF9369 晶片提供，可從 4096 色調中顯示 16 色。  該系統有超過 120 款遊戲。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

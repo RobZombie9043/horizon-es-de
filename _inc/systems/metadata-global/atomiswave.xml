@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atomiswave</systemName>
         <systemDescription>The Atomiswave is a custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's NAOMI system board (thus it's common to see the "Sega" logo on its boot up screen). The Atomiswave uses interchangeable game cartridges and the cabinet's control panel can be easily switched out with different control sets, including dual joysticks, dual lightguns and a steering wheel. With the retirement of the aging Neo Geo MVS system, SNK Playmore chose the Atomiswave as its next system to develop games for. In a contract with Sammy, SNK Playmore agreed to develop five games for the Atomiswave system. Metal Slug 6 was SNK Playmore's fifth game for the Atomiswave, after which SNK moved on to a Taito Type X2 arcade board.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>January 1, 2003</systemReleaseDateFormated>
         <systemHardwareType>Arcade</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>37BD6E</systemColor>
+        <systemColor>31ac73</systemColor>
         <systemColorPalette1>C11127</systemColorPalette1>
         <systemColorPalette2>FF6B00</systemColorPalette2>
         <systemColorPalette3>04EF94</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Atomiswave 是 Sammy 公司定制的街机系统板和机箱。它以世嘉的 NAOMI 系统板为基础（因此在启动屏幕上经常可以看到 "Sega "标志）。Atomiswave 使用可互换的游戏盒，机箱的控制面板可轻松更换成不同的控制装置，包括双操纵杆、双光枪和方向盘。随着老旧的 Neo Geo MVS 系统退役，SNK Playmore 选择 Atomiswave 作为下一个开发游戏的系统。在与 Sammy 签订的合同中，SNK Playmore 同意为 Atomiswave 系统开发五款游戏。合金弹头 6》是 SNK Playmore 为 Atomiswave 开发的第五款游戏，之后，SNK 转而使用 Taito Type X2 拱廊板。</systemDescription>
             <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atomiswave 是 Sammy Corporation 的客製化街機系統板和機櫃。它以 Sega 的 NAOMI 系統板為基礎 (因此在開機畫面中常可看到「Sega」標誌)。Atomiswave 使用可互換的遊戲卡帶，機殼的控制面板也可輕易更換不同的控制組合，包括雙搖桿、雙光槍和方向盤。隨著老舊的 Neo Geo MVS 系統退役，SNK Playmore 選擇 Atomiswave 作為下一個開發遊戲的系統。在與 Sammy 簽訂的合約中，SNK Playmore 同意為 Atomiswave 系統開發五款遊戲。Metal Slug 6》是 SNK Playmore 為 Atomiswave 開發的第五款遊戲，之後 SNK 轉移到 Taito Type X2 遊戲機板。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
         </variables>
     </language>
 </theme>

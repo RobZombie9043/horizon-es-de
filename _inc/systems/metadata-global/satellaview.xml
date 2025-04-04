@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Satellaview</systemName>
         <systemDescription>The Satellaview is a satellite modem peripheral for Nintendo's Super Famicom system that was released in Japan in 1995. Available for pre-release orders beginning February 13, 1995, the Satellaview retailed for between ¥14,000 and 18,000 (at the time between USD$141 and 182) and came bundled with the BS-X Game Pak and an 8M Memory Pak. The Satellaview system was developed and released by Nintendo to receive signals broadcast from satellite TV station WOWOW's satellite radio subsidiary, St.GIGA. St.GIGA was responsible for file server management, maintenance, and vocalization for "SoundLink" games. Nintendo data broadcasts were given a fixed time slot known as the Super Famicom Hour during which scrambled Satellaview-related data was streamed via radio waves to be unscrambled by St.GIGA's "BS digital hi-vision TV." As a subscription-based station for ambient and New Age music, St.GIGA listeners were already equipped with "BS tuners" prior to St.GIGA's contract with Nintendo. Satellaview owners who lacked a "BS tuner" had to purchase one separately from St.GIGA at a price of ¥33,000, as well as sign up for Nintendo's and St.GIGA's monthly joint membership fees. Alternatively, users could rent "BS tuners" from St.GIGA for a 6-month period at a price of ¥5,400. Even at this premium price, St.GIGA reported subscriptions peaking at 116,378 households by March 1997, and dropping to around 46,000 by June 2001.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>April 23, 1995</systemReleaseDateFormated>
         <systemHardwareType>Peripheral</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>D3AF41</systemColor>
+        <systemColor>d9ac3b</systemColor>
         <systemColorPalette1>37336C</systemColorPalette1>
         <systemColorPalette2>CD2943</systemColorPalette2>
         <systemColorPalette3>FFDF68</systemColorPalette3>
@@ -78,7 +78,7 @@
     <language name="sv_SE">
         <variables>
             <systemDescription>Satellaview är en satellitmodemutrustning för Nintendos Super Famicom-system som släpptes i Japan 1995. Satellaview kunde förbeställas från och med den 13 februari 1995 och såldes för mellan 14 000 och 18 000 yen (vid den tiden mellan 141 och 182 USD) och levererades tillsammans med BS-X Game Pak och ett 8M Memory Pak. Satellaview-systemet utvecklades och släpptes av Nintendo för att ta emot signaler som sändes från satellit-TV-stationen WOWOW:s satellitradiodotterbolag St.GIGA. St.GIGA ansvarade för hantering av filservern, underhåll och sång för "SoundLink"-spelen. Nintendos datasändningar gavs en fast tidslucka som kallades Super Famicom Hour under vilken krypterad Satellaview-relaterad data strömmade via radiovågor för att avkrypteras av St.GIGAs "BS digital hi-vision TV". Som en abonnemangsbaserad station för ambient och New Age-musik var St.GIGAs lyssnare redan utrustade med "BS-tuners" före St.GIGAs kontrakt med Nintendo. Satellaview-ägare som saknade en "BS-tuner" var tvungna att köpa en separat från St.GIGA till ett pris av 33.000 yen, samt anmäla sig till Nintendos och St.GIGAs gemensamma månatliga medlemsavgifter. Alternativt kunde användare hyra "BS-tuners" från St.GIGA under en 6-månadersperiod till ett pris av 5 400 yen. Även till detta premiumpris rapporterade St.GIGA att abonnemangen nådde en topp på 116.378 hushåll i mars 1997 och sjönk till cirka 46.000 i juni 2001.</systemDescription>
-            <systemHardwareType>Perifer</systemHardwareType>
+            <systemHardwareType>Tillbehör</systemHardwareType>
         </variables>
     </language>
     <language name="ja_JP">
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Satellaview 是任天堂超级 Famicom 系统的卫星调制解调器外设，于 1995 年在日本发售。Satellaview 于 1995 年 2 月 13 日开始接受预售订单，零售价在 14,000 日元至 18,000 日元之间（当时为 141 美元至 182 美元），与 BS-X 游戏包和 8M 内存包捆绑销售。任天堂开发并发布的 Satellaview 系统可接收卫星电视台 WOWOW 的卫星广播子公司 St.GIGA 播放的信号。St.GIGA 负责 "SoundLink "游戏的文件服务器管理、维护和发声。任天堂的数据广播有一个固定的时段，被称为 "超级 Famicom 小时"，在此期间，与卫星电视相关的加解密数据通过无线电波串流，由 St.GIGA 的 "BS 数字高清电视 "解码。作为一个提供氛围音乐和新世纪音乐的收费电台，St.GIGA 的听众在 St.GIGA 与任天堂签约之前就已经配备了 "BS 调谐器"。没有 "BS 调谐器 "的 Satellaview 用户必须以 3.3 万日元的价格向 St.GIGA 单独购买一个，并每月缴纳任天堂和 St.GIGA 的联合会员费。另外，用户也可以向 St.GIGA 租用为期 6 个月的 "BS 调谐器"，价格为 5400 日元。据 St.GIGA 报告，即使按这一高价计算，到 1997 年 3 月，用户数量也达到了 116,378 户，到 2001 年 6 月，用户数量下降到 46,000 户左右。</systemDescription>
             <systemHardwareType>外围设备</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Satellaview 是任天堂 Super Famicom 系統的衛星數據機周邊設備，於 1995 年在日本發售。Satellaview 於 1995 年 2 月 13 日開始接受預購，零售價介於 14,000 日圓至 18,000 日圓（當時介於 141 美元至 182 美元之間）之間，並隨附 BS-X 遊戲包和 8M 記憶包。Satellaview 系統是任天堂為了接收衛星電視台 WOWOW 旗下衛星廣播子公司 St.GIGA 播放的訊號而開發推出的。St.GIGA 負責檔案伺服器的管理、維護，以及「SoundLink」遊戲的發聲。任天堂的資料廣播有一個固定的時段，稱為 Super Famicom Hour，在這段時間內，與 Satellaview 相關的擾碼資料會透過無線電波串流，由 St.GIGA 的 「BS 數位高畫質電視」 解碼。作為一個以訂閱為基礎的環境和新時代音樂電台，St.GIGA 的聽眾在 St.GIGA 與任天堂簽訂合約之前就已經配備了 「BS 調諧器」。沒有「BS tuner」的 Satellaview 使用者必須另外向 St.GIGA 購買，價格為 33,000 日圓，同時還必須加入任天堂與 St.GIGA 的聯合會員月費計劃。另外，使用者也可以向 St.GIGA 租用「BS tuner」，租期為 6 個月，價格為 5,400 日圓。即使以這個高價，St.GIGA報告的訂閱量在1997年3月達到116,378戶的高峰，到2001年6月則降至約46,000戶。</systemDescription>
+            <systemHardwareType>周邊設備</systemHardwareType>
         </variables>
     </language>
 </theme>

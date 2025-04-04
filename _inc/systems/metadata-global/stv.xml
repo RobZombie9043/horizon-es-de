@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>ST-V</systemName>
         <systemDescription>ST-V (Sega Titan Video) is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system. The only difference is the media; ST-V used ROM cartridges instead of CD-ROM discs to store games, with the exception of Sports Fishing 2. Being derived from the Saturn hardware, the ST-V was presumably named after the moon Titan, a satellite of Saturn.
@@ -10,7 +10,7 @@ The majority of ST-V titles were released only in Japan, but a notable exception
         <systemReleaseDateFormated>1994</systemReleaseDateFormated>
         <systemHardwareType>Arcade</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>4A529D</systemColor>
+        <systemColor>47569e</systemColor>
         <systemColorPalette1>034693</systemColorPalette1>
         <systemColorPalette2>F7ED18</systemColorPalette2>
         <systemColorPalette3>F4133D</systemColorPalette3>
@@ -127,6 +127,14 @@ ST-Vタイトルの大半は日本でのみ発売されたが、ダイナマイ�
 
 大多数 ST-V 游戏只在日本发行，但《Dynamite Deka》的移植版是一个显著的例外，该游戏后来成为了《Die Hard Arcade》。为 ST-V 发布的游戏包括《维塔战斗机重制版》（Virtua Fighter Remix）、《辐射银枪》（Radiant Silvergun）、《金斧：决斗》（Golden Axe: The Duel）和《最终格斗复仇》（Final Fight Revenge）的街机版。土星和 ST-V 硬件共享，因此土星游戏机的移植非常 "纯粹"。</systemDescription>
             <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>ST-V (Sega Titan Video) 是 Sega 於 1994 年在日本及 1995 年在全球推出的一款街機系統板。Sega 的 ST-V 擺脫了他們一貫製造客製化街機硬體的流程，基本上與 Sega Saturn 家用主機系統完全相同。唯一的差別在於媒體；ST-V 使用 ROM 卡匣而非 CD-ROM 光碟來儲存遊戲，但《Sports Fishing 2》除外。由於源自土星硬體，ST-V 大概是以土星的衛星「泰坦」命名。
+
+大部分 ST-V 遊戲都只在日本發行，但《Dynamite Deka》的移植版是個明顯的例外，它後來變成了《Die Hard Arcade》。ST-V 發行的遊戲包括《Virtua Fighter Remix》、《Radiant Silvergun》、《Golden Axe: The Duel》和《Final Fight Revenge》的街機版。土星與 ST-V 的共用硬體讓土星主機可以非常「純正」地移植遊戲。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
         </variables>
     </language>
 </theme>

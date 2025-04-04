@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PlayStation Portable</systemName>
         <systemDescription>The PlayStation Portable (PSP) is a handheld game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on December 12, 2004, in North America on March 24, 2005, and in PAL regions on September 1, 2005, and is the first handheld installment in the PlayStation line of consoles. As a seventh generation console it competed with the Nintendo DS.
@@ -10,7 +10,7 @@ Development of the PSP was announced during E3 2003, and the console was unveile
         <systemReleaseDateFormated>December 12, 2004</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>99-168</systemCoverSize>
-        <systemColor>366DA7</systemColor>
+        <systemColor>336aab</systemColor>
         <systemColorPalette1>313131</systemColorPalette1>
         <systemColorPalette2>0F1012</systemColorPalette2>
         <systemColorPalette3>97A9BA</systemColorPalette3>
@@ -127,6 +127,14 @@ PSP의 개발은 E3 2003에서 발표되었고, 2004년 5월 11일 소니 기자
 
 PSP 的开发于 2003 年 E3 期间宣布，并于 2004 年 5 月 11 日在索尼新闻发布会上亮相。该系统是当时功能最强大的便携式游戏机，也是任天堂掌上游戏机的第一个真正的竞争对手，在此之前，诺基亚的 N-Gage 等许多挑战者都失败了。PSP 先进的图形处理能力使其成为一款广受欢迎的移动娱乐设备，它可以连接 PlayStation 2 和 PlayStation 3 游戏机、任何带 USB 接口的电脑、其他 PSP 系统和互联网。PSP 还具有视频播放等大量多媒体功能，因此也被视为便携式媒体播放器。PSP 是唯一使用光盘格式--通用媒体光盘（UMD）--作为主要存储介质的掌上游戏机；游戏和电影都是以这种格式发布的。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PlayStation Portable (PSP) 是 Sony Computer Entertainment 所開發及行銷的掌上型遊戲機。它於 2004 年 12 月 12 日首次在日本發售，2005 年 3 月 24 日在北美發售，2005 年 9 月 1 日在 PAL 區域發售，是 PlayStation 系列遊戲機的第一款掌上型裝置。作為第七代遊戲機，它與任天堂 DS 競爭。
+
+PSP 的開發於 2003 年 E3 期間宣佈，並於 2004 年 5 月 11 日的 Sony 記者會上亮相。該系統推出時是功能最強大的可攜式控制台，也是在許多挑戰者（例如 Nokia 的 N-Gage）失敗後，任天堂掌上型控制台的第一個真正競爭者。PSP 的先進圖形功能使其成為廣受歡迎的行動娛樂裝置，它可以連接 PlayStation 2 和 PlayStation 3 主機、任何具有 USB 介面的電腦、其他 PSP 系統以及網際網路。PSP 還擁有大量的多媒體功能，例如視訊播放，因此也被視為可攜式媒體播放器。PSP 是唯一使用光碟格式 - 通用媒體光碟 (UMD) - 作為主要儲存媒體的掌上型遊戲機；遊戲和電影都是以這種格式發行。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

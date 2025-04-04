@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Acorn Archimedes</systemName>
         <systemDescription>The Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England. The systems are based on Acorn's own ARM architecture processors and the proprietary operating systems Arthur and RISC OS. The first models were introduced in 1987, and systems in the Archimedes family were sold until the mid-1990s.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Acorn Archimedes 是英国剑桥 Acorn Computers 公司设计的个人电脑系列。该系统基于 Acorn 自己的 ARM 架构处理器以及专有操作系统 Arthur 和 RISC OS。首批机型于 1987 年推出，阿基米德系列系统一直销售到 20 世纪 90 年代中期。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Acorn Archimedes 是由英國劍橋的 Acorn Computers 所設計的個人電腦系列。這些系統以 Acorn 自家的 ARM 架構處理器以及專屬作業系統 Arthur 和 RISC OS 為基礎。第一批機型於 1987 年推出，Archimedes 系列的系統一直銷售到 1990 年代中期。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PC-98</systemName>
         <systemDescription>The NEC PC-9800 was line of personal computers developed in 1982 in Japan by NEC Corporation based on IBM, aimed exclusively at the Japanese market.
@@ -157,6 +157,16 @@ PC-9801-serien, som ursprungligen var tänkt som en lösning för industri- och 
 
 PC-9801 系列最初被视为工业和办公应用的解决方案，到 1987 年已占据日本个人电脑市场近 90% 的份额。随着时间的推移，PC-9801 系列的性能不断提高，图形和音效也受到家庭用户（尤其是游戏玩家）的青睐，它在非商业应用领域也大受欢迎，例如，"Touhou Project "系列就是其首款产品。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>NEC PC-9800 是日本 NEC Corporation 於 1982 年以 IBM 為基礎開發的個人電腦系列，專門針對日本市場。
+
+第一款機型採用 16 位元架構，搭載 Intel 8086 處理器，時脈為 5 MHz，記憶體為 128 KB。出貨時搭配的顯示卡能以 640x400 的解析度顯示 8 種顏色 - 與當時的 PC 相比，性能上有明顯的差異。
+
+PC-9801 系列最初被設計為工業與辦公室應用的解決方案，到 1987 年已佔據日本個人電腦市場近 90% 的市場佔有率。隨著時間的推移，隨著功率的提升，以及家庭用戶（尤其是遊戲玩家）對圖形和聲音效果的欣賞，PC-9801 也開始在非商業應用中流行起來 - 例如，Touhou Project 系列就首次亮相。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

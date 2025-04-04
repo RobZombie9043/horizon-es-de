@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Nintendo DS</systemName>
         <systemDescription>The Nintendo DS or simply, DS, is a 32-bit dual-screen handheld game console developed and released by Nintendo. The device went on sale in North America on November 21, 2004. The DS, short for "Developers' System" or "Dual Screen", introduced distinctive new features to handheld gaming: two LCD screens working in tandem (the bottom one featuring a touchscreen), a built-in microphone, and support for wireless connectivity. Both screens are encompassed within a clamshell design similar to the Game Boy Advance SP. The Nintendo DS also features the ability for multiple DS consoles to directly interact with each other over Wi-Fi within a short range without the need to connect to an existing wireless network. Alternatively, they could interact online using the now-closed Nintendo Wi-Fi Connection service.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>November 21, 2004</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>257-229</systemCoverSize>
-        <systemColor>B4CAD4</systemColor>
+        <systemColor>b3c8d5</systemColor>
         <systemColorPalette1>5C67A9</systemColorPalette1>
         <systemColorPalette2>280FBE</systemColorPalette2>
         <systemColorPalette3>BCBCBC</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>任天堂 DS 或简称 DS，是任天堂开发并发布的 32 位双屏幕掌上游戏机。该设备于 2004 年 11 月 21 日在北美上市。DS 是 "开发者系统 "或 "双屏幕 "的简称，它为掌上游戏引入了与众不同的新功能：两个液晶屏幕同时工作（底部的屏幕是触摸屏）、内置麦克风并支持无线连接。两个屏幕都采用类似 Game Boy Advance SP 的蛤壳式设计。任天堂 DS 还能让多台 DS 游戏机在短距离内通过 Wi-Fi 直接互动，而无需连接到现有的无线网络。另外，它们还可以使用现已关闭的任天堂 Wi-Fi 连接服务进行在线互动。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Nintendo DS 或簡稱 DS，是由任天堂 (Nintendo) 所開發並發行的 32 位元雙螢幕掌上遊戲機。該設備於 2004 年 11 月 21 日在北美上市。DS 是「開發者系統」或「雙螢幕」的縮寫，它為掌上遊戲引入了獨特的新功能：兩個液晶螢幕同步運作（底部的螢幕具有觸控功能）、內建麥克風，並支援無線連線。兩個螢幕都包覆在類似 Game Boy Advance SP 的夾殼設計中。Nintendo DS 還能讓多台 DS 主機在短距離內透過 Wi-Fi 直接互動，而不需要連接到現有的無線網路。另外，它們也可以使用現已關閉的 Nintendo Wi-Fi Connection 服務進行線上互動。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

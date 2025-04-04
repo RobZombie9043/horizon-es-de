@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Ports</systemName>
         <systemDescription>View and play all of your favorite game ports.</systemDescription>
@@ -9,11 +9,11 @@
         <systemHardwareType>Folder</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
         <systemColor>3161BC</systemColor>
-        <systemCartSize>1-1</systemCartSize>
         <systemColorPalette1>4F5054</systemColorPalette1>
         <systemColorPalette2>737375</systemColorPalette2>
         <systemColorPalette3>F4BE46</systemColorPalette3>
         <systemColorPalette4>E45B12</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
     </variables>
     <language name="ca_ES">
         <variables>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>查看并玩转您喜爱的所有游戏端口。</systemDescription>
             <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>檢視並遊玩所有您喜愛的遊戲連接埠。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
         </variables>
     </language>
 </theme>

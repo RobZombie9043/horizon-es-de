@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Mega-CD</systemName>
         <systemDescription>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Mega Drive/Genesis designed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991 in Japan, October 15, 1992 in North America, and April 2, 1993 in Europe. The Sega CD plays CD-based games and adds hardware functionality such as a faster central processing unit and graphic enhancements like sprite scaling and rotation. It can also play audio CDs and CD+G discs.
@@ -10,7 +10,7 @@ The main benefit of CD technology was greater storage, which allowed for games t
         <systemReleaseDateFormated>December 12, 1991</systemReleaseDateFormated>
         <systemHardwareType>Peripheral</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>0C7BCB</systemColor>
+        <systemColor>0374d1</systemColor>
         <systemColorPalette1>5A97D0</systemColorPalette1>
         <systemColorPalette2>1D46A5</systemColorPalette2>
         <systemColorPalette3>DEAD2C</systemColorPalette3>
@@ -102,7 +102,7 @@ Principalul beneficiu al tehnologiei CD a fost creșterea capacității de stoca
             <systemDescription>Sega CD, som släpptes som Mega-CD i de flesta regioner utanför Nordamerika och Brasilien, är ett CD-ROM-tillbehör för Mega Drive/Genesis som designats och producerats av Sega som en del av den fjärde generationens videospelskonsoler. Den släpptes den 12 december 1991 i Japan, den 15 oktober 1992 i Nordamerika och den 2 april 1993 i Europa. Sega CD spelar CD-baserade spel och lägger till hårdvarufunktioner som en snabbare centralprocessor och grafiska förbättringar som skalning och rotation av sprite. Den kan också spela ljud-CD-skivor och CD+G-skivor.
 
 Den största fördelen med CD-tekniken var den större lagringsmöjligheten, som gjorde att spelen kunde vara nästan 320 gånger större än Genesis-kassetterna. Denna fördel manifesterades i full motion video (FMV)-spel som det kontroversiella Night Trap, som blev ett fokus för 1993 års kongressutfrågningar om frågor som rörde våld och klassificering av videospel. Sega of Japan samarbetade med JVC för att utforma Sega CD och vägrade att rådgöra med Sega of America förrän projektet var slutfört. Sega of America monterade delar från olika "dummy"-enheter för att få fram en fungerande prototyp. Den omdesignades flera gånger av Sega och licensierade tredjepartsutvecklare.</systemDescription>
-            <systemHardwareType>Perifer</systemHardwareType>
+            <systemHardwareType>Tillbehör</systemHardwareType>
         </variables>
     </language>
     <language name="ja_JP">
@@ -127,6 +127,14 @@ CD 기술의 가장 큰 장점은 더 큰 저장 공간으로, 제네시스 카�
 
 CD 技术的主要优点是存储空间更大，游戏容量是 Genesis 盒式的近 320 倍。这种优势体现在全动态视频（FMV）游戏上，如备受争议的《黑夜陷阱》（Night Trap），该游戏在 1993 年国会听证会上成为电子游戏暴力和分级问题的焦点。日本世嘉与 JVC 合作设计世嘉 CD，在项目完成之前拒绝与美国世嘉协商。美国世嘉公司从各种 "假 "设备上组装部件，以获得一个可工作的原型。世嘉和获得授权的第三方开发商对 CD 进行了多次重新设计。</systemDescription>
             <systemHardwareType>外围设备</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sega CD（在北美和巴西以外的大部分地區以 Mega-CD 發行）是 Mega Drive/Genesis 的 CD-ROM 配件，由 Sega 設計和製作，是第四代視訊遊戲主機的一部分。它於 1991 年 12 月 12 日在日本發行，1992 年 10 月 15 日在北美發行，1993 年 4 月 2 日在歐洲發行。Sega CD 可播放以 CD 為基礎的遊戲，並增加了硬體功能，例如速度更快的中央處理器，以及縮放與旋轉圖形等圖形增強功能。它還可以播放音訊 CD 和 CD+G 光碟。
+
+CD 技術的主要優點在於更大的儲存空間，讓遊戲的容量比 Genesis 卡帶大近 320 倍。這一優點體現在全動態視頻 (FMV) 遊戲上，例如備受爭議的《Night Trap》，它成為 1993 年美國國會就視頻遊戲暴力和分級問題舉行聽證會的焦點。日本世嘉（Sega）與 JVC 合作設計 Sega CD，在專案完成之前拒絕與美國世嘉（Sega）協商。Sega of America 從各種 「虛擬 」裝置中組裝零件，以獲得可運作的原型。Sega 和授權的第三方開發人員對它進行了多次重新設計。</systemDescription>
+            <systemHardwareType>周邊設備</systemHardwareType>
         </variables>
     </language>
 </theme>

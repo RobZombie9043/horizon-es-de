@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>V.Smile</systemName>
         <systemDescription>The V.Smile (stylized as V.SMILE TV LEARNING SYSTEM) is a sixth-generation educational home video game console manufactured and released by VTech. Titles are available on ROM cartridges called "Smartridges", to play off the system's educational nature. The graphics are primarily sprite-based. The console is often sold bundled with a particular game, with most of them having a game called Alphabet Park Adventure.
@@ -156,6 +156,16 @@ V.Smileコンソールには、携帯型や、タッチタブレット一体型�
 V.Smile控制台有几种变体，包括掌上型或带有触摸板集成控制器或麦克风等附加功能的型号。V-Motion 是一种主要的变体，它有自己的软件阵容，包括动作感应控制器，以及旨在利用与动作相关的 "主动学习 "功能的 Smartriges。不过，V-Motion 和 Smartridges 与其他 V.Smile 变体和 V.Smile Smartridges 完全向后兼容，V-Motion Smartridge 也可以在 V.Smile 控制台或手持设备上播放，尽管功能有限。不过，2010 年，V.Smile 的新旧型号均已停产。直到 2012 年，伟易达仍在为 V.Smile 制作游戏。
 
 不同系统之间的一些关键区别以及充分利用所有游戏功能的能力包括麦克风、触摸板、额外的操纵杆端口（用于双人游戏）、手写笔增强控制器或动作感应游戏板（带 V-Motion）等选项。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>V.Smile（V.SMILE TV LEARNING SYSTEM）是偉易達製造和發行的第六代教育家用視頻遊戲機。遊戲以 ROM 卡匣「Smartridges」提供，以發揮系統的教育性。圖形主要是基於萌畫體的。該遊戲機通常與特定的遊戲捆綁銷售，其中大多數都有一款名為 Alphabet Park Adventure 的遊戲。
+
+V.Smile 控制台有幾種不同的型號，包括手持式版本，或具有觸控板整合控制器或麥克風等附加功能的型號。V-Motion 是一個主要的變體，有自己的軟體陣容，包括動作感應控制器，並有專為利用與動作相關的「主動學習」而設計的 Smartriges。然而，V-Motion 和 Smartridges 完全向後相容於其他 V.Smile 變體和 V.Smile Smartridges，V-Motion Smartridge 也可以在 V.Smile 主控台或掌上型電腦上播放，儘管功能有限。然而，在 2010 年，V.Smile 的新舊型號均已停產。直到 2012 年，偉易達仍為 V.Smile 製作遊戲。
+
+不同系統之間的一些關鍵差異，以及能否充分利用所有遊戲功能，包括可選擇麥克風、觸控板、額外搖桿埠（用於 2 人遊戲）、手寫筆增強控制器或動作感應遊戲墊（配備 V-Motion）。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Arduboy</systemName>
         <systemDescription>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Arduboy 是一款基于 Arduino 硬件平台的掌上游戏机，采用开源软件。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Arduboy 是以 Arduino 硬體平台為基礎的開放原始碼軟體掌上型遊戲控制台。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

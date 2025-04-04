@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Daphne</systemName>
         <systemDescription>Daphne is an arcade emulator application that emulates a variety of laserdisc video games with the intent of preserving these games and making the play experience as faithful to the originals as possible. The developer calls Daphne the "First Ever Multiple Arcade Laserdisc Emulator" ("FEMALE"). It derives its name from Princess Daphne, the heroine of Dragon's Lair.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>February, 6th 2007</systemReleaseDateFormated>
         <systemHardwareType>Emulator</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>F6C126</systemColor>
+        <systemColor>ffbd23</systemColor>
         <systemColorPalette1>DEBA27</systemColorPalette1>
         <systemColorPalette2>856125</systemColorPalette2>
         <systemColorPalette3>DC110B</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Daphne 是一款街机模拟器应用程序，可以模拟各种激光视盘视频游戏，目的是保存这些游戏，并使游戏体验尽可能忠实于原作。开发者称 Daphne 为 "史上首个多重街机激光视盘模拟器"（"FEMALE"）。它的名字来源于《龙之巢穴》的女主角达芙妮公主。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Daphne 是一款街機模擬器應用程式，可模擬多種雷射影碟視訊遊戲，目的在於保存這些遊戲，並使遊戲體驗盡可能忠於原作。開發人員將 Daphne 稱為「史上第一個多重街機雷射光碟片模擬器」（「FEMALE」）。它的名字來自 Dragon's Lair 的女主角 Daphne 公主。</systemDescription>
             <systemHardwareType>仿真器</systemHardwareType>
         </variables>
     </language>

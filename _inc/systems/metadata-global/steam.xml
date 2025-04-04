@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Steam</systemName>
         <systemDescription>Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>September 12, 2003</systemReleaseDateFormated>
         <systemHardwareType>Folder</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>215D90</systemColor>
+        <systemColor>8a52cb</systemColor>
         <systemColorPalette1>2F3B50</systemColorPalette1>
         <systemColorPalette2>0A7CAF</systemColorPalette2>
         <systemColorPalette3>EEEEEE</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Steam 是 Valve 推出的视频游戏数字发行服务和店面。它于 2003 年 9 月作为软件客户端推出，是 Valve 为其游戏提供自动更新的一种方式，并于 2005 年底扩展到分发和提供第三方游戏发行商的游戏。</systemDescription>
             <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Steam 是 Valve 推出的視訊遊戲數位發行服務與商店。它於 2003 年 9 月以軟體用戶端形式推出，作為 Valve 為其遊戲提供自動更新的方式，並於 2005 年底擴展至分銷和提供第三方遊戲發行商的遊戲。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
         </variables>
     </language>
 </theme>

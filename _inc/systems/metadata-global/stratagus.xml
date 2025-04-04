@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemDescription>Stratagus is a free and open-source cross-platform game engine used to build real-time strategy video games. Licensed under the GNU GPL-2.0-only,[2] it is written mostly in C++ with the configuration language being Lua.</systemDescription>
         <systemManufacturer>Stratagus Team</systemManufacturer>
@@ -94,6 +94,12 @@
         <variables>
             <systemDescription>Stratagus 是一个免费开源的跨平台游戏引擎，用于制作即时战略视频游戏。它主要用 C++ 编写，配置语言为 Lua。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Stratagus 是免費且開放原始碼的跨平台遊戲引擎，用來製作即時戰略電子遊戲。僅以 GNU GPL-2.0 授權，[2] 主要以 C++ 寫成，配置語言為 Lua。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

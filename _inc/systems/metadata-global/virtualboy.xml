@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Virtual Boy</systemName>
         <systemDescription>The Virtual Boy is a 32-bit tabletop portable video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic "3D" graphics. The player uses the console like a head-mounted display, placing the head against the eyepiece to see a red monochrome display.
@@ -10,7 +10,7 @@ The games use a parallax effect to create the illusion of depth. Sales failed to
         <systemReleaseDateFormated>July 21, 1995</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>E1414A</systemColor>
+        <systemColor>f05148</systemColor>
         <systemColorPalette1>363636</systemColorPalette1>
         <systemColorPalette2>FE0016</systemColorPalette2>
         <systemColorPalette3>8A8C8E</systemColorPalette3>
@@ -127,6 +127,14 @@ Spelen använder en parallaxeffekt för att skapa en illusion av djup. Försälj
 
 游戏使用视差效果来制造深度错觉。由于销售未能达到预期目标，任天堂于 1996 年停止了该系统的发行和游戏开发，仅发行了 22 款游戏。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Virtual Boy 是任天堂開發製造的 32 位元桌上型可攜式視訊遊戲機。它於 1995 年推出，在市場上被標榜為第一台能夠顯示立體「3D」圖形的遊戲機。玩家使用控制台時就像使用頭戴式顯示器一樣，將頭部靠在目鏡上，就能看到紅色的單色顯示。
+
+遊戲使用視差效果來製造深度的錯覺。銷量未能達到目標，任天堂於 1996 年停止發行與遊戲開發，僅推出 22 款遊戲。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

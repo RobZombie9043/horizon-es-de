@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>ScummVM</systemName>
         <systemDescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft. It was originally written by Ludvig Strigeus. Released under the terms of the GNU General Public License, ScummVM is free software. ScummVM is a reimplementation of the part of the software used to interpret the scripting languages such games used to describe the game world rather than emulating the hardware the games ran on; as such, ScummVM allows the games it supports to be played on platforms other than those for which they were originally released.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>October 5, 2001</systemReleaseDateFormated>
         <systemHardwareType>Engine</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>4DBD51</systemColor>
+        <systemColor>4cac54</systemColor>
         <systemColorPalette1>FFEB32</systemColorPalette1>
         <systemColorPalette2>F17C38</systemColorPalette2>
         <systemColorPalette3>EFEDE3</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>狂人虚拟机脚本创建实用程序（ScummVM）是一套游戏引擎重现程序。它最初设计用于播放使用 SCUMM 系统的 LucasArts 冒险游戏，但也支持 Revolution Software 和 Adventure Soft 等公司的各种非 SCUMM 游戏。它最初由 Ludvig Strigeus 编写。ScummVM 根据 GNU 通用公共许可证条款发布，是一款自由软件。ScummVM 是对用于解释此类游戏描述游戏世界的脚本语言的软件部分的重新实现，而不是模拟游戏运行的硬件；因此，ScummVM 允许在其支持的游戏发布平台之外的平台上运行这些游戏。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) 是一套遊戲引擎重製程式。最初是為了播放使用 SCUMM 系統的 LucasArts 冒險遊戲而設計，也支援 Revolution Software 和 Adventure Soft 等公司的多種非 SCUMM 遊戲。它最初由 Ludvig Strigeus 寫成。ScummVM 依據 GNU 通用公共授權條款釋出，是自由軟體。ScummVM 是重新實作軟體的一部分，用來詮釋這類遊戲用來描述遊戲世界的腳本語言，而不是模擬遊戲執行的硬體；因此，ScummVM 允許它支援的遊戲在原本發行的平台以外的平台上執行。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

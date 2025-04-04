@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Triforce Arcade</systemName>
         <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>2002</systemReleaseDateFormated>
         <systemHardwareType>Arcade</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>9867A8</systemColor>
+        <systemColor>9c6faa</systemColor>
         <systemColorPalette1>7B79AA</systemColorPalette1>
         <systemColorPalette2>524C82</systemColorPalette2>
         <systemColorPalette3>CBC9E0</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Triforce（トライフォース）是世嘉（Sega）、任天堂（Nintendo）和南梦宫（Namco）合资开发的一款街机游戏机。它以任天堂 GameCube 视频游戏机为基础，以降低开发成本，并允许家用游戏机游戏的街机移植，反之亦然。它以任天堂广受欢迎的《塞尔达传说》系列中经常被追捧的神奇物品命名。</systemDescription>
             <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Triforce（トライフォース）是由 Sega、Nintendo 和 Namco 合資開發的街機板。它以 Nintendo GameCube 視訊遊戲機為基礎，以降低開發成本，並允許家用遊戲機的街機版移植，反之亦然。它以任天堂廣受歡迎的《塞爾達傳奇》系列中常見的神奇物品命名。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
         </variables>
     </language>
 </theme>

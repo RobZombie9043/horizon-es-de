@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Odyssey²</systemName>
         <systemDescription>The Magnavox Odyssey 2 is a second generation (1976–1992) home video game console developed and distributed by Magnavox. It was released in February 1979 in North America at a retail price of $179. The console was also released in Europe (1979), and later South America (1983), and Japan (1982). The Odyssey 2 included a full alphanumeric membrane keyboard, which was to be used for educational games, selecting options, or programming. The console was discontinued on March 20, 1984.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>December 1, 1978</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>EE820D</systemColor>
+        <systemColor>fa860a</systemColor>
         <systemColorPalette1>8C1914</systemColorPalette1>
         <systemColorPalette2>89918F</systemColorPalette2>
         <systemColorPalette3>DC3114</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Magnavox Odyssey 2 是由 Magnavox 开发和销售的第二代（1976-1992 年）家用视频游戏机。它于 1979 年 2 月在北美发布，零售价为 179 美元。该游戏机还在欧洲（1979 年）、南美（1983 年）和日本（1982 年）发行。奥德赛 2 包括一个全字母数字薄膜键盘，可用于教学游戏、选择选项或编程。该控制台于 1984 年 3 月 20 日停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 是由 Magnavox 開發和代理的第二代（1976-1992）家用視訊遊戲機。它於 1979 年 2 月在北美發行，零售價為 179 美元。這款遊戲機也在歐洲（1979 年）、南美（1983 年）和日本（1982 年）發行。Odyssey 2 包含一個完整的字母數字薄膜鍵盤，可用於教育遊戲、選擇選項或程式設計。該控制台於 1984 年 3 月 20 日停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

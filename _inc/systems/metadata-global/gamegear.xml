@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Game Gear</systemName>
         <systemDescription>The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress. It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter. Sega positioned the Game Gear, which had a full-color backlit screen with a landscape format, as a technologically superior handheld to the Game Boy.
@@ -10,7 +10,7 @@ Though the Game Gear was rushed to market, its unique game library and price poi
         <systemReleaseDateFormated>October 6, 1990</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>356FAF</systemColor>
+        <systemColor>306db2</systemColor>
         <systemColorPalette1>CCCBCB</systemColorPalette1>
         <systemColorPalette2>D41808</systemColorPalette2>
         <systemColorPalette3>008200</systemColorPalette3>
@@ -127,6 +127,14 @@ Deși Game Gear a fost lansat pe piață în grabă, biblioteca sa unică de joc
 
 虽然 Game Gear 仓促上市，但其独特的游戏库和价格优势使其在雅达利 Lynx 和 TurboExpress 上占据了优势。然而，由于电池寿命短、缺乏原创游戏以及世嘉公司的支持不力，Game Gear 的销量未能超过 Game Boy，到 1996 年 3 月仅售出 1062 万台。Game Gear 于 1997 年 4 月 30 日停产。2000 年，在世嘉的授权下，Majesco Entertainment 将其作为经济型系统重新推出。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game Gear 是 Sega 於 1990 年 10 月 6 日在日本、1991 年 4 月在北美和歐洲，以及 1992 年在澳洲推出的 8 位元第四代掌上型遊戲機。Game Gear 的主要競爭對手為任天堂的 Game Boy、Atari Lynx 以及 NEC 的 TurboExpress。它與 Master System 共用大部分硬體，並可透過使用轉接器來玩 Master System 遊戲。世嘉將 Game Gear 定位為技術上優於 Game Boy 的掌上型遊戲機，Game Gear 擁有全彩背光螢幕，並採用橫向格式。
+
+儘管 Game Gear 倉促上市，但其獨特的遊戲庫和價格卻讓它比 Atari Lynx 和 TurboExpress 更有優勢。然而，由於電池壽命短、缺乏原創遊戲，以及世嘉支援不力，Game Gear 未能超越 Game Boy，到 1996 年 3 月才賣出 1,062 萬台。Game Gear 於 1997 年 4 月 30 日停產。2000 年，在 Sega 的授權下，Majesco Entertainment 以經濟型系統的形式重新推出 Game Gear。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

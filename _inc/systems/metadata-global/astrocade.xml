@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Bally Astrocade</systemName>
         <systemDescription>The Bally Astrocade (also known as Bally Arcade or initially as Bally ABA-1000) is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally.
@@ -11,7 +11,7 @@ It was marketed only for a limited time before Bally decided to exit the market.
         <systemReleaseDateFormated>December 1, 1977</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>D59334</systemColor>
+        <systemColor>dc9230</systemColor>
         <systemColorPalette1>F2B101</systemColorPalette1>
         <systemColorPalette2>FA0105</systemColorPalette2>
         <systemColorPalette3>F8F6EA</systemColorPalette3>
@@ -142,6 +142,15 @@ Ballyが市場からの撤退を決定するまでの限られた期間のみ販
 它最初于 1977 年 10 月以 "Bally 家庭图书馆计算机 "的名称发布，并于 1977 年 12 月开始邮购。但由于生产延误，该产品于 1978 年 4 月首次在商店发售，其品牌也改为 "Bally Professional Arcade"。
 
 在 Bally 决定退出市场之前，该产品仅在市场上销售了一段时间。后来，一家第三方公司买下了它的版权，并重新发布和销售，直到 1984 年左右。Astrocade 的特别之处在于，它在发布之初拥有非常强大的图形处理能力，而且很难获得这些能力。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Bally Astrocade（也稱為 Bally Arcade 或最初的 Bally ABA-1000）是第二代家用視訊遊戲機和簡易電腦系統，由 Midway（當時 Bally 的視訊遊戲部門）的團隊設計。
+它最初於 1977 年 10 月以 「Bally 家庭圖書館電腦 」的名稱發表，並於 1977 年 12 月開始接受郵購。但由於生產延誤，該產品於 1978 年 4 月才首次在商店發售，其品牌也改為「Bally Professional Arcade」。
+
+在 Bally 決定退出市場之前，它只在市場上銷售了一段有限的時間。後來由第三方公司取得其權利，並重新發行與銷售至 1984 年左右。Astrocade 特別值得注意的地方在於它在發行時有非常強大的圖形功能，而且要取得這些功能也非常困難。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

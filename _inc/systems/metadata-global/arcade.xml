@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Arcade</systemName>
         <systemDescription>An arcade game or coin-op is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. Most arcade games are video games, pinball machines, electro-mechanical games, redemption games or merchandisers. While exact dates are debated, the golden age of arcade video games is usually defined as a period beginning sometime in the late 1970s and ending sometime in the mid-1980s. Excluding a brief resurgence in the early 1990s, the arcade industry subsequently declined in the Western hemisphere as competing home-based video game consoles such as Playstation and Xbox increased in their graphics and game-play capability and decreased in cost.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>Various</systemReleaseDateFormated>
         <systemHardwareType>Collection</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>5B60B7</systemColor>
+        <systemColor>5a64bb</systemColor>
         <systemColorPalette1>FA6E0D</systemColorPalette1>
         <systemColorPalette2>FCCD0A</systemColorPalette2>
         <systemColorPalette3>032EC0</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>街机游戏或投币机是一种投币式娱乐机器，通常安装在餐馆、酒吧和游乐场等公共场所。大多数街机游戏都是视频游戏、弹球机、电子机械游戏、兑换游戏或商品销售机。虽然确切的时间尚有争议，但街机视频游戏的黄金时代通常被定义为从 20 世纪 70 年代末开始到 20 世纪 80 年代中期结束的一段时期。除去 20 世纪 90 年代初的短暂复苏，随着 Playstation 和 Xbox 等家用视频游戏机的图形和游戏功能的增强以及成本的降低，街机业随后在西半球衰落。</systemDescription>
             <systemHardwareType>收藏品</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>街機遊戲或投幣機是一種投幣式娛樂機器，通常安裝在餐廳、酒吧和遊樂場等公共場所。大多數的街機遊戲都是電子遊戲機、彈珠檯、電動遊戲機、兌換遊戲機或商品販賣機。雖然確切的日期仍有爭議，但街機遊戲的黃金時代通常被定義為從 1970 年代末期開始到 1980 年代中期結束的一段時間。除了 1990 年代初期的短暫復興外，隨著 Playstation 和 Xbox 等家用視訊遊戲機的圖像和遊戲能力提升，以及成本下降，街機產業隨後在西半球衰退。</systemDescription>
+            <systemHardwareType>系列</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Game.com</systemName>
         <systemDescription>The Game.com is a fifth-generation handheld game console released by Tiger Electronics in August 1997. A smaller version, the Game.com Pocket Pro, was released in mid-1999.
@@ -11,7 +11,7 @@ It was the first video game console to include a touchscreen and the first handh
         <systemReleaseDateFormated>August 1997</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>58ACB4</systemColor>
+        <systemColor>54a4b6</systemColor>
         <systemColorPalette1>71829A</systemColorPalette1>
         <systemColorPalette2>293039</systemColorPalette2>
         <systemColorPalette3>AE2B2B</systemColorPalette3>
@@ -142,6 +142,15 @@ Game.com 的第一个版本可以连接到 14.4 kbit/s 的调制解调器上进�
 
 它是第一款带有触摸屏的视频游戏机，也是第一款带有互联网连接功能的掌上游戏机。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game.com 是 Tiger Electronics 於 1997 年 8 月推出的第五代掌上遊戲機。1999 年中推出了較小的版本 Game.com Pocket Pro。
+Game.com 的第一個版本可連接 14.4 kbit/s 的數據機進行網際網路連線，因此其名稱參考了頂級網域名稱 .com。
+
+它是第一款包含觸控螢幕的視訊遊戲機，也是第一款包含網際網路連線功能的掌上型遊戲機。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

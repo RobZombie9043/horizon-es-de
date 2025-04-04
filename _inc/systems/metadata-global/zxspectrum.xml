@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>April 21, 1982</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>8F1B12</systemColor>
+        <systemColor>9a2514</systemColor>
         <systemColorPalette1>CA2825</systemColorPalette1>
         <systemColorPalette2>EDBA01</systemColorPalette2>
         <systemColorPalette3>009C37</systemColorPalette3>
@@ -98,6 +98,12 @@
         <variables>
             <systemDescription>ZX Spectrum 是辛克莱研究有限公司于 1982 年在英国发布的一款 8 位个人家用电脑。它是 Sinclair ZX81 的后续机型。Spectrum 最终发布了 8 个不同型号（尽管 Spectrum 128K 之后的型号在技术上是由 Amstrad 开发和制造的），从 1982 年发布的配备 16 kB 内存的入门级型号到配备 128 kB 内存和内置软盘驱动器的 ZX Spectrum +3 不等。Spectrum 是英国第一批主流家用电脑，其重要性类似于美国的 Commodore 64。在 20 世纪 80 年代早期，Commodore 64、BBC Microcomputer 以及后来的 Amstrad CPC 系列都是 Spectrum 在英国市场上的主要竞争对手。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>ZX Spectrum 是辛克萊研究有限公司於 1982 年在英國推出的一款 8 位元個人家用電腦。它是 Sinclair ZX81 的後續產品。Spectrum 最後發表了八款不同的機型（雖然 Spectrum 128K 之後的機型在技術上是由 Amstrad 開發和製造的），從 1982 年發行的 16 kB RAM 的入門機型到 128 kB RAM 並內建磁碟機的 ZX Spectrum +3 不等。Spectrum 是英國第一批主流家用電腦，其重要性類似於美國的 Commodore 64。在 1980 年代早期，Commodore 64、BBC Microcomputer 以及後來的 Amstrad CPC 系列都是 Spectrum 在英國市場的主要競爭對手。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Naomi 2</systemName>
         <systemDescription>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.
@@ -10,7 +10,7 @@ The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU 
         <systemReleaseDateFormated>2000</systemReleaseDateFormated>
         <systemHardwareType>Arcade</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>E27E16</systemColor>
+        <systemColor>fa860a</systemColor>
         <systemColorPalette1>E4E7D7</systemColorPalette1>
         <systemColorPalette2>FD95B0</systemColorPalette2>
         <systemColorPalette3>48B3EB</systemColorPalette3>
@@ -127,6 +127,14 @@ NAOMI 2は、デュアルCPUセットアップ、新しいT&amp;L GPU、デュ�
 
 NAOMI 2 比 NAOMI 强大得多，包括双 CPU 设置、新的 T&amp;L GPU、双光栅 GPU、更大的内存和更快的带宽。这使得游戏的多边形数量比NAOMI游戏多得多，渲染速度也快得多，而新的T&amp;L GPU则增加了先进的光照和粒子效果。此外，NAOMI 2的价格也比之前非常昂贵（而且难以编程）的世嘉Hikaru街机系统更实惠。尽管如此，NAOMI 2 仍比当时的家用系统更加强大。</systemDescription>
             <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sega NAOMI 2 是由 Sega 開發的街機板，是 Sega NAOMI 硬體的後繼機種。它最初於 2000 年推出。由於它使用類似的 NAOMI 架構 (但已大幅加強)，因此也完全向下相容於前一代產品。
+
+NAOMI 2 的功能遠比 NAOMI 強大，包括雙 CPU 設定、新的 T&amp;L GPU、雙光柵 GPU、更大的記憶體和更快的頻寬。這使得遊戲中的多邊形數量比 NAOMI 遊戲多得多，渲染速度也快得多，而新的 T&amp;L GPU 則增加了先進的光照和粒子效果。它的價格也比之前非常昂貴（而且難以編程）的Sega Hikaru街機系統更加實惠。儘管如此，NAOMI 2 仍比當時的家用系統更為強大。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
         </variables>
     </language>
 </theme>

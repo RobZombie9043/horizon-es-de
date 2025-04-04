@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Gamate</systemName>
         <systemDescription>The Gamate, known as 超級小子 (pinyin: chāojí xiǎozi, literally "Super Boy") in Taiwan and 超级神童 (pinyin: chāojí shéntóng, literally "Super Child Prodigy") in China, is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia (Taiwan and China), Argentina, and the United States.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Gamate 在台湾被称为 "超級小子"，在中国被称为 "超级神童"：超级神童（拼音：chāojí shéntóng，字面意思为 "超级神童"）是 Bit Corporation 在 20 世纪 90 年代初生产的一款掌上游戏机，在澳大利亚、欧洲部分地区、亚洲（台湾和中国）、阿根廷和美国发行。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Gamate 在台灣稱為「超級小子」，在中國則稱為「超級神童」：是 Bit Corporation 於 1990 年代早期製造的掌上型遊戲機，並在澳洲、歐洲部分地區、亞洲 (台灣和中國)、阿根廷和美國發行。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari 800</systemName>
         <systemDescription>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 and manufactured until 1992. All of the machines in the family are technically similar and differ primarily in packaging. They are based on the MOS Technology 6502 CPU running at 1.79 MHz, and were the first home computers designed with custom coprocessor chips. This architecture enabled graphics and sound more advanced than contemporary machines, and gaming was a major draw. First-person space combat simulator Star Raiders is considered the platform's killer app. The systems launched with plug and play peripherals using the Atari SIO serial bus, an early analog of USB.
@@ -10,7 +10,7 @@ The Atari 400 was initially almost half the cost of the Atari 800. Instead of th
         <systemReleaseDateFormated>November 1, 1979</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>CC9141</systemColor>
+        <systemColor>d1923d</systemColor>
         <systemColorPalette1>B6B896</systemColorPalette1>
         <systemColorPalette2>EBD335</systemColorPalette2>
         <systemColorPalette3>5D3615</systemColorPalette3>
@@ -127,6 +127,14 @@ Atari 400은 처음에 Atari 800의 거의 절반에 불과했습니다. 800의 
 
 雅达利 400 最初的成本几乎是雅达利 800 的一半。400 没有 800 的全尺寸键盘，只有一个压感面板。800 有第二个卡匣插槽和更大的机箱，可将内存升级到 48K。1983 年，这两种型号都被 XL 系列所取代，1985 年，雅达利公司被出售并重新组建为雅达利公司后，XE 型号又取代了这两种型号。XL 和 XE 结构更轻，同时内置 Atari BASIC 和 2 个操纵杆端口（而不是 4 个）。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari 8 位元系列是 Atari, Inc. 於 1979 年推出的 8 位元家用電腦系列，分別為 Atari 400 和 Atari 800，並一直生產至 1992 年。該系列的所有機器在技術上大同小異，主要差別在於包裝。它們以 MOS Technology 6502 CPU 為基礎，運行速度為 1.79 MHz，是第一款使用自訂協處理器晶片設計的家用電腦。這種架構使圖形和音效比同時代的機器更先進，遊戲也成為主要的吸引力。第一人稱太空戰鬥模擬程式 Star Raiders 被認為是該平台的殺手級應用程式。這些系統使用 Atari SIO 序列匯流排 (USB 的早期類似產品) 推出隨插即用的週邊設備。
+
+Atari 400 最初的成本幾乎是 Atari 800 的一半。400 沒有 800 的全尺寸鍵盤，而只有一個壓力感應面板。800 有第二個卡匣插槽和更大的外殼，可將記憶體升級至 48K。這兩種機型在 1983 年被 XL 系列取代，在公司被出售並重新成立 Atari Corporation 之後，又在 1985 年被 XE 機型取代。XL 和 XE 結構較輕，內建 Atari BASIC，並有 2 個搖桿連接埠，而非 4 個。130XE 將記憶體增加到 128 KB 銀行交換記憶體。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

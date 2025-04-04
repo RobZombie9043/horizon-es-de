@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Kodi</systemName>
         <systemDescription>Kodi is a free and open-source media player software application developed by the XBMC Foundation, a non-profit technology consortium. Kodi is available for multiple operating systems and hardware platforms, with a software 10-foot user interface for use with televisions and remote controls.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Kodi 是由非营利技术联盟 XBMC 基金会开发的一款免费开源媒体播放器软件应用程序。Kodi 可用于多种操作系统和硬件平台，其软件用户界面为 10 英尺，可与电视机和遥控器配合使用。</systemDescription>
             <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Kodi 是由 XBMC 基金會 (XBMC Foundation) 所開發的免費開放原始碼媒體播放器軟體應用程式，XBMC 基金會是一個非營利的技術聯盟。Kodi 適用於多種作業系統和硬體平台，其軟體 10 呎使用者介面可搭配電視和遙控器使用。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
         </variables>
     </language>
 </theme>

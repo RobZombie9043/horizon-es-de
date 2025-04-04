@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Now Playing</systemName>
         <systemDescription>Play and complete the games on your backlog.</systemDescription>
@@ -92,6 +92,12 @@
         <variables>
             <systemDescription>玩并完成积压的游戏。</systemDescription>
             <systemHardwareType>收藏品</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>玩並完成您積壓的遊戲。</systemDescription>
+            <systemHardwareType>系列</systemHardwareType>
         </variables>
     </language>
 </theme>

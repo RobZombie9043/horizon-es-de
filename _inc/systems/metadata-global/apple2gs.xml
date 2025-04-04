@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Apple IIGS</systemName>
         <systemDescription>The Apple IIGS is a personal computer released by Apple Computer on September 15, 1986 that's compatible with the Apple II series, but otherwise has capabilities comparable to the Atari ST, Commodore Amiga, and Macintosh. The "GS" in the name stands for "Graphics" and "Sound," referring to its enhanced multimedia hardware, especially its state of the art sound and music synthesis. The machine is a radical departure from any previous Apple II, with its 16-bit processor, direct access to megabytes of RAM, and mouse. It's the first computer produced by Apple to use a color graphical user interface (color was introduced on the Macintosh II six months later) and Apple Desktop Bus interface for keyboards, mice, and other input devices. It is the first personal computer to come with a built-in wavetable synthesis chip, utilizing technology from Ensoniq.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>September 15, 1986</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>4F65D2</systemColor>
+        <systemColor>4c69d6</systemColor>
         <systemColorPalette1>D27C35</systemColorPalette1>
         <systemColorPalette2>C44243</systemColorPalette2>
         <systemColorPalette3>E3AD3A</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>苹果 IIGS 是苹果电脑公司于 1986 年 9 月 15 日发布的一款个人电脑，它与苹果 II 系列兼容，但在其他方面的性能可与 Atari ST、Commodore Amiga 和 Macintosh 相媲美。名称中的 "GS "代表 "Graphics（图形）"和 "Sound（声音）"，指的是其增强的多媒体硬件，尤其是其最先进的声音和音乐合成技术。该机采用 16 位处理器，可直接访问兆字节的 RAM 和鼠标，与以前的 Apple II 完全不同。它是苹果公司生产的第一台使用彩色图形用户界面（六个月后的 Macintosh II 才开始使用彩色图形用户界面）和用于键盘、鼠标和其他输入设备的苹果桌面总线接口的电脑。它是第一台内置波形合成芯片的个人电脑，采用了 Ensoniq 公司的技术。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Apple IIGS 是蘋果電腦公司於 1986 年 9 月 15 日推出的個人電腦，可與 Apple II 系列相容，但其他方面的功能則可媲美 Atari ST、Commodore Amiga 和 Macintosh。名稱中的 "GS 「代表 」Graphics「（圖形）和 」Sound"（聲音），指的是其增強的多媒體硬體，尤其是其最先進的聲音和音樂合成技術。這台機器與之前的任何 Apple II 都截然不同，它採用 16 位元處理器、可直接存取兆位元組的 RAM 和滑鼠。它是 Apple 生產的第一台使用彩色圖形使用者介面的電腦（六個月後 Macintosh II 才推出彩色），也是鍵盤、滑鼠和其他輸入裝置的 Apple Desktop Bus 介面。它是第一台內建波形合成晶片的個人電腦，採用 Ensoniq 的技術。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

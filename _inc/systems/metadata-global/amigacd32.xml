@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Amiga CD32</systemName>
         <systemDescription>The Amiga CD32, styled "CD32" and code-named "Spellbound", is the first 32-bit home video game console released in western Europe, Australia, Canada and Brazil. It was first announced at the Science Museum in London on July 16, 1993, and was released in September of the same year. The CD32 uses CD-ROM media, and was developed by Commodore, creator of the Commodore Amiga computer. It was based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 computer. Using third party devices, it is possible to upgrade the CD32 with keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200 personal computer. A hardware MPEG decompression module for playing Video CD was also released. In the Christmas period following its launch, the CD32 accounted for 38% of all CD-ROM drive sales in the UK, exceeding sales of the Mega-CD; however, it was soon overshadowed by CD-ROM based games consoles from other companies, and was discontinued as Commodore went into bankruptcy.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>September 17, 1993</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>DD4637</systemColor>
+        <systemColor>e95535</systemColor>
         <systemColorPalette1>FF5853</systemColorPalette1>
         <systemColorPalette2>47DEBA</systemColorPalette2>
         <systemColorPalette3>FFDF46</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Amiga CD32，型号为 "CD32"，代号为 "Spellbound"，是第一款在西欧、澳大利亚、加拿大和巴西发布的 32 位家用视频游戏机。它于 1993 年 7 月 16 日在伦敦科学博物馆首次发布，并于同年 9 月发售。CD32 使用 CD-ROM 介质，由 Commodore Amiga 计算机的制造商 Commodore 开发。它基于 Commodore 高级图形架构芯片组，规格与 Amiga 1200 计算机相似。使用第三方设备可以升级 CD32，使其配备键盘、软驱、硬盘、内存和鼠标，相当于一台 Amiga 1200 个人电脑。此外，还发布了用于播放视频 CD 的硬件 MPEG 解压缩模块。上市后的圣诞节期间，CD32 占英国所有 CD-ROM 驱动器销售量的 38%，超过了 Mega-CD 的销售量；但很快就被其他公司基于 CD-ROM 的游戏机所掩盖，并随着 Commodore 的破产而停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Amiga CD32，造型為「CD32」，代號為「Spellbound」，是第一台在西歐、澳洲、加拿大和巴西發行的 32 位元家用視訊遊戲機。它於 1993 年 7 月 16 日在倫敦科學博物館首次發表，並於同年 9 月發售。CD32 使用 CD-ROM 媒體，由 Commodore Amiga 電腦的創造者 Commodore 所開發。它以 Commodore 的 Advanced Graphics Architecture 晶片組為基礎，規格與 Amiga 1200 電腦相似。使用第三方裝置，可將 CD32 升級為具有鍵盤、磁碟機、硬碟、RAM 和滑鼠，使其等同於 Amiga 1200 個人電腦。此外，還推出了用於播放 Video CD 的硬體 MPEG 解壓縮模組。CD32 上市後的聖誕期間，佔英國 CD-ROM 光碟機總銷售量的 38%，超過 Mega-CD 的銷售量；然而，CD32 很快就被其他公司以 CD-ROM 為基礎的遊戲主機所掩蓋，並隨著 Commodore 破產而停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

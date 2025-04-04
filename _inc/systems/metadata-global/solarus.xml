@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Solarus</systemName>
         <systemDescription>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.
@@ -217,6 +217,20 @@ Båda delarna (C++-motorn och Lua-skripten för ditt uppdrag) kommunicerar via S
 
 两部分（C++ 引擎和任务的 Lua 脚本）都通过 Solarus Lua API 进行通信。通信以两种方式进行：您可以调用引擎的函数（例如：您想移动一个非游戏角色），引擎也可以调用您自己的函数（例如：通知您一个敌人刚刚被杀死）。但在使用 Solarus API 之前，您必须先学习 Lua 的基础知识（简单易学但功能强大的语言）。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Solarus 是以經典 2D 動作-RPG 遊戲為設計藍本，例如 Super Nintendo 上的《The Legend of Zelda: A Link to Past》與《Secret of Mana》，或是 Sega Megadrive/Genesis 上的《Soleil》。
+
+該引擎以 C++ 程式語言編寫，使用 SDL 函式庫和 OpenGL 後端。使用 Solarus 製作的遊戲稱為 quests，以 Lua 程式語言編寫。
+
+引擎會執行所有繁重的計算（例如碰撞檢查）和低階操作，例如繪製畫面、製作萌物動畫和播放聲音。
+
+身為任務製作人，您對實作這些演算法沒有太大興趣。相反，您想要定義遊戲邏輯。您的 Lua 腳本會描述敵人的行為、按下特定地圖上的開關時會發生什麼事。它們也會實作如標題畫面和抬頭顯示等。
+
+這兩個部分（C++ 引擎和您任務的 Lua 腳本）都透過 Solarus Lua API 進行通訊。溝通的方式有兩種：您可以呼叫引擎的函數（例如：您想要移動一個非遊戲角色），而引擎則呼叫您自己的函數（例如：通知您敵人剛被殺死）。但在使用 Solarus API 之前，您必須先學習 Lua 的基本知識（簡單易用但功能強大的語言）。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

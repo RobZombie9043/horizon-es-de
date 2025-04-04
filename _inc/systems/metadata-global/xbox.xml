@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Xbox</systemName>
         <systemDescription>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, an online service by the name of Xbox Live, and the development arm by the name of Xbox Game Studios.
@@ -10,7 +10,7 @@ The brand was first introduced in the United States in November 2001, with the l
         <systemReleaseDateFormated>November 15, 2001</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>68B653</systemColor>
+        <systemColor>66a853</systemColor>
         <systemColorPalette1>CDDF01</systemColorPalette1>
         <systemColorPalette2>9ABF5E</systemColorPalette2>
         <systemColorPalette3>534F57</systemColorPalette3>
@@ -126,6 +126,14 @@ Varumärket introducerades för första gången i USA i november 2001, i samband
             <systemDescription>Xbox 是微软公司创建并拥有的视频游戏品牌。它代表微软开发的一系列视频游戏机，分别在第六代、第七代和第八代发布了三款游戏机。该品牌还代表应用程序（游戏）、流媒体服务、名为 Xbox Live 的在线服务以及名为 Xbox Game Studios 的开发部门。
 
 该品牌于 2001 年 11 月在美国首次推出，当时推出的是最初的 Xbox 游戏机。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Xbox 是 Microsoft 所創造與擁有的視訊遊戲品牌。它代表 Microsoft 所開發的一系列視訊遊戲主機，分別在第六代、第七代和第八代推出了三款主機。該品牌還代表應用程式 (遊戲)、串流服務、Xbox Live 線上服務，以及 Xbox Game Studios 開發部門。
+
+該品牌於 2001 年 11 月首次在美國推出，當時推出的是原版 Xbox 主機。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

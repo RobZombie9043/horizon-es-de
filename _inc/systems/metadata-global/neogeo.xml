@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Neo Geo</systemName>
         <systemDescription>The Advanced Entertainment System (AES), originally known just as the Neo Geo, is the first video game console in the family. The hardware features comparatively colorful 2D graphics. The hardware was in part designed by Alpha Denshi (later ADK). Initially, the home system was only available for rent to commercial establishments, such as hotel chains, bars and restaurants, and other venues. When customer response indicated that some gamers were willing to buy a US$650 console, SNK expanded sales and marketing into the home console market. The Neo Geo console was officially launched on 31 January 1990 in Osaka, Japan. The AES is identical to its arcade counterpart, the MVS, so arcade games released for the home market are nearly identical conversions.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>January 31, 1990</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>7A838B</systemColor>
+        <systemColor>7c818c</systemColor>
         <systemColorPalette1>BF9328</systemColorPalette1>
         <systemColorPalette2>494949</systemColorPalette2>
         <systemColorPalette3>2D2D2D</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>高级娱乐系统（AES）最初仅称为 Neo Geo，是该家族的第一款视频游戏机。该硬件采用色彩相对丰富的 2D 图形。硬件部分由 Alpha Denshi（后来的 ADK）设计。起初，家用系统只向连锁酒店、酒吧和餐馆等商业机构出租。当客户反应表明一些玩家愿意购买 650 美元的游戏机时，SNK 将销售和营销范围扩大到家用游戏机市场。Neo Geo 游戏机于 1990 年 1 月 31 日在日本大阪正式发布。AES 与街机游戏机 MVS 完全相同，因此面向家用市场推出的街机游戏几乎都是相同的转换版本。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>先進娛樂系統 (AES)，最初只被稱為 Neo Geo，是該系列的第一台視訊遊戲機。該硬體以色彩相對豐富的 2D 圖形為特色。該硬體部分由 Alpha Denshi（後來的 ADK）設計。起初，家用系統只租借給商業機構，例如連鎖飯店、酒吧、餐廳等場所。當顧客反應顯示有些玩家願意購買 650 美元的遊戲機後，SNK 擴大了家用遊戲機市場的銷售與行銷。Neo Geo 主機於 1990 年 1 月 31 日在日本大阪正式推出。AES 與其街機對應的 MVS 完全相同，因此針對家用市場推出的街機遊戲幾乎都是相同的轉換版本。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

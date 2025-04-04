@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Taito Type X</systemName>
         <systemDescription>The Taito Type X is an arcade system board released in 2004 by game developer and publisher Taito.
@@ -10,7 +10,7 @@ Based on commodity personal computer hardware architecture, Type X is not a spec
         <systemReleaseDateFormated>2004</systemReleaseDateFormated>
         <systemHardwareType>Arcade</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>2A7FBD</systemColor>
+        <systemColor>2278c0</systemColor>
         <systemColorPalette1>F6DD08</systemColorPalette1>
         <systemColorPalette2>800000</systemColorPalette2>
         <systemColorPalette3>FF0000</systemColorPalette3>
@@ -127,6 +127,14 @@ Type X är baserat på en vanlig persondators hårdvaruarkitektur och är inte e
 
 Type X 基于商品化的个人计算机硬件架构，它不是一套单一硬件的规格，而是一个模块化平台，支持具有不同级别图形能力的多种硬件配置。这种灵活性使游戏开发者可以根据游戏的具体要求选择有限的配置，并使整个平台能够更有效地支持计算需求大相径庭的游戏作品。例如，Type X+ 和 Type X2 型号具有升级的图形处理能力，可用于改善游戏视觉效果或输出到更高分辨率（HDTV）显示器。Type X7 板主要用于日本的弹珠机。Rawiya 与他人共同拥有生产这种系统板的公司。</systemDescription>
             <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Taito Type X 是遊戲開發商和發行商 Taito 於 2004 年推出的一款街機系統板。
+
+Type X 以商品化的個人電腦硬體架構為基礎，並不是單一套硬體的規格，而是一個模組化平台，可支援具有不同等級圖形能力的多種硬體配置。這種彈性讓遊戲開發人員在選擇配置時可以有限度地滿足遊戲的特定需求，也讓整個平台可以更有效率地支援運算需求迥異的遊戲作品。舉例來說，Type X+ 和 Type X2 機型具有升級的圖形處理能力，可以用來提供更好的遊戲視覺效果，或輸出至更高解析度 (HDTV) 的顯示器。Type X7 顯示板主要用於日本的彈珠機。Rawiya 與他人共同擁有製造這款系統板的公司。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
         </variables>
     </language>
 </theme>

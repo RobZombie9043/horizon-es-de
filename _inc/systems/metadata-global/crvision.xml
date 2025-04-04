@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>CreatiVision</systemName>
         <systemDescription>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982 during the Second generation of video game consoles. It was built by the Finnish company Salora. It cost $295 Australian Dollars. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, the older VideoBrain Family Computer, and to a lesser extent the Intellivision game console and Coleco Adam computer, all of which anticipated the trend of video game consoles becoming more like low-end computers. It was discontinue in 1986.</systemDescription>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>Video Technology CreatiVision 是伟易达于 1981 年推出的一款混合电脑和家用视频游戏机，于 1982 年第二代视频游戏机时期发布。它由芬兰公司 Salora 制造。它的售价为 295 澳元。这种混合装置在概念上与 APF Imagination Machine、较早的 VideoBrain Family Computer 等计算机相似，在较小程度上与 Intellivision 游戏机和 Coleco Adam 计算机相似，所有这些都预示着视频游戏机变得更像低端计算机的趋势。它于 1986 年停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Video Technology CreatiVision 是偉易達於 1981 年推出的混合電腦與家用視訊遊戲機，並於 1982 年第二代視訊遊戲機時期發售。它由芬蘭公司 Salora 製造。它的售價為 295 澳元。這款混合裝置在概念上與 APF Imagination Machine、較舊的 VideoBrain Family Computer 等電腦類似，其次是 Intellivision 遊戲主機和 Coleco Adam 電腦，所有這些產品都預期了視訊遊戲主機變得更像低端電腦的趨勢。它在 1986 年停產。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

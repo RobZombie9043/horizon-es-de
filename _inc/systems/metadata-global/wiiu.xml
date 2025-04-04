@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Wii U</systemName>
         <systemDescription>The Wii U (WEE YOO) is a home video game console developed by Nintendo as the successor to the Wii. Released in late 2012, it is the first eighth-generation video game console and competed with Microsoft's Xbox One and Sony's PlayStation 4.
@@ -10,7 +10,7 @@ The Wii U is the first Nintendo console to support HD graphics. The system's pri
         <systemReleaseDateFormated>November 18, 2012</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>58AED1</systemColor>
+        <systemColor>53a7d4</systemColor>
         <systemColorPalette1>1F9EBB</systemColorPalette1>
         <systemColorPalette2>3783BC</systemColorPalette2>
         <systemColorPalette3>DDDCDC</systemColorPalette3>
@@ -126,6 +126,14 @@ Wii U는 HD 그래픽을 지원하는 최초의 닌텐도 콘솔입니다. 시�
             <systemDescription>Wii U（WEE YOO）是任天堂开发的家用视频游戏机，是 Wii 的后继机。它于 2012 年底发布，是第一款第八代视频游戏机，与微软的 Xbox One 和索尼的 PlayStation 4 竞争。
 
 Wii U 是任天堂第一款支持高清图形的游戏机。该系统的主要控制器是 Wii U 游戏板，它具有嵌入式触摸屏、方向键、模拟摇杆和动作按钮。该屏幕既可作为主显示屏的补充，也可在支持的游戏中直接在游戏板上玩游戏。Wii U Pro 控制器可作为更传统的替代品。Wii U 向后兼容所有 Wii 软件和配件。游戏可以支持游戏手柄、Wii 遥控器、双节棍、平衡板、任天堂经典控制器或 Wii U 专业控制器的任意组合。在线功能以任天堂网络平台和 Miiverse 为中心，Miiverse 是一种集成的社交网络服务，允许用户在特定的游戏社区分享内容。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Wii U (WEE YOO) 是任天堂開發的家用視訊遊戲主機，是 Wii 的後繼機種。於 2012 年底推出，是第一台第八代視訊遊戲主機，並與微軟的 Xbox One 和索尼的 PlayStation 4 競爭。
+
+Wii U 是第一台支援 HD 圖形的任天堂遊戲機。系統的主要控制器為 Wii U GamePad，內建觸控螢幕、方向鍵、類比搖桿及動作按鈕。螢幕可作為主顯示器的補充，或在支援的遊戲中直接在 GamePad 上玩遊戲。Wii U Pro Controller 可作為更傳統的選擇。Wii U 向後相容於所有 Wii 軟體與配件。遊戲可支援 GamePad、Wii 遙控器、雙節棍、平衡板、任天堂經典控制器或 Wii U Pro 控制器的任何組合。線上功能以 Nintendo Network 平台和 Miiverse 為中心，Miiverse 是整合式的社交網路服務，可讓使用者在特定遊戲社群中分享內容。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

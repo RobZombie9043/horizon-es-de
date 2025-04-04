@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>CPS-III</systemName>
         <systemDescription>The CP System III (CPシステムIII, shīpī shisutemu surī) or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System arcade hardware, following the CP System II. It would be the last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>November 11, 1996</systemReleaseDateFormated>
         <systemHardwareType>Arcade</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>ECD04C</systemColor>
+        <systemColor>efcb47</systemColor>
         <systemColorPalette1>FAFAFA</systemColorPalette1>
         <systemColorPalette2>034EA2</systemColorPalette2>
         <systemColorPalette3>111111</systemColorPalette3>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>CP System III（CPシステムIII，shīpī shisutemu surī）或 CPS-3 是一种街机系统板卡，卡普空公司于 1996 年首次将其用于街机游戏《红土地》。它是继 CP System II 之后，CP System 街机硬件的第二个后续产品。在转向基于 Dreamcast 的 Naomi 平台之前，它是 Capcom 生产的最后一款专有系统板。</systemDescription>
             <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>CP System III（CPシステムIII，shīpī shisutemu surī）或 CPS-3 是 Capcom 於 1996 年首次在街機遊戲《Red Earth》中使用的街機系統板卡。它是繼 CP System II 之後，CP System 街機硬體的第二個後續產品。在轉移到以 Dreamcast 為基礎的 Naomi 平台之前，這是 Capcom 所生產的最後一款專屬系統板卡。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
         </variables>
     </language>
 </theme>

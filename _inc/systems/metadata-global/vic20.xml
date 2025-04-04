@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>VIC-20</systemName>
         <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
@@ -10,7 +10,7 @@ The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a G
         <systemReleaseDateFormated>June 1980</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>5F8FC8</systemColor>
+        <systemColor>286d98</systemColor>
         <systemColorPalette1>896841</systemColorPalette1>
         <systemColorPalette2>D3D3C9</systemColorPalette2>
         <systemColorPalette3>FFCD1C</systemColorPalette3>
@@ -127,6 +127,14 @@ VIC-20은 독일에서 VC-20이라고 불렀는데, 독일 억양이 있는 VIC�
 
 VIC-20 在德国被称为 VC-20，因为德国口音的 VIC 发音听起来像德国的脏话 "fick "或 "wichsen"。VC 这个词在市场上被认为是 VolksComputer（"人民的计算机"，类似于 Volkswagen 和 Volksempfänger）的缩写。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Commodore VIC-20（德國稱為 VC-20，日本稱為 VIC-1001）是 Commodore Business Machines 銷售的 8 位元家用電腦。VIC-20 於 1980 年發表，與 Commodore 的第一台個人電腦 PET 相隔約三年。VIC-20 是第一台銷量突破 100 萬台的電腦。它被形容為「首批反觀觀、非神秘設計的電腦之一......不再只是業餘愛好者/發燒友或有錢人的專利，Commodore 開發的電腦是未來的電腦。
+
+VIC-20 在德國被稱為 VC-20，因為德語口音的 VIC 發音聽起來像德語的髒話「fick」或「wichsen」。VC 一詞在行銷上彷彿是 VolksComputer (「人民的電腦」，類似於 Volkswagen 和 Volksempfänger)的縮寫。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

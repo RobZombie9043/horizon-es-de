@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Macintosh</systemName>
         <systemDescription>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. (originally as Apple Computer, Inc.) since January 1984.
@@ -10,7 +10,7 @@ The original Macintosh is the first successful mass-market all-in-one desktop pe
         <systemReleaseDateFormated>January 1984</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>1EAEDA</systemColor>
+        <systemColor>12a3df</systemColor>
         <systemColorPalette1>76B845</systemColorPalette1>
         <systemColorPalette2>E19433</systemColorPalette2>
         <systemColorPalette3>009DDD</systemColorPalette3>
@@ -127,6 +127,14 @@ Den ursprungliga Macintosh är den första framgångsrika massmarknaden allt-i-e
 
 最初的 Macintosh 是第一款成功的大众市场一体化台式个人电脑，具有图形用户界面、内置屏幕和鼠标。苹果公司将 Macintosh 与广受欢迎的 Apple II、Apple IIGS、Apple III 和 Apple Lisa 系列电脑一起销售，直到 20 世纪 90 年代其他型号的电脑停产。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Macintosh (自 1998 年起以 Mac 為主) 是 Apple Inc. (原名為 Apple Computer, Inc.) 自 1984 年 1 月起設計、製造及銷售的個人電腦系列。
+
+最初的 Macintosh 是第一台成功的大眾市場 All-in-one 桌上型個人電腦，具有圖形使用者介面、內建螢幕和滑鼠。蘋果公司將 Macintosh 與其廣受歡迎的 Apple II、Apple IIGS、Apple III 及 Apple Lisa 系列電腦一同銷售，直至其他型號於 1990 年代停產。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

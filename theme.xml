@@ -61,6 +61,14 @@ license:      	creative commons CC-BY-NC-SA
 			<iconColorDimmed>cccccc</iconColorDimmed>
 			<opacityDimmed>1.0</opacityDimmed>
 		</helpsystem>
+		<systemstatus name="system-status">
+			<fontPath>${fontMedium}</fontPath>
+			<height>${systemMetadataFontSize}</height>
+		</systemstatus>
+		<clock name="clock">
+			<fontPath>${fontMedium}</fontPath>
+			<fontSize>${systemMetadataFontSize}</fontSize>
+		</clock>
 	</view>
 	<view name="system">
 		<image name="system-background">

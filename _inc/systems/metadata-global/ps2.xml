@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PlayStation 2</systemName>
         <systemDescription>The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and Australia on November 24, 2000. It is the successor to the original PlayStation, as well as the second installment in the PlayStation console line-up. A sixth-generation console, it competed with Sega's Dreamcast, Nintendo's GameCube, and Microsoft's original Xbox.
@@ -10,7 +10,7 @@ Announced in 1999, the PS2 offered backward-compatibility for its predecessor's 
         <systemReleaseDateFormated>March 4, 2000</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>2E69BE</systemColor>
+        <systemColor>2a68c3</systemColor>
         <systemColorPalette1>33438A</systemColorPalette1>
         <systemColorPalette2>0098DF</systemColorPalette2>
         <systemCartSize>1-1</systemCartSize>
@@ -126,6 +126,14 @@ PS2 lanserades 1999 och erbjöd bakåtkompatibilitet för föregångarens DualSh
             <systemDescription>PlayStation 2（PS2）是索尼电脑娱乐公司开发和销售的家用视频游戏机。它于 2000 年 3 月 4 日首次在日本发售，2000 年 10 月 26 日在北美发售，2000 年 11 月 24 日在欧洲发售，2000 年 11 月 24 日在澳大利亚发售。它是原 PlayStation 的后继机，也是 PlayStation 游戏机系列的第二款产品。作为第六代游戏机，它与世嘉的 Dreamcast、任天堂的 GameCube 和微软最初的 Xbox 竞争。
 
 PS2 于 1999 年发布，提供了对前代产品 DualShock 控制器及其游戏的向后兼容性。PS2 是有史以来最畅销的视频游戏机，全球销量超过 1.55 亿台。PS2 已推出 3,800 多款游戏，销量超过 15 亿份。索尼公司后来在 2004 年生产了几款体积更小、重量更轻的改版游戏机，被称为 "超薄机型"。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) 是 Sony Computer Entertainment 所開發及行銷的家用視訊遊戲主機。它於 2000 年 3 月 4 日首次在日本發售，2000 年 10 月 26 日在北美發售，2000 年 11 月 24 日在歐洲發售，2000 年 11 月 24 日在澳洲發售。它是原始 PlayStation 的後繼機種，也是 PlayStation 主機陣容的第二部份。作為第六代遊戲機，它與 Sega 的 Dreamcast、Nintendo 的 GameCube 以及 Microsoft 的原版 Xbox 競爭。
+
+PS2 於 1999 年發表，提供前代的 DualShock 控制器及其遊戲的向下相容性。PS2 是有史以來最暢銷的視訊遊戲主機，全球銷售量超過 1.55 億台。PS2 已推出超過 3,800 款遊戲，銷售量超過 15 億份。Sony 後來在 2004 年製造了幾款更小、更輕的遊戲機改版，稱為 Slimline 機型。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

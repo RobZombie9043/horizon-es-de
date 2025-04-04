@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Xbox 360</systemName>
         <systemDescription>The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series. It competed with Sony's PlayStation 3 and Nintendo's Wii as part of the seventh generation of video game consoles. It was officially unveiled on MTV on May 12, 2005, with detailed launch and game information announced later that month at the 2005 Electronic Entertainment Expo.
@@ -10,7 +10,7 @@ The Xbox 360 features an online service, Xbox Live, which was expanded from its 
         <systemReleaseDateFormated>November 22, 2005</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>243-340</systemCoverSize>
-        <systemColor>91B61C</systemColor>
+        <systemColor>91a919</systemColor>
         <systemColorPalette1>92C83E</systemColorPalette1>
         <systemColorPalette2>CECECE</systemColorPalette2>
         <systemColorPalette3>2FA74D</systemColorPalette3>
@@ -126,6 +126,14 @@ Xbox 360은 기존 Xbox에서 제공되던 온라인 서비스인 Xbox Live를 �
             <systemDescription>Xbox 360 是微软公司开发的家用视频游戏机。作为原 Xbox 的后继机，它是 Xbox 系列的第二款游戏机。作为第七代视频游戏机的一部分，它与索尼的 PlayStation 3 和任天堂的 Wii 竞争。它于 2005 年 5 月 12 日在 MTV 上正式亮相，并于当月晚些时候在 2005 年电子娱乐博览会上公布了详细的发布和游戏信息。
 
 Xbox 360 配备了在线服务 "Xbox Live"，该服务在原版 Xbox 的基础上进行了扩展，并在游戏机的生命周期内定期更新。Xbox Live 有免费和订阅两种，用户可以在线玩游戏；下载游戏（通过 Xbox Live Arcade）和游戏演示；通过 Xbox Music 和 Xbox Video 门户网站购买和播放音乐、电视节目和电影；以及通过媒体流应用程序访问第三方内容服务。除了在线多媒体功能外，它还允许用户从本地 PC 串流媒体。Xbox 还发布了一些外围设备，包括无线控制器、扩展硬盘存储和 Kinect 运动感应摄像头。这些附加服务和外围设备的发布帮助 Xbox 品牌从纯粹的游戏发展到涵盖所有多媒体，使其成为客厅计算娱乐的中心。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Xbox 360 是 Microsoft 開發的家用視訊遊戲主機。身為原版 Xbox 的後繼機種，它是 Xbox 系列的第二台主機。它與 Sony 的 PlayStation 3 和 Nintendo 的 Wii 同為第七代視訊遊戲主機的競爭對手。它於 2005 年 5 月 12 日在 MTV 正式亮相，並於同月稍後時間的 2005 電子娛樂展中公佈了詳細的發售與遊戲資訊。
+
+Xbox 360 具備線上服務 Xbox Live，此服務在原版 Xbox 的基礎上進行了擴充，並在主機使用期間定期進行更新。Xbox Live 分為免費和訂閱兩種，使用者可以線上玩遊戲；下載遊戲（透過 Xbox Live Arcade）和遊戲試玩版；透過 Xbox Music 和 Xbox Video 入口網站購買和串流音樂、電視節目和電影；以及透過媒體串流應用程式存取第三方內容服務。除了線上多媒體功能外，它也允許使用者從本機 PC 串流媒體。目前已發佈數款周邊設備，包括無線控制器、擴充硬碟儲存空間和 Kinect 動作感應攝影機。這些附加服務與週邊設備的推出，讓 Xbox 品牌從僅限於遊戲發展到涵蓋所有多媒體，成為客廳運算娛樂的中心。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

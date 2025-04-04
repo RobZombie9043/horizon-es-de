@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemDescription>Cave Story, originally released as Dōkutsu Monogatari, is a 2004 Metroidvania platform-adventure game for Microsoft Windows. It was developed over five years by Japanese independent developer Daisuke "Pixel" Amaya in his free time. Cave Story features 2D platform mechanics and is reminiscent of the games Amaya played in his youth, such as Metroid and Castlevania. After its initial self-published release, the game slowly gained popularity on the internet. It received widespread critical acclaim for many polished aspects of its design, such as its compelling characters, setting, story, and gameplay. Cave Story is considered by many as the quintessential indie game because of its one-person development team and influence on the video gaming world. NXENGINE is a complete open-source clone/rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story)</systemDescription>
         <systemManufacturer>Studio Pixel</systemManufacturer>
@@ -94,6 +94,12 @@
         <variables>
             <systemDescription>洞穴物语》（Cave Story）原名为《洞穴物语》（Dōkutsu Monogatari），是一款于 2004 年在微软 Windows 平台上推出的 Metroidvania 平台冒险游戏。该游戏由日本独立开发商天谷大辅（Daisuke "Pixel" Amaya）利用业余时间历时五年开发完成。Cave Story》采用 2D 平台机制，让人想起天谷年轻时玩过的游戏，如《Metroid》和《恶魔城》。这款游戏最初是自行发布的，后来慢慢在互联网上流行起来。这款游戏在设计上有许多精妙之处，如引人入胜的人物、场景、故事和游戏性等，因此获得了广泛的好评。洞穴物语》因其单人开发团队和在视频游戏界的影响力，被许多人视为典型的独立游戏。NXENGINE 是对《斗破苍穹》（又名《洞穴物语》）这款跳跃式跑酷平台游戏杰作的完全开源克隆/重写。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>洞穴物語》（Cave Story）原名為《Dōkutsu Monogatari》，是一款於 2004 年推出的 Metroidvania 平台冒險遊戲，適用於 Microsoft Windows。本遊戲由日本獨立開發者 Daisuke "Pixel" Amaya 利用空閒時間花了五年時間開發完成。Cave Story 採用 2D 平台機制，讓人聯想到 Amaya 年輕時玩過的遊戲，例如 Metroid 和 Castlevania。在最初自行發行之後，遊戲慢慢地在網際網路上受到歡迎。它在設計上有許多精良的地方，例如引人入勝的角色、設定、故事和遊戲性，因此獲得廣泛的好評。Cave Story》因其一人開發團隊和在電子遊戲界的影響力，被許多人認為是典型的獨立遊戲。NXENGINE 是一款完全開源複製/重寫的跳躍與奔跑平台遊戲大作《Doukutsu Monogatari》（也稱為《洞穴物語》）。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

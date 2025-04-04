@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>FM Towns</systemName>
         <systemDescription>The FM Towns (Japanese: エフエムタウンズ, Hepburn: Efu Emu Taunzu) is a Japanese personal computer built by Fujitsu from February 1989 to the summer of 1997. It started as a proprietary PC variant intended for multimedia applications and PC games, but later became more compatible with IBM PC compatibles. In 1993, the FM Towns Marty was released, a game console compatible with existing FM Towns games.
@@ -10,7 +10,7 @@ The "FM" part of the name means "Fujitsu Micro" like their earlier products, whi
         <systemReleaseDateFormated>February 28, 1989</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>6F90FE</systemColor>
+        <systemColor>6d8efd</systemColor>
         <systemColorPalette1>9D9D9D</systemColorPalette1>
         <systemColorPalette2>009971</systemColorPalette2>
         <systemColorPalette3>606875</systemColorPalette3>
@@ -127,6 +127,14 @@ Partea "FM" a numelui înseamnă "Fujitsu Micro", la fel ca produsele lor anteri
 
 FM "的意思是 "富士通微型"，就像他们早期的产品一样，而 "Towns "则来自于系统开发时的代号 "Townes"。这指的是 1964 年诺贝尔物理学奖得主之一查尔斯-汤斯（Charles Townes），富士通当时的习惯是用诺贝尔奖得主的名字为个人电脑产品命名。系统投产后，"Townes "中的 "e "被去掉，以便更清楚地表明该词的发音类似于 "towns"，而不是潜在的 "tow-nes"。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>FM Towns（日文：エフエムタウンズ，合本：Efu Emu Taunzu）是富士通於 1989 年 2 月至 1997 年夏季製造的日本個人電腦。它一開始是專為多媒體應用程式和個人電腦遊戲而設計的個人電腦變種，但後來變得與 IBM PC 相容。1993 年，FM Towns Marty 發表，這是一款與現有 FM Towns 遊戲相容的遊戲主機。
+
+名稱中的「FM」部分和早期的產品一樣，是「Fujitsu Micro」的意思，而「Towns」部分則來自於系統開發時的代號「Townes」。這指的是 1964 年諾貝爾物理學獎得主之一 Charles Townes，富士通當時的慣例是以諾貝爾物理學獎得主的名字為 PC 產品命名。系統投產後，"Townes 「中的 e 被去掉，以便更清楚地表明該詞的發音是 」towns「，而不是潛在的 」tow-nes"。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

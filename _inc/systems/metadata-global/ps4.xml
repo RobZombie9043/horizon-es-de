@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PlayStation 4</systemName>
         <systemDescription>The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Announced as the successor to the PlayStation 3 in February 2013, it was launched on November 15, 2013, in North America, November 29, 2013 in Europe, South America and Australia, and on February 22, 2014 in Japan. A console of the eighth generation, it competes with Microsoft's Xbox One and Nintendo's Wii U and Switch.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>November 15, 2013</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>1E74C2</systemColor>
+        <systemColor>166fc7</systemColor>
         <systemColorPalette1>18191E</systemColorPalette1>
         <systemColorPalette2>5B6171</systemColorPalette2>
         <systemColorPalette3>0123A1</systemColorPalette3>
@@ -96,6 +96,12 @@
     <language name="zh_CN">
         <variables>
             <systemDescription>PlayStation 4（PS4）是索尼互动娱乐公司开发的一款家用视频游戏机。它于 2013 年 2 月宣布成为 PlayStation 3 的后继机，2013 年 11 月 15 日在北美上市，2013 年 11 月 29 日在欧洲、南美和澳大利亚上市，2014 年 2 月 22 日在日本上市。作为第八代游戏机，它与微软的 Xbox One 以及任天堂的 Wii U 和 Switch 竞争。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PlayStation 4 (PS4) 是 Sony Interactive Entertainment 開發的家用視訊遊戲主機。於 2013 年 2 月宣布為 PlayStation 3 的後繼機種，並於 2013 年 11 月 15 日在北美、2013 年 11 月 29 日在歐洲、南美和澳洲，以及 2014 年 2 月 22 日在日本推出。作為第八代的遊戲機，它的競爭對手為 Microsoft 的 Xbox One 以及 Nintendo 的 Wii U 和 Switch。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

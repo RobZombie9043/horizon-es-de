@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Playdate</systemName>
         <systemDescription>Playdate is a handheld video game console developed by Panic. As well as buttons and a directional pad, the device has a mechanical crank on its side. The console was first announced on May 22, 2019 on the cover of Edge magazine, and was released on April 18, 2022. The name references its weekly release schedule of games.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>Playdate 是 Panic 开发的一款掌上视频游戏机。除了按钮和方向键外，该设备的侧面还有一个机械曲柄。该游戏机于 2019 年 5 月 22 日在《边缘》杂志封面上首次公布，并于 2022 年 4 月 18 日发布。该名称参考了其每周发布游戏的时间表。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Playdate 是由 Panic 開發的手持式視訊遊戲機。除了按鈕和方向鍵之外，裝置側面還有一個機械曲柄。該遊戲機于 2019 年 5 月 22 日首次在 Edge 雜誌封面上公佈，並於 2022 年 4 月 18 日發售。其名稱參考了其每週發售遊戲的時間表。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

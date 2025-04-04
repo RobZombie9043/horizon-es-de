@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PlayStation 3</systemName>
         <systemDescription>The PlayStation 3 (PS3) is a home video game console developed by Sony Computer Entertainment. It is the successor to PlayStation 2, and is part of the PlayStation brand of consoles. It was first released on November 11, 2006 in Japan, November 17, 2006 in North America, and March 23, 2007 in Europe and Australia. The PlayStation 3 competed primarily against Microsoft's Xbox 360 and Nintendo's Wii as part of the seventh generation of video game consoles.
@@ -10,7 +10,7 @@ The console was first officially announced at E3 2005, and was released at the e
         <systemReleaseDateFormated>November 11, 2006</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>135-172</systemCoverSize>
-        <systemColor>367EDB</systemColor>
+        <systemColor>317be1</systemColor>
         <systemColorPalette1>94B8F2</systemColorPalette1>
         <systemColorPalette2>1A15FF</systemColorPalette2>
         <systemColorPalette3>0095D5</systemColorPalette3>
@@ -126,6 +126,14 @@ Konsolen presenterades för första gången officiellt på E3 2005 och släpptes
             <systemDescription>PlayStation 3（PS3）是索尼电脑娱乐公司开发的一款家用视频游戏机。它是 PlayStation 2 的后继机，是 PlayStation 品牌游戏机的一部分。它于 2006 年 11 月 11 日在日本首次发布，2006 年 11 月 17 日在北美首次发布，2007 年 3 月 23 日在欧洲和澳大利亚首次发布。作为第七代视频游戏机的一部分，PlayStation 3 主要与微软的 Xbox 360 和任天堂的 Wii 竞争。
 
 该游戏机在 2005 年 E3 游戏展上首次正式公布，并于 2006 年底发布。它是第一款使用蓝光光盘作为主要存储介质的游戏机。该游戏机是第一款整合了社交游戏服务（包括 PlayStation Network）的 PlayStation 游戏机，也是第一款可通过远程连接 PlayStation Portable 和 PlayStation Vita 控制的掌上游戏机。2009 年 9 月，PlayStation 3 的超薄机型发布。它不再提供运行 PS2 游戏的硬件能力。它比原版更轻、更薄，徽标和营销设计也进行了重新设计，软件也进行了小幅升级。随后在 2012 年底又发布了超薄版，进一步完善和重新设计了游戏机。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PlayStation 3 (PS3) 是 Sony Computer Entertainment 開發的家用視訊遊戲主機。它是 PlayStation 2 的後繼機種，也是 PlayStation 主機品牌的一部分。它於 2006 年 11 月 11 日在日本、2006 年 11 月 17 日在北美、2007 年 3 月 23 日在歐洲和澳洲首次發售。PlayStation 3 的主要競爭對手為微軟的 Xbox 360 和任天堂的 Wii，是第七代視訊遊戲主機的一部分。
+
+這款遊戲機於 2005 年 E3 首次正式發表，並於 2006 年底發售。它是第一台使用藍光光碟作為主要儲存媒體的遊戲機。該控制台是第一台整合社交遊戲服務（包括 PlayStation Network）的 PlayStation，也是第一台可透過與 PlayStation Portable 及 PlayStation Vita 的遙控連接，從掌上型控制台進行控制的 PlayStation。2009 年 9 月，PlayStation 3 的 Slim 機型推出。它不再提供執行 PS2 遊戲的硬體能力。它比原版更輕、更薄，並採用重新設計的標誌與行銷設計，軟體也有輕微的啟動改變。之後在 2012 年末推出了 Super Slim 變異版，進一步完善並重新設計了遊戲機。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

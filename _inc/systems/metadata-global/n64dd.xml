@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>64DD</systemName>
         <systemDescription>The 64DD, colloquially referred to as the Nintendo 64DD, is a magnetic disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was originally announced in 1995, prior to the Nintendo 64's 1996 launch, and after numerous delays was finally released only in Japan on December 1, 1999. Only ten software titles were released until the unit was discontinued in February 2001. It was a commercial failure, with at least 15,000 total units sold and another 85,000 units unsold.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>December 1, 1999</systemReleaseDateFormated>
         <systemHardwareType>Peripheral</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>19B65F</systemColor>
+        <systemColor>0da25e</systemColor>
         <systemColorPalette1>DCAF36</systemColorPalette1>
         <systemColorPalette2>268340</systemColorPalette2>
         <systemColorPalette3>20317F</systemColorPalette3>
@@ -78,7 +78,7 @@
     <language name="sv_SE">
         <variables>
             <systemDescription>64DD, i dagligt tal kallad Nintendo 64DD, är en magnetisk hårddisk för spelkonsolen Nintendo 64 som utvecklats av Nintendo. Den presenterades ursprungligen 1995, före Nintendo 64:s lansering 1996, och efter många förseningar släpptes den slutligen endast i Japan den 1 december 1999. Endast tio mjukvarutitlar släpptes fram till dess att enheten avvecklades i februari 2001. Den var ett kommersiellt misslyckande, med minst 15.000 sålda enheter och ytterligare 85.000 osålda enheter.</systemDescription>
-            <systemHardwareType>Perifer</systemHardwareType>
+            <systemHardwareType>Tillbehör</systemHardwareType>
         </variables>
     </language>
     <language name="ja_JP">
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>64DD，俗称任天堂 64DD，是任天堂为任天堂 64 游戏机开发的磁盘驱动器外设。它最初于 1995 年任天堂 64 于 1996 年推出之前发布，经过多次推迟后，最终于 1999 年 12 月 1 日仅在日本发布。在 2001 年 2 月停产之前，只发行了 10 款软件。它在商业上是失败的，总销量至少为 15,000 台，另有 85,000 台未售出。</systemDescription>
             <systemHardwareType>外围设备</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>64DD，俗稱 Nintendo 64DD，是任天堂為 Nintendo 64 遊戲主機開發的磁碟機週邊。它最初於 1995 年，也就是任天堂 64 於 1996 年上市之前發表，經過多次延遲後，終於在 1999 年 12 月 1 日才在日本發行。直到 2001 年 2 月停產之前，只發行了 10 款軟體。它在商業上是失敗的，總銷售量至少只有 15,000 台，另有 85,000 台未售出。</systemDescription>
+            <systemHardwareType>周邊設備</systemHardwareType>
         </variables>
     </language>
 </theme>

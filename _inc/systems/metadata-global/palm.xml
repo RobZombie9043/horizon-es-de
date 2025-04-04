@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Palm</systemName>
         <systemDescription>The PalmPilot Personal and PalmPilot Professional are the second generation of Palm PDA devices produced by Palm Inc (then a subsidiary of U.S. Robotics, later 3Com). These devices were launched on March 10, 1997</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>PalmPilot Personal 和 PalmPilot Professional 是 Palm 公司（当时是 U.S. Robotics 的子公司，后来成为 3Com 公司）生产的第二代 Palm PDA 设备。这些设备于 1997 年 3 月 10 日推出</systemDescription>
             <systemHardwareType>操作系统</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PalmPilot Personal 和 PalmPilot Professional 是 Palm Inc（當時是 U.S. Robotics 的子公司，後來成為 3Com 的子公司）生產的第二代 Palm PDA 裝置。這些裝置於 1997 年 3 月 10 日推出</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
         </variables>
     </language>
 </theme>

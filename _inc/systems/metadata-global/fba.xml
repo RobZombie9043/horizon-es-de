@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>FinalBurn Alpha</systemName>
         <systemDescription>This source-available project is based on FinalBurn, created by Dave in 2000. It has been programmed by a team composed of Barry Harris (Old username: TrebleWinner), Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami and Ayeye.
@@ -156,6 +156,16 @@ FinalBurn은 최초의 Capcom CPS2 에뮬레이터 중 하나였습니다. 이 �
 FinalBurn 是最早的 Capcom CPS2 模拟器之一。该项目于 2001 年停止后，其源代码被广泛传播，从而开发出许多非官方版本，其中 FBA 是最成功的版本。
 
 与其他模拟器不同的是，FB Alpha 支持的系统非常多，而且界面清晰（像 Kawaks 一样简单），性能卓越。此外，FB Alpha 并不耗费资源，虽然菜单是英文的，但你不需要进行复杂的设置就能立即上手。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>這個可取得原始碼的專案是以 Dave 於 2000 年所創造的 FinalBurn 為基礎。它是由 Barry Harris (舊使用者名稱：TrebleWinner)、Jan_Klaassen、KEV、LoopMaster、Mike Haggar、Hyper Yagami 和 Ayeye 所組成的團隊所編寫。
+
+FinalBurn 是最早的 Capcom CPS2 模擬器之一。當這個專案在 2001 年終止時，其原始碼被廣泛散佈，允許開發許多非官方版本，其中 FBA 是最成功的版本。
+
+FB Alpha 與其他模擬器的不同之處在於支援的系統非常多，而且介面清晰（像 Kawaks 的介面一樣簡單）、效能優異。錦上添花；它並不耗費資源，而且您不需要沉溺於複雜的設定，就能立即上手，儘管它的選單是原生的英文。</systemDescription>
             <systemHardwareType>仿真器</systemHardwareType>
         </variables>
     </language>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Game Boy</systemName>
         <systemDescription>The Game Boy is an 8-bit handheld video game console developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe in 1990. In Southern Asia, it is known as the "Tata Game Boy" It is the first handheld console in the Game Boy line. It was created by Gunpei Yokoi and Nintendo's Research and Development — the same staff who had designed the Game &amp; Watch series as well as several popular games for the NES. The Game Boy was Nintendo's second handheld system following the Game &amp; Watch series introduced in 1980, and it combined features from both the Nintendo Entertainment System and Game and Watch. It was also the first handheld game to use video game cartridges since Milton Bradley's Microvision handheld console. It was originally bundled with the puzzle game Tetris. Despite many other, technologically superior handheld consoles introduced during its lifetime, the Game Boy was a tremendous success. The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide. Upon its release in the United States, it sold its entire shipment of one million units within weeks.</systemDescription>
@@ -8,7 +8,7 @@
         <systemReleaseDateFormated>April 21, 1989</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>3E518A</systemColor>
+        <systemColor>3c528d</systemColor>
         <systemColorPalette1>9B2063</systemColorPalette1>
         <systemColorPalette2>2D308E</systemColorPalette2>
         <systemColorPalette3>D9D9D9</systemColorPalette3>
@@ -97,6 +97,14 @@
         <variables>
             <systemDescription>Game Boy 是任天堂开发和制造的一款 8 位掌上视频游戏机。它于 1989 年 4 月 21 日在日本发布，1989 年 8 月在北美发布，1990 年在欧洲发布。在南亚，它被称为 "Tata Game Boy"，是 Game Boy 系列的第一款掌上游戏机。它是由横井群平（Gunpei Yokoi）和任天堂研发部门设计的。Game Boy 是任天堂继 1980 年推出 Game &amp; Watch 系列之后的第二款掌上系统，它融合了任天堂娱乐系统和 Game and Watch 的功能。它也是自 Milton Bradley 的 Microvision 掌上游戏机以来第一款使用视频游戏盒的掌上游戏。它最初与益智游戏《俄罗斯方块》捆绑在一起。尽管在其生命周期内推出了许多其他技术更优越的掌上游戏机，但 Game Boy 还是获得了巨大的成功。Game Boy 和 Game Boy Color 的全球总销量达到 1.1869 亿台。在美国发售时，几周内就售出了全部 100 万台。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game Boy 是任天堂開發製造的 8 位元掌上型遊戲機。它於 1989 年 4 月 21 日首次在日本發行，同年稍後在北美發行，並於 1990 年底在歐洲發行。它是由開發 Game &amp; Watch 系列掌上電子遊戲和多款 Nintendo Entertainment System (NES) 遊戲的同一團隊所設計：Satoru Okada、Gunpei Yokoi 和 Nintendo Research &amp; Development 1。
+
+這是自 Milton Bradley 的 Microvision 掌上遊戲機以來，第一款使用視訊遊戲卡帶的掌上遊戲。儘管在它的生命週期中有許多其他技術上更優異的掌上型遊戲機推出，Game Boy 仍然獲得了巨大的成功。Game Boy 和 Game Boy Color 在全球的總銷量達到 1.18 億台。在美國發售時，幾個星期內就售出了 100 萬台。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

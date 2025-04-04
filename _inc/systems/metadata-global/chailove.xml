@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>ChaiLove Framework</systemName>
         <systemDescription>ChaiLove is an awesome framework you can use to make 2D games in ChaiScript. It's free, open-source, and works on Windows, Mac OS X, Linux, Android, and ARM through libretro/RetroArch.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>ChaiLove 是一个超棒的框架，你可以用它在 ChaiScript 中制作 2D 游戏。它免费、开源，通过 libretro/RetroArch 可在 Windows、Mac OS X、Linux、Android 和 ARM 上运行。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>ChaiLove 是一個很棒的框架，您可以用它在 ChaiScript 中製作 2D 遊戲。它是免費、開放源碼的，可透過 libretro/RetroArch 在 Windows、Mac OS X、Linux、Android 和 ARM 上運作。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

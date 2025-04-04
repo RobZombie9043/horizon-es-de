@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Windows</systemName>
         <systemDescription>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. For example, Windows NT for consumers, Windows Server for servers, and Windows IoT for embedded systems. Defunct Windows families include Windows 9x, Windows Mobile, and Windows Phone.
@@ -10,7 +10,7 @@ The first version of Windows was released on November 20, 1985, as a graphical o
         <systemReleaseDateFormated>November 20, 1985</systemReleaseDateFormated>
         <systemHardwareType>OS</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>39B1DE</systemColor>
+        <systemColor>2da7e0</systemColor>
         <systemColorPalette1>F8682C</systemColorPalette1>
         <systemColorPalette2>91C300</systemColorPalette2>
         <systemColorPalette3>00B4F1</systemColorPalette3>
@@ -127,6 +127,14 @@ Windows의 첫 번째 버전은 1985년 11월 20일에 그래픽 사용자 인�
 
 Windows 的第一个版本于 1985 年 11 月 20 日发布，是 MS-DOS 的图形操作系统外壳，以响应人们对图形用户界面（GUI）日益增长的兴趣。</systemDescription>
             <systemHardwareType>操作系统</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Windows 是 Microsoft 開發和行銷的數個專屬圖形化作業系統系列。每個系列迎合電腦產業的特定領域。例如，Windows NT 適用於消費者，Windows Server 適用於伺服器，而 Windows IoT 則適用於嵌入式系統。已停產的 Windows 系列包括 Windows 9x、Windows Mobile 和 Windows Phone。
+
+Windows 的第一個版本於 1985 年 11 月 20 日發佈，是 MS-DOS 的圖形化作業系統外殼，以回應對圖形化使用者介面 (GUI) 與日俱增的興趣。</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Videopac</systemName>
         <systemDescription>The Magnavox Odyssey 2 (stylized as Magnavox Odyssey²), also known as Philips Odyssey 2, is a second generation home video game console that was released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey and in Japan as Odyssey2 (オデッセイ2 odessei2). The Odyssey 2 was one of the major three home consoles prior to the 1983 video game market crash, along with Atari 2600 and Intellivision.
@@ -12,7 +12,7 @@ In 2009, the video game website IGN named the Odyssey 2 the 21st greatest video 
         <systemReleaseDateFormated>December 1, 1978</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>f08211</systemColor>
+        <systemColor>38435e</systemColor>
         <systemColorPalette1>F6DD08</systemColorPalette1>
         <systemColorPalette2>800000</systemColorPalette2>
         <systemColorPalette3>FF0000</systemColorPalette3>
@@ -156,6 +156,16 @@ I början av 1970-talet var Magnavox pionjär inom videospel för hemmabruk geno
 20 世纪 70 年代初，Magnavox 成功地将第一台家用游戏机奥德赛推向市场，开创了家用视频游戏产业的先河。1978 年，Magnavox（现为北美飞利浦公司的子公司）决定推出全新的后继机--Odyssey 2。
 
 2009 年，视频游戏网站 IGN 将奥德赛 2 评为最伟大的 25 款视频游戏机中的第 21 款。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 (定名為 Magnavox Odyssey²)，也稱為 Philips Odyssey 2，是 1978 年推出的第二代家用視訊遊戲機。它在歐洲以 Philips Videopac G7000 出售，在巴西以 Philips Odyssey 出售，在日本以 Odyssey2 (オデッセイ2 odessei2) 出售。在 1983 年電視遊戲市場崩盤之前，Odyssey 2 與 Atari 2600 和 Intellivision 並列為三大家用遊戲機。
+
+20 世紀 70 年代初期，Magnavox 開創了家用視訊遊戲產業的先河，成功地將第一台家用遊戲機 Odyssey 推向市場，並迅速推出多款後來的機型，每款機型都有一些技術上的改進。1978 年，Magnavox（現為北美 Philips 的子公司）決定推出全新的後繼機種 Odyssey 2。
+
+2009 年，電玩遊戲網站 IGN 將 Odyssey 2 列為最偉大的 25 款電玩遊戲機中的第 21 位。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PlayStation</systemName>
         <systemDescription>The Sony PlayStation, or PS for short, is a fifth generation (1993–2005) home video game console developed and distributed by Sony Interactive Entertainment. It was released on December 3, 1994 in Japan at a retail price of ¥37,000. The console was later released in North America (1995), Europe (1995), Australia (1995), and Korea (1996). The PlayStation was known for standardizing disc based games over cartridges, as well as controllers with two analog sticks and vibration feedback. The console was discontinued on March 23, 2006.
@@ -10,7 +10,7 @@ PlayStation (Japanese: プレイステーション, Hepburn: Pureisutēshon, off
         <systemReleaseDateFormated>December 3, 1994</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>858B90</systemColor>
+        <systemColor>878b8f</systemColor>
         <systemColorPalette1>DC0029</systemColorPalette1>
         <systemColorPalette2>F1C002</systemColorPalette2>
         <systemColorPalette3>00A79B</systemColorPalette3>
@@ -126,6 +126,14 @@ PlayStation (japanska: プレイステーション, Hepburn: Pureisutēshon, off
             <systemDescription>索尼 PlayStation，简称 PS，是索尼互动娱乐公司开发和发行的第五代（1993-2005 年）家用视频游戏机。它于 1994 年 12 月 3 日在日本发布，零售价为 37,000 日元。该游戏机随后在北美（1995 年）、欧洲（1995 年）、澳大利亚（1995 年）和韩国（1996 年）发售。PlayStation 以光盘游戏标准化而非卡带游戏标准化而著称，同时还采用了带有两个模拟摇杆和振动反馈的控制器。该游戏机于 2006 年 3 月 23 日停产。
 
 PlayStation（日语：プレイステーション，合本：Pureisutēshon，正式缩写为 PS）是一个日本视频游戏品牌，由五台家用视频游戏机、一个媒体中心、一个在线服务、一系列控制器、两台掌上电脑和一部手机以及多种杂志组成。该品牌由索尼旗下的索尼互动娱乐公司生产，第一台游戏机于 1994 年 12 月以 PlayStation 的名义在日本发布，次年在全球发布。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sony PlayStation，簡稱 PS，是 Sony Interactive Entertainment 所開發與代理的第五代 (1993-2005) 家用視訊遊戲機。它於 1994 年 12 月 3 日在日本發售，零售價為 37,000 日圓。該遊戲機後來在北美（1995 年）、歐洲（1995 年）、澳洲（1995 年）和韓國（1996 年）發行。PlayStation 以標準化光碟遊戲而非卡帶遊戲，以及配備兩個類比搖桿和震動回饋的控制器而聞名。該控制台於 2006 年 3 月 23 日停產。
+
+PlayStation（日文：プレイステーション，合本：Pureisutēshon，正式簡稱 PS）是日本的視訊遊戲品牌，包含五部家用視訊遊戲主機、媒體中心、線上服務、一系列控制器、兩部掌上型裝置和一部電話，以及多種雜誌。該品牌由 Sony 旗下的 Sony Interactive Entertainment 所製作，第一台主機於 1994 年 12 月以 PlayStation 的名義在日本發售，並於翌年在全球發售。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

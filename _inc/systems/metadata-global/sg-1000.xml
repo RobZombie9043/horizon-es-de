@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>SG-1000</systemName>
         <systemDescription>The SG-1000 is a home video game console manufactured by Sega and released in Japan, Australia, New Zealand, and other regions. It was Sega's first entry into the home video game hardware business. Introduced in 1983, the SG-1000 was released on the same day that Nintendo released the Family Computer in Japan. The SG-1000 was released in several forms, including the SC-3000 computer and the redesigned SG-1000 II released in 1984. A third iteration of the console, the Sega Mark III, was released in 1985. It provided a custom video display processor over previous iterations and served as the basis for the Master System in 1986, Sega's first internationally released console.
@@ -10,7 +10,7 @@ Developed in response to a downturn in arcades in 1982, the SG-1000 was created 
         <systemReleaseDateFormated>July 15, 1983</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>48589F</systemColor>
+        <systemColor>4559a2</systemColor>
         <systemColorPalette1>FF0000</systemColorPalette1>
         <systemColorPalette2>17569B</systemColorPalette2>
         <systemColorPalette3>D4D6C9</systemColorPalette3>
@@ -126,6 +126,14 @@ SG-1000は、1982年のアーケード不況を受け、株式会社セガ・エ
             <systemDescription>SG-1000 是世嘉公司生产的家用视频游戏机，在日本、澳大利亚、新西兰和其他地区发行。它是世嘉首次进入家用视频游戏硬件领域。SG-1000 于 1983 年推出，与任天堂在日本发布家庭电脑的时间相同。SG-1000 曾以多种形式发布，包括 SC-3000 电脑和 1984 年发布的重新设计的 SG-1000 II。第三代控制台世嘉 Mark III 于 1985 年发布。与前几代产品相比，它提供了一个定制的视频显示处理器，并成为 1986 年世嘉首次在全球发布的游戏机 Master System 的基础。
 
 SG-1000 是为了应对 1982 年街机市场的低迷，在世嘉企业有限公司（Sega Enterprises, Ltd.）总裁中山隼雄（Hayao Nakayama）的建议下开发的。发售后不久，世嘉企业被出售给 CSK 公司，随后又发售了 SG-1000 II。SC-3000 和 SG-1000 系列都支持 76 款 ROM 卡带游戏和 29 款世嘉 My Card 游戏，所有这些游戏都与 Mark III 和日版 Master System 完全兼容。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>SG-1000 是世嘉製造的家用視訊遊戲機，在日本、澳洲、紐西蘭等地發行。它是 Sega 首次進入家用視訊遊戲機硬體領域。SG-1000 於 1983 年推出，與任天堂 (Nintendo) 在日本推出家庭電腦 (Family Computer) 的時間相同。SG-1000 以多種形式推出，包括 SC-3000 電腦以及 1984 年推出的重新設計的 SG-1000 II。第三代控制台 Sega Mark III 於 1985 年推出。與之前的版本相比，它提供了一個客製化的視訊顯示處理器，並成為 1986 年 Master System 的基礎，也是 Sega 首款在全球發行的控制台。
+
+SG-1000 是在 1982 年街機業不景氣的情況下，根據 Sega Enterprises, Ltd.（世嘉企業有限公司）總裁 Hayao Nakayama 的建議而開發的。發售後不久，Sega Enterprises 賣給了 CSK Corporation，隨後發表了 SG-1000 II。SC-3000 和 SG-1000 系列都支援 76 款 ROM 卡帶遊戲和 29 款 Sega My Card 遊戲庫，所有遊戲都與 Mark III 和日版 Master System 完全相容。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

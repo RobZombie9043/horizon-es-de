@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Dragon 32</systemName>
         <systemDescription>The Dragon 32 and Dragon 64 are home computers that were built in the 1980s. The Dragons are very similar to the TRS-80 Color Computer, and were produced for the European market by Dragon Data, Ltd., initially in Swansea, Wales before moving to Port Talbot, Wales (until 1984) and by Eurohard S.A. in Casar de Cáceres, Spain (from 1984 to 1987), and for the US market by Tano of New Orleans, Louisiana.
@@ -127,6 +127,14 @@ Modellnumren återspeglar den primära skillnaden mellan de två maskinerna, som
 
 型号反映了两款机器的主要区别，它们的内存分别为 32 和 64 千字节（32,768 和 65,536 字节）。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Dragon 32 和 Dragon 64 是製造於 1980 年代的家用電腦。Dragon 與 TRS-80 彩色電腦非常相似，由 Dragon Data, Ltd. 負責歐洲市場的生產，最初位於威爾斯的史雲斯 (Swansea)，後來遷到威爾斯的塔爾伯特港 (Port Talbot)（直到 1984 年），以及位於西班牙卡薩爾德卡塞雷斯 (Casar de Cáceres) 的 Eurohard S.A.（從 1984 年到 1987 年）；美國市場則由路易斯安那州新奧爾良的 Tano 負責生產。
+
+型號反映了兩款機器的主要差異，它們分別有 32 和 64 千位元組 (32,768 和 65,536 位元組) 的 RAM。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

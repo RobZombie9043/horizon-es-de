@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>WASM-4</systemName>
         <systemDescription>WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .wasm files that can be built with any programming language that compiles to WebAssembly.</systemDescription>
@@ -97,6 +97,12 @@
         <variables>
             <systemDescription>WASM-4 是一个低级幻想游戏控制台，用于使用 WebAssembly 构建小型游戏。游戏盒式磁带（ROM）是小型、独立的 .wasm 文件，可使用任何可编译为 WebAssembly 的编程语言构建。</systemDescription>
             <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>WASM-4 是一個低階幻想遊戲控制台，用於使用 WebAssembly 建立小型遊戲。遊戲盒 (ROM) 是小型、自成一格的 .wasm 檔案，可以使用任何編譯成 WebAssembly 的程式語言建立。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
         </variables>
     </language>
 </theme>

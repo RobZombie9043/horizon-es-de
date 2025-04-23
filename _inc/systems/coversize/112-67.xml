@@ -49,7 +49,7 @@
 			<view name="gamelist">			
 				<carousel name="game-carousel">		
 					<itemSize>0.487562189054726 0.388888888888889</itemSize>	
-					<maxItemCount>2</maxItemCount>	
+					<maxItemCount>1.5</maxItemCount>	
 					<selectedItemMargins>0.0243781094527363 0.0243781094527363</selectedItemMargins>	
 				</carousel>		
 			</view>			

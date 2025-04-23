@@ -13,7 +13,7 @@
 			<view name="gamelist">			
 				<carousel name="game-carousel">		
 					<itemSize>0.207935142711519 0.388888888888889</itemSize>	
-					<maxItemCount>3</maxItemCount>	
+					<maxItemCount>4</maxItemCount>	
 					<selectedItemMargins>0.0103967571355759 0.0103967571355759</selectedItemMargins>	
 				</carousel>		
 			</view>			
@@ -49,7 +49,7 @@
 			<view name="gamelist">			
 				<carousel name="game-carousel">		
 					<itemSize>0.249522171253823 0.388888888888889</itemSize>	
-					<maxItemCount>3</maxItemCount>	
+					<maxItemCount>4</maxItemCount>	
 					<selectedItemMargins>0.0124761085626911 0.0124761085626911</selectedItemMargins>	
 				</carousel>		
 			</view>			
@@ -76,7 +76,7 @@
 			<view name="gamelist">			
 				<carousel name="game-carousel">		
 					<itemSize>0.221797485558954 0.388888888888889</itemSize>	
-					<maxItemCount>3</maxItemCount>	
+					<maxItemCount>4</maxItemCount>	
 					<selectedItemMargins>0.0110898742779477 0.0110898742779477</selectedItemMargins>	
 				</carousel>		
 			</view>			

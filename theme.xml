@@ -15,19 +15,7 @@ license:      	creative commons CC-BY-NC-SA
 		<fontMedium>./_inc/fonts/Montserrat-Medium.ttf</fontMedium>
 		<fontCondensed>./_inc/fonts/RobotoCondensed-Medium.ttf</fontCondensed>
 	</variables>
-	
-	<colorScheme name="default">
-        <variables>
-			<artworkFolder>./_inc/systems/artwork/${system.theme}.jpg</artworkFolder>
-			<fallbackImage>./_inc/systems/artwork/_default.png</fallbackImage>
-		</variables>
-    </colorScheme>
-	<colorScheme name="custom">
-        <variables>
-			<artworkFolder>./theme-customizations/artwork/${system.theme}.jpg</artworkFolder>
-			<fallbackImage>./_inc/systems/artwork/${system.theme}.jpg</fallbackImage>
-		</variables>
-    </colorScheme>
+	<include>./colors.xml</include>
 	
 	<!--
 	///
@@ -41,8 +29,8 @@ license:      	creative commons CC-BY-NC-SA
 			<size>1 1</size>
 			<path>${spacerImage}</path>
 			<tile>true</tile>
-			<color>${systemColor}</color>
-			<colorEnd>${systemColor}4D</colorEnd>
+			<color>${backgroundColor}</color>
+			<colorEnd>${backgroundColorEnd}</colorEnd>
 			<gradientType>vertical</gradientType>
 			<zIndex>1</zIndex>
 		</image>
@@ -278,8 +266,8 @@ license:      	creative commons CC-BY-NC-SA
 				<lineSpacing>1.75</lineSpacing>
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>ffffff</secondaryColor>
-				<selectedColor>${systemColor}</selectedColor>
-				<selectedSecondaryColor>${systemColor}</selectedSecondaryColor>
+				<selectedColor>${backgroundColor}</selectedColor>
+				<selectedSecondaryColor>${backgroundColor}</selectedSecondaryColor>
 				<selectedBackgroundColor>ffffff</selectedBackgroundColor>
 				<selectedSecondaryBackgroundColor>ffffff</selectedSecondaryBackgroundColor>
 				<selectedBackgroundMargins>0.013 0.013</selectedBackgroundMargins>

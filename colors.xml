@@ -1,0 +1,31 @@
+<theme>
+	<!--
+	///
+	Color Schemes
+	///
+	-->	
+	<colorScheme name="default">
+        <variables>
+			<artworkFolder>./_inc/systems/artwork/${system.theme}.jpg</artworkFolder>
+			<fallbackImage>./_inc/systems/artwork/_default.png</fallbackImage>
+			<backgroundColor>${systemColor}</backgroundColor>
+			<backgroundColorEnd>${systemColor}4D</backgroundColorEnd>
+		</variables>
+    </colorScheme>
+	<colorScheme name="oled">
+        <variables>
+			<artworkFolder>./_inc/systems/artwork/${system.theme}.jpg</artworkFolder>
+			<fallbackImage>./_inc/systems/artwork/_default.png</fallbackImage>
+			<backgroundColor>000000</backgroundColor>
+			<backgroundColorEnd>000000</backgroundColorEnd>
+		</variables>
+    </colorScheme>
+	<colorScheme name="custom">
+        <variables>
+			<artworkFolder>./theme-customizations/artwork/${system.theme}.jpg</artworkFolder>
+			<fallbackImage>./_inc/systems/artwork/${system.theme}.jpg</fallbackImage>
+			<backgroundColor>${systemColor}</backgroundColor>
+			<backgroundColorEnd>${systemColor}4D</backgroundColorEnd>
+		</variables>
+    </colorScheme>
+</theme>

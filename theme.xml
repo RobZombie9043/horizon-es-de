@@ -141,6 +141,31 @@ license:      	creative commons CC-BY-NC-SA
    
 	<!--
 	///
+	Gamelist View - Common
+	///
+	-->
+	<view name="gamelist">
+		<image name="game-background">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<imageType>fanart, screenshot</imageType>
+			<zIndex>2</zIndex>
+			<visible>${gameBackgroundVisible}</visible>
+		</image>
+		<image name="game-background-overlay">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>${spacerImage}</path>
+			<tile>true</tile>
+			<color>00000080</color>
+			<zIndex>3</zIndex>
+		</image>
+	</view>
+	
+	<!--
+	///
 	Gamelist View: Carousel
 	///
 	-->

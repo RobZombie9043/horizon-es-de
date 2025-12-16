@@ -10,6 +10,7 @@
 			<fallbackImage>./_inc/systems/artwork/_default.png</fallbackImage>
 			<backgroundColor>${systemColor}</backgroundColor>
 			<backgroundColorEnd>${systemColor}4D</backgroundColorEnd>
+			<gameBackgroundVisible>false</gameBackgroundVisible>
 		</variables>
     </colorScheme>
 	<colorScheme name="oled">
@@ -18,6 +19,16 @@
 			<fallbackImage>./_inc/systems/artwork/_default.png</fallbackImage>
 			<backgroundColor>000000</backgroundColor>
 			<backgroundColorEnd>000000</backgroundColorEnd>
+			<gameBackgroundVisible>false</gameBackgroundVisible>
+		</variables>
+    </colorScheme>
+	<colorScheme name="game">
+        <variables>
+			<artworkFolder>./_inc/systems/artwork/${system.theme}.jpg</artworkFolder>
+			<fallbackImage>./_inc/systems/artwork/_default.png</fallbackImage>
+			<backgroundColor>${systemColor}</backgroundColor>
+			<backgroundColorEnd>${systemColor}4D</backgroundColorEnd>
+			<gameBackgroundVisible>true</gameBackgroundVisible>
 		</variables>
     </colorScheme>
 	<colorScheme name="custom">
@@ -26,6 +37,7 @@
 			<fallbackImage>./_inc/systems/artwork/${system.theme}.jpg</fallbackImage>
 			<backgroundColor>${systemColor}</backgroundColor>
 			<backgroundColorEnd>${systemColor}4D</backgroundColorEnd>
+			<gameBackgroundVisible>false</gameBackgroundVisible>
 		</variables>
     </colorScheme>
 </theme>

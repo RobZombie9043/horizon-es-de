@@ -98,7 +98,10 @@
     </colorScheme>
 	<colorScheme name="oled">
         <label>OLED</label>
-    </colorScheme>	
+    </colorScheme>
+	<colorScheme name="game">
+        <label>Game Media</label>
+    </colorScheme>
 	<colorScheme name="custom">
         <label>Custom</label>
     </colorScheme>
